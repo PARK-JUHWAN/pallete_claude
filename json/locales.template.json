@@ -1,0 +1,12 @@
+{
+  "en-US": {
+    "name": "ASO_OPTIMIZED_NAME_30_CHARS",
+    "subtitle": "ASO_KEYWORDS_RICH_SUBTITLE_30_CHARS",
+    "promotional_text": "ASO_KEYWORDS_RICH_PROMO_170_CHARS",
+    "description": "ASO_KEYWORDS_RICH_DESCRIPTION_4000_CHARS_INCLUDING_EULA_LINK_AT_END",
+    "keywords": "search,terms,comma,separated,100,chars,total",
+    "subscription_name": "SUBSCRIPTION_NAME_30_CHARS",
+    "subscription_display_name": "DISPLAY_NAME_30_CHARS",
+    "subscription_description": "SUBSCRIPTION_DESCRIPTION_1000_CHARS"
+  }
+}
