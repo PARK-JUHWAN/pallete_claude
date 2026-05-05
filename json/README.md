@@ -55,17 +55,42 @@ json/
 ├── README.md                    ← 본 파일 (출발점)
 ├── TRANSLATION_GUIDE.md         ← ASO 키워드 가이드 + 분할 전략
 ├── locales.template.json        ← JSON 빈 템플릿
-└── verify_locales.py            ← JSON 검증 스크립트
+├── verify_locales.py            ← JSON 검증 스크립트
+├── source/                      ← 영문 메타데이터 JSON (사용자 준비)
+│   └── en-US.json
+└── locales.json                 ← 결과물 (Claude 자동 생성)
 ```
+
+---
+
+## source/en-US.json 형식
+
+사용자(osk)가 작성하는 입력 파일.
+
+```json
+{
+  "en-US": {
+    "name": "App Name (30 chars max)",
+    "subtitle": "Subtitle (30 chars max)",
+    "promotional_text": "Promotional text (170 chars max)",
+    "description": "Full description (4000 chars max, including EULA link at end)",
+    "keywords": "keyword1,keyword2,keyword3 (100 chars max, comma-separated)",
+    "subscription_name": "Subscription name (30 chars max)",
+    "subscription_display_name": "Display name (30 chars max)",
+    "subscription_description": "Subscription description (1000 chars max)"
+  }
+}
+```
+
+8개 키 모두 필수. 영문 ASO 키워드 강하게 작성 권장.
 
 ---
 
 ## 작업 순서 (다른 Claude 가 받았을 때)
 
 ### 1단계: 입력 자료 확인
-osk 가 작성한 영문 스토어 텍스트 파일 (예: `0_store_en_US.txt`).
-7섹션 구조: 프로모션 / 설명 / 키워드 / 이름 / 부제 / 구독 / 스크린샷.
-스크린샷 텍스트는 본 작업 제외 (트랙 C 별도).
+`json/source/en-US.json` 파일 존재 확인.
+없으면 osk 에게 요청.
 
 ### 2단계: TRANSLATION_GUIDE.md 숙지
 ASO 키워드 원칙, 위험 단어, 글자수 한도, 분할 전략 확인.
@@ -81,15 +106,15 @@ ASO 키워드 원칙, 위험 단어, 글자수 한도, 분할 전략 확인.
 
 osk 가 도메인 핵심 키워드 (영문 5-10개) 를 미리 줬다면 그걸 각 언어로 의역 X / 검색어 매핑.
 
-### 4단계: 템플릿 복사
+### 4단계: 템플릿 복사 + en-US 채우기
 ```bash
 cp locales.template.json locales.json
 ```
 
-### 5단계: en-US 채우기
-영문 베이스를 ASO 키워드 강한 표현으로. `name` / `keywords` 에 핵심 키워드 집중.
+`source/en-US.json` 의 영문 메타데이터를 `locales.json` 의 `"en-US"` 키에 그대로 박기.
+`name` 30자 / `keywords` 100자 에 검색 키워드 집중.
 
-### 6단계: 38개 비영어 locale 작성 (ASO 키워드 중심)
+### 5단계: 38개 비영어 locale 작성 (ASO 키워드 중심)
 5개씩 분할 (timeout 회피):
 - 그룹 1 (검수 5국): ko, ja, zh-Hans, es-MX, de-DE
 - 그룹 2~7: 5개씩
@@ -98,7 +123,7 @@ cp locales.template.json locales.json
 각 그룹 작성 후 main commit + push 권장.
 **검수 5국 (그룹 1) 은 osk 직접 검토 후 OK 받아야 다음 그룹 진행.**
 
-### 7단계: 검증
+### 6단계: 검증
 ```bash
 python verify_locales.py locales.json
 ```
@@ -107,7 +132,7 @@ PASS 받으면 완료.
 ⚠️ verify_locales.py 는 글자수 / JSON 구조 / 영문 위험 단어만 검증.
 **ASO 품질 (검색어 적합성) 은 osk 직접 검수 영역.**
 
-### 8단계: ASC 업로드
+### 7단계: ASC 업로드
 별도 스크립트 (`upload_to_asc.py`) 사용. 본 폴더에는 미포함.
 osk 가 ASC API .p8 + Issuer ID + Key ID 보유 시 작성 가능.
 
@@ -131,7 +156,7 @@ ar, he, hi, th, vi, id, ms, tr, ka
 ## 다른 앱에서 재사용
 
 본 폴더 통째로 fork → 다른 앱 repo 에 박기.
-입력 텍스트 (`0_store_en_US.txt`) 만 갈아끼우면 끝.
+입력 파일 (`source/en-US.json`) 만 갈아끼우면 끝.
 TRANSLATION_GUIDE / verify_locales / locales.template 그대로 사용 가능.
 
 ⚠️ 단 도메인 (파충류 사육 / 임신 / 피트니스 등) 별로 ASO 키워드는 다르므로,

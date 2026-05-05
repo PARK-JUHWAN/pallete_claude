@@ -2,7 +2,7 @@
 
 다국어 App Store 스크린샷 자동 생성 시스템.
 
-번역된 텍스트(언어 N개, 각 6줄)를 받아 mockup 이미지 위에 폰트로 합성하여 App Store 업로드용 PNG를 생성한다.
+영문 슬로건 JSON과 mockup 이미지를 받아 N개 언어의 PNG (각 6장) 를 자동 생성한다.
 
 - iPhone: 1242 x 2688 (3장)
 - iPad: 2048 x 2732 (3장)
@@ -23,13 +23,15 @@
 │   ├── ipad_1.png
 │   ├── ipad_2.png
 │   └── ipad_3.png
-├── output/                     # 텍스트 분할 결과 (사용자 준비)
+├── source/                     # 영문 슬로건 JSON (사용자 준비)
+│   └── en-US.json              # slogan_1, slogan_2, slogan_3 (각 2줄)
+├── output/                     # 언어별 텍스트 폴더 (Claude 자동 생성)
 │   ├── 1_xx/
 │   │   ├── 1_xx_1.txt          # 1번 PNG에 들어갈 2줄
 │   │   ├── 1_xx_2.txt          # 2번 PNG에 들어갈 2줄
 │   │   └── 1_xx_3.txt          # 3번 PNG에 들어갈 2줄
 │   └── ... (언어별 폴더)
-├── screenshots/                # 결과물 (스크립트가 생성)
+├── screenshots/                # 결과물 (스크립트 자동 생성)
 │   └── {번호}_{언어코드}/
 │       ├── {번호}_{언어코드}_iphone_1.png
 │       ├── {번호}_{언어코드}_iphone_2.png
@@ -45,6 +47,61 @@
 ├── LESSONS_LEARNED.md
 └── requirements.txt
 ```
+
+---
+
+## source/en-US.json 형식
+
+사용자가 작성하는 입력 파일.
+
+```json
+{
+  "en-US": {
+    "slogan_1": [
+      "First line of slogan 1",
+      "Second line of slogan 1"
+    ],
+    "slogan_2": [
+      "First line of slogan 2",
+      "Second line of slogan 2"
+    ],
+    "slogan_3": [
+      "First line of slogan 3",
+      "Second line of slogan 3"
+    ]
+  }
+}
+```
+
+각 슬로건은 정확히 2줄. 1, 2, 3번 PNG 슬롯에 각각 매핑.
+
+---
+
+## Claude 작업 흐름
+
+### 1. source/en-US.json 분석
+영문 슬로건 3개 의도 파악. ASO 핵심 키워드 추출.
+
+### 2. N개 언어 ASO 번역
+각 언어권 사용자가 실제 검색하는 단어 중심 재구성.
+- 직역 / 의역 금지
+- ASO 키워드 우선
+- 자세한 ASO 원칙은 `json/TRANSLATION_GUIDE.md` 참고
+
+### 3. output/ 폴더 자동 생성
+번역된 결과를 텍스트 파일로 저장:
+
+```
+output/{번호}_{언어}/{번호}_{언어}_1.txt   ← slogan_1 번역 (2줄)
+output/{번호}_{언어}/{번호}_{언어}_2.txt   ← slogan_2 번역 (2줄)
+output/{번호}_{언어}/{번호}_{언어}_3.txt   ← slogan_3 번역 (2줄)
+```
+
+⚠️ 언어 코드는 underscore (`es_MX`, `pt_BR`, `zh_Hans`).
+ASC API는 hyphen 사용하니 변환 주의.
+
+### 4. make_screenshots.py 실행
+output/ 의 각 텍스트를 mockup에 합성하여 screenshots/ 에 PNG 저장.
 
 ---
 
@@ -358,14 +415,15 @@ screenshots/
 
 ```
 1. requirements.txt 통해 의존성 설치 (Pillow, python-bidi, arabic-reshaper)
-2. fonts/ 폴더에 ttf 파일 준비
-3. ingredient/ 폴더에 mockup PNG 6장 준비
-4. output/ 폴더에 언어별 텍스트 폴더 만들기
-5. make_screenshots.py 의 LANG_TO_FONT 수정
-6. 1개 언어 테스트: python make_screenshots.py --lang 1_xx
-7. 결과 확인 (시각적 검수 권장)
-8. 전체 실행: python make_screenshots.py
-9. 검증: python verify_screenshots.py
+2. fonts/ 폴더에 ttf 파일 준비 (사용자)
+3. ingredient/ 폴더에 mockup PNG 6장 준비 (사용자)
+4. source/en-US.json 작성 (사용자) — slogan_1~3 각 2줄
+5. Claude 가 N개 언어 ASO 번역 → output/ 자동 생성
+6. make_screenshots.py 의 LANG_TO_FONT 확인
+7. 1개 언어 테스트: python make_screenshots.py --lang 1_xx
+8. 결과 확인 (시각적 검수 권장)
+9. 전체 실행: python make_screenshots.py
+10. 검증: python verify_screenshots.py
 ```
 
 ---

@@ -12,7 +12,7 @@ App Store 다국어 출시를 위한 두 가지 자동화 도구를 제공하는
 
 **다국어 App Store 스크린샷 자동 생성.**
 
-- 입력: mockup PNG 6장 + 언어별 텍스트 파일
+- 입력: mockup PNG 6장 + 영문 슬로건 JSON (`source/en-US.json`)
 - 출력: 언어 × 6장 PNG (iPhone 3장 + iPad 3장)
 - 처리: 폰트 자동 매핑, 그림자 합성, 자동 줄바꿈, RTL 처리
 
@@ -28,9 +28,9 @@ App Store 다국어 출시를 위한 두 가지 자동화 도구를 제공하는
 
 **App Store Connect (ASC) 메타데이터 39개국 번역.**
 
-- 입력: 영문 스토어 텍스트 (subtitle, description, promo 등)
+- 입력: 영문 메타데이터 JSON (`source/en-US.json`)
 - 출력: `locales.json` (39개 locale 통합 파일)
-- 처리: 번역 규칙 적용, 글자수 한도 검증, 위험 단어 검출
+- 처리: ASO 키워드 중심 재구성, 글자수 한도 검증, 위험 단어 검출
 
 지원 항목:
 - ASC 8개 키 (name, subtitle, promotional_text, description 등)
@@ -46,10 +46,9 @@ App Store 다국어 출시를 위한 두 가지 자동화 도구를 제공하는
 
 | 항목 | 스크린샷 | JSON 번역 |
 |------|----------|-----------|
-| 입력 | mockup PNG + 텍스트 txt | 영문 스토어 텍스트 |
-| 출력 | PNG 파일들 | locales.json 1개 |
+| 입력 | `screenshot/source/en-US.json` + mockup PNG 6장 | `json/source/en-US.json` |
+| 출력 | PNG 파일들 (`screenshot/screenshots/`) | `json/locales.json` |
 | 도구 | Pillow, python-bidi | json 표준 라이브러리 |
-| 결과물 위치 | `screenshot/screenshots/` | `json/locales.json` |
 | ASC 업로드 방식 | App Store Connect 화면 수동/fastlane | ASC API 자동 PUT (별도 스크립트) |
 
 서로 영향 안 줌. 둘 다 할 수도, 하나만 할 수도 있다.
@@ -82,16 +81,34 @@ pallete_claude/
 │   ├── make_screenshots.py
 │   ├── verify_screenshots.py
 │   ├── requirements.txt
-│   ├── fonts/                         ← 폰트 파일
-│   ├── ingredient/                    ← mockup PNG 6장
-│   └── output/                        ← 언어별 텍스트 폴더
+│   ├── fonts/                         ← 폰트 파일 (사용자 준비)
+│   ├── source/                        ← 영문 슬로건 JSON (사용자 준비)
+│   │   └── en-US.json
+│   ├── ingredient/                    ← mockup PNG 6장 (사용자 준비)
+│   ├── output/                        ← 언어별 텍스트 폴더 (Claude 자동 생성)
+│   └── screenshots/                   ← 결과물 PNG (스크립트 자동 생성)
 │
 └── json/                              ← JSON 번역 공장
     ├── README.md                      ← 번역 작업 출발점
     ├── TRANSLATION_GUIDE.md
     ├── locales.template.json
-    └── verify_locales.py
+    ├── verify_locales.py
+    ├── source/                        ← 영문 메타데이터 JSON (사용자 준비)
+    │   └── en-US.json
+    └── locales.json                   ← 결과물 (Claude 자동 생성)
 ```
+
+---
+
+## 사용자 vs Claude 역할 분담
+
+| 역할 | 사용자(osk)가 준비 | Claude가 자동 생성 |
+|------|--------------------|--------------------|
+| 스크린샷 | `source/en-US.json` (영문 슬로건)<br>`ingredient/` (mockup PNG 6장)<br>`fonts/` (ttf 파일) | `output/` (언어별 텍스트 39국)<br>`screenshots/` (PNG 결과물) |
+| JSON 번역 | `source/en-US.json` (영문 메타데이터) | `locales.json` (39국 통합) |
+
+→ 사용자는 **`source/` 폴더 + 재료 (mockup, fonts)** 만 준비.
+→ 나머지는 Claude / Claude Code 가 자동 처리.
 
 ---
 
@@ -102,9 +119,9 @@ pallete_claude/
 새 앱 작업 시:
 1. 이 레포 fork (또는 zip 복사)
 2. 앱별 데이터만 교체:
-   - `screenshot/ingredient/` 에 새 mockup PNG
-   - `screenshot/output/` 에 새 언어별 텍스트
-   - `json/locales.json` 에 새 앱 메타데이터
+   - `screenshot/source/en-US.json` → 새 앱 슬로건
+   - `screenshot/ingredient/` → 새 mockup PNG 6장
+   - `json/source/en-US.json` → 새 앱 메타데이터
 3. 정책/스크립트는 수정 불필요 (검증된 v3 정책)
 
 **시행착오는 다 해놨다.** 새 프로젝트는 처음부터 100% 성공 가능.

@@ -6,7 +6,7 @@
 
 ## 이 패키지는 무엇인가
 
-번역된 텍스트를 받아서 mockup 이미지 위에 폰트로 합성하여 App Store 업로드용 PNG를 자동 생성하는 도구이다.
+영문 슬로건 JSON과 mockup 이미지를 받아서 39개국 (또는 N개국) 스크린샷 PNG를 자동 생성하는 도구이다.
 
 - iPhone: 1242 x 2688 (3장)
 - iPad: 2048 x 2732 (3장)
@@ -23,22 +23,24 @@
 
 ---
 
-## 사용자가 준비할 것
+## 사용자 vs Claude 역할 분담
 
-```
-palette_template/
-├── fonts/          ← ttf 파일들 넣기 (사용자 준비)
-├── ingredient/     ← mockup PNG 6장 넣기 (사용자 준비)
-└── output/         ← 언어별 텍스트 폴더 만들기 (사용자 준비)
-```
+| 폴더 | 사용자(osk)가 준비 | Claude / Claude Code가 자동 생성 |
+|------|--------------------|----------------------------------|
+| `fonts/` | ✅ ttf 파일 | — |
+| `ingredient/` | ✅ mockup PNG 6장 | — |
+| `source/` | ✅ 영문 슬로건 JSON (`en-US.json`) | — |
+| `output/` | — | ✅ 언어별 텍스트 폴더 (source 보고 ASO 번역) |
+| `screenshots/` | — | ✅ PNG 결과물 (스크립트 자동 생성) |
 
-이 3가지 폴더만 채우면 나머지는 자동.
+→ **사용자는 fonts / ingredient / source 3개만 채우면 끝.**
+→ output 과 screenshots 는 자동 생성됨.
 
 ---
 
 ## 시작 가이드 (5단계)
 
-### 1단계: 폰트 준비
+### 1단계: 폰트 준비 (`fonts/`)
 
 `fonts/` 폴더에 필요한 ttf 파일을 넣는다.
 
@@ -62,7 +64,7 @@ palette_template/
 
 각 zip 안에서 `static/` 폴더의 `*-Black.ttf` 만 추출해서 `fonts/` 에 넣는다.
 
-### 2단계: Mockup 준비
+### 2단계: Mockup 준비 (`ingredient/`)
 
 `ingredient/` 폴더에 다음 6장 PNG를 넣는다:
 
@@ -81,22 +83,52 @@ ingredient/
 - 배경색 + 폰 mockup이 합성된 상태
 - 텍스트가 들어갈 상단 공간이 비어있음
 
-### 3단계: 텍스트 준비
+### 3단계: 영문 슬로건 준비 (`source/`)
 
-`output/` 폴더에 언어별 폴더를 만든다.
+`source/en-US.json` 파일을 작성한다. 형식:
 
+```json
+{
+  "en-US": {
+    "slogan_1": [
+      "First line of slogan 1",
+      "Second line of slogan 1"
+    ],
+    "slogan_2": [
+      "First line of slogan 2",
+      "Second line of slogan 2"
+    ],
+    "slogan_3": [
+      "First line of slogan 3",
+      "Second line of slogan 3"
+    ]
+  }
+}
 ```
-output/
-├── 1_en/
-│   ├── 1_en_1.txt    (1번째 PNG에 들어갈 2줄)
-│   ├── 1_en_2.txt    (2번째 PNG에 들어갈 2줄)
-│   └── 1_en_3.txt    (3번째 PNG에 들어갈 2줄)
-├── 2_ko/
-│   ├── 2_ko_1.txt
-│   ├── 2_ko_2.txt
-│   └── 2_ko_3.txt
-└── ...
-```
+
+- `slogan_1` ~ `slogan_3`: 각 슬로건은 정확히 2줄
+- 각 슬로건이 1, 2, 3번 PNG에 들어감
+- 영문 ASO 키워드 강하게 작성 권장
+
+### 4단계: Claude / Claude Code 가 자동 처리
+
+사용자가 위 3개 폴더(fonts, ingredient, source) 채우면 Claude 가:
+
+1. **`source/en-US.json` 분석** → 영문 슬로건 의도 파악
+2. **N개 언어 ASO 번역** → 각 언어권 검색 키워드 중심 재구성
+3. **`output/` 폴더 자동 생성**:
+   ```
+   output/
+   ├── 1_en/
+   │   ├── 1_en_1.txt    (slogan_1의 2줄)
+   │   ├── 1_en_2.txt    (slogan_2의 2줄)
+   │   └── 1_en_3.txt    (slogan_3의 2줄)
+   ├── 2_ko/
+   │   ├── 2_ko_1.txt
+   │   ├── 2_ko_2.txt
+   │   └── 2_ko_3.txt
+   └── ...
+   ```
 
 **규칙:**
 - 폴더명 형식: `{번호}_{언어코드}` (예: `1_en`, `15_es_MX`, `29_zh_Hans`)
@@ -104,22 +136,12 @@ output/
 - 각 txt 파일은 **정확히 2줄** (UTF-8, BOM 없음)
 - 빈 줄 없음
 
-### 4단계: 폰트 매핑 수정
+⚠️ **언어 코드는 underscore 유지** (`es_MX`, `pt_BR`, `zh_Hans`).
+ASC API 는 hyphen (`es-MX`) 사용하므로 변환 주의.
 
-`make_screenshots.py` 의 `LANG_TO_FONT` 딕셔너리에 사용할 언어를 매핑한다.
+### 5단계: 합성 실행
 
-```python
-LANG_TO_FONT = {
-    "en": "NotoSans-Black.ttf",
-    "ko": "NotoSansKR-Black.ttf",
-    "ja": "NotoSansJP-Black.ttf",
-    # ... 사용할 언어 모두 추가
-}
-```
-
-언어 코드는 `output/` 폴더 안의 폴더명과 일치해야 한다 (`1_en` → 키 `en`).
-
-### 5단계: 실행
+`make_screenshots.py` 의 `LANG_TO_FONT` 딕셔너리에 사용 언어 매핑 확인 후:
 
 ```bash
 pip install -r requirements.txt

@@ -1,6 +1,6 @@
 # ingredient/
 
-이 폴더에 mockup PNG 6장을 넣으세요.
+이 폴더에 **mockup PNG 6장만** 넣으세요. JSON 파일은 `source/` 폴더로 이동.
 
 ## 필요한 파일
 
@@ -38,3 +38,15 @@ App Store는 정확한 픽셀 크기를 요구합니다:
 - iPad: 좌우 200px, 위 200px, 아래 1850px (텍스트 영역 1648 x 682)
 
 mockup의 텍스트 영역이 다르면 `make_screenshots.py` 의 `IPHONE`/`IPAD` 상수를 수정해야 합니다.
+
+## 폴더 분리 원칙
+
+| 폴더 | 내용 |
+|------|------|
+| `ingredient/` | mockup PNG 6장 (이 폴더) |
+| `source/` | 영문 슬로건 JSON (`en-US.json`) |
+| `fonts/` | ttf 폰트 파일 |
+| `output/` | 언어별 텍스트 (Claude 자동 생성) |
+| `screenshots/` | 합성 결과 PNG (스크립트 자동 생성) |
+
+→ JSON 파일은 절대 `ingredient/` 에 두지 말 것. `source/` 로.
