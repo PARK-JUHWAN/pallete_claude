@@ -34,8 +34,7 @@ App Store 다국어 출시를 위한 두 가지 자동화 도구를 제공하는
 
 지원 항목:
 - ASC 8개 키 (name, subtitle, promotional_text, description 등)
-- 38개 비영어 locale 자동 매핑
-- ASO 영어 키워드 독점 전략 (name/keywords는 en-US만)
+- 39개 locale 모두 자기 언어 ASO 키워드 (각 언어권 검색 노출)
 - Apple 심사 위험 단어 자동 검출
 
 → 작업 시 `json/README.md` 부터 읽기.
