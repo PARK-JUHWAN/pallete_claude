@@ -1,4 +1,4 @@
-"""Verify locales.json per TRANSLATION_GUIDE.md."""
+"""Verify locales.json per TRANSLATION_GUIDE.md (ASO-First policy)."""
 
 import json
 import sys
@@ -25,11 +25,8 @@ LIMITS = {
     "subscription_description": 1000,
 }
 
-# en-US 필수 키 (8개)
-EN_US_REQUIRED = set(LIMITS.keys())
-
-# 비영어 locale 필수 키 (6개, name/keywords omit)
-NON_EN_REQUIRED = EN_US_REQUIRED - {"name", "keywords"}
+# 모든 locale 필수 키 (8개) — ASO-First 정책: 비영어 locale 도 name/keywords 작성
+REQUIRED_KEYS = set(LIMITS.keys())
 
 # 위험 단어 (영문 기준)
 RISKY_WORDS = [
@@ -84,43 +81,25 @@ def main():
     if not missing and not extra:
         print(f"  ✓ 39개 locale 모두 일치")
 
-    # 3. en-US 필수 키
+    # 3. 모든 locale 필수 키 (8개)
     print()
-    print("[검증 3] en-US 필수 키 (8개)")
-    if "en-US" not in data:
-        print("  ✗ en-US 키 자체 없음")
-        sys.exit(1)
-    en_keys = set(data["en-US"].keys())
-    en_missing = EN_US_REQUIRED - en_keys
-    if en_missing:
-        print(f"  ✗ en-US 누락 키: {sorted(en_missing)}")
-    else:
-        print(f"  ✓ 8/8 키 모두 존재")
-
-    # 4. 비영어 locale 필수 키
-    print()
-    print("[검증 4] 비영어 locale 필수 키 (6개)")
+    print("[검증 3] 모든 locale 필수 키 (8개) — ASO-First 정책")
     locale_key_violations = []
     for locale, fields in data.items():
-        if locale == "en-US":
-            continue
         keys = set(fields.keys())
-        miss = NON_EN_REQUIRED - keys
-        forbidden = keys & {"name", "keywords"}
+        miss = REQUIRED_KEYS - keys
         if miss:
-            locale_key_violations.append((locale, "missing", sorted(miss)))
-        if forbidden:
-            locale_key_violations.append((locale, "should_omit", sorted(forbidden)))
+            locale_key_violations.append((locale, sorted(miss)))
     if locale_key_violations:
-        print(f"  ✗ 비영어 locale 키 위반 {len(locale_key_violations)}개:")
-        for locale, kind, keys in locale_key_violations[:10]:
-            print(f"    - {locale} ({kind}): {keys}")
+        print(f"  ✗ 누락 키 보유 locale {len(locale_key_violations)}개:")
+        for locale, miss in locale_key_violations[:20]:
+            print(f"    - {locale}: missing {miss}")
     else:
-        print(f"  ✓ 모든 비영어 locale 6개 키 보유, name/keywords omit")
+        print(f"  ✓ 모든 39 locale 이 8개 키 모두 보유")
 
-    # 5. 글자수 한도
+    # 4. 글자수 한도
     print()
-    print("[검증 5] 글자수 한도")
+    print("[검증 4] 글자수 한도")
     over_limits = []
     for locale, fields in data.items():
         for key, value in fields.items():
@@ -134,9 +113,9 @@ def main():
     else:
         print(f"  ✓ 모든 텍스트 한도 내")
 
-    # 6. 위험 단어 (영문)
+    # 5. 위험 단어 (영문)
     print()
-    print("[검증 6] 위험 단어 (영문 baseline)")
+    print("[검증 5] 위험 단어 (영문 baseline)")
     risky_hits = []
     if "en-US" in data:
         en_text = " ".join(
@@ -151,6 +130,7 @@ def main():
         for w in risky_hits:
             print(f"    - {w}")
         print("  → TRANSLATION_GUIDE.md 의 대체 표현 참고")
+        print("  → 비영어 locale 은 등가 안전 표현으로 우회 번역해야 함")
     else:
         print(f"  ✓ en-US 위험 단어 0건")
 
@@ -165,7 +145,7 @@ def main():
         + len(over_limits)
     )
     print(f"- locale 누락: {len(missing)}")
-    print(f"- 비영어 키 위반: {len(locale_key_violations)}")
+    print(f"- 키 누락 locale: {len(locale_key_violations)}")
     print(f"- 글자수 초과: {len(over_limits)}")
     print(f"- 위험 단어: {len(risky_hits)} (warning, fail 처리 X)")
     print()
