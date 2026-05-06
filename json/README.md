@@ -29,22 +29,33 @@ ASO 우선:
   ↑ 4개 키워드 노출: 파충류 사육 / 온습도 / 테라리움 / 관리
 ```
 
-각 locale 의 subtitle / description / promotional_text 는 **해당 언어권 검색량 높은 단어** 로 재구성.
+각 locale 의 모든 ASO 키 (name, keywords, subtitle, promotional_text, description) 는 **해당 언어권 검색량 높은 단어** 로 재구성.
 
 ---
 
-## 적용 범위
+## 적용 범위 (모든 39 locale 동일)
 
 | 키 | 원칙 |
 |---|---|
-| `name` | en-US 만 (영문 ASO 키워드 — 30자) |
-| `keywords` | en-US 만 (검색 키워드 콤마 구분 — 100자) |
+| `name` | **모든 locale 각 언어 ASO 키워드 (30자)** |
+| `keywords` | **모든 locale 각 언어 검색 키워드 콤마 구분 (100자)** |
 | `subtitle` | 각 locale ASO 키워드 풍부하게 (30자) |
 | `promotional_text` | 각 locale ASO 키워드 풍부하게 (170자) |
 | `description` | 각 locale ASO 키워드 풍부하게 (4000자) |
 | `subscription_name` | 영문 유지 OK (구독은 검색 영향 적음) |
 | `subscription_display_name` | 각 locale 자연스럽게 |
 | `subscription_description` | 각 locale 자연스럽게 |
+
+→ **모든 39 locale 이 8개 키 모두 보유.**
+→ 한국어 사용자는 한국어로, 일본어 사용자는 일본어로 검색되어야 함.
+
+### 정책 변경 이력
+
+이전 정책 (폐기됨): "name/keywords 는 en-US 만 작성, 영어 ASO 독점."
+- 문제: 한국 사용자가 한국어로 App Store 검색 시 노출 안 됨.
+- 마이너 시장 (니치 도메인) 타겟에서는 각 언어권 검색 노출 필수.
+
+현재 정책 (ASO-First): "모든 locale 이 자기 언어 ASO 키워드 보유."
 
 ---
 
@@ -115,6 +126,13 @@ cp locales.template.json locales.json
 `name` 30자 / `keywords` 100자 에 검색 키워드 집중.
 
 ### 5단계: 38개 비영어 locale 작성 (ASO 키워드 중심)
+
+★ **모든 비영어 locale 도 8개 키 모두 작성** (name + keywords 포함):
+- name (30자): 각 언어권 ASO 키워드 2-3개 조합
+- keywords (100자): 각 언어 검색어 콤마 구분, 공백 없음
+- subtitle, promotional_text, description: ASO 키워드 자연 배치
+- subscription_*: 의역 또는 영문 유지
+
 5개씩 분할 (timeout 회피):
 - 그룹 1 (검수 5국): ko, ja, zh-Hans, es-MX, de-DE
 - 그룹 2~7: 5개씩
@@ -129,7 +147,7 @@ python verify_locales.py locales.json
 ```
 PASS 받으면 완료.
 
-⚠️ verify_locales.py 는 글자수 / JSON 구조 / 영문 위험 단어만 검증.
+⚠️ verify_locales.py 는 글자수 / JSON 구조 / 키 누락 / 영문 위험 단어 검증.
 **ASO 품질 (검색어 적합성) 은 osk 직접 검수 영역.**
 
 ### 7단계: ASC 업로드
