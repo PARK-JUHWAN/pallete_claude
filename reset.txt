@@ -1,0 +1,33 @@
+cd "C:\Users\user\Desktop\pallete_claude-main"
+
+# ============================================================
+# new/ 에 다음 8개 파일을 미리 넣어둘 것:
+# new/
+# ├── iphone_1.png
+# ├── iphone_2.png
+# ├── iphone_3.png
+# ├── ipad_1.png
+# ├── ipad_2.png
+# ├── ipad_3.png
+# ├── screenshot.json
+# └── json.json
+# ============================================================
+
+# 1. 이전 앱 결과물 삭제
+Get-ChildItem "screenshot\output" -Directory | Remove-Item -Recurse -Force
+Get-ChildItem "screenshot\screenshots" -Directory -ErrorAction SilentlyContinue | Remove-Item -Recurse -Force
+Remove-Item "screenshot\screenshots\render_summary.csv" -ErrorAction SilentlyContinue
+Remove-Item "json\locales.json" -ErrorAction SilentlyContinue
+Remove-Item "screenshot\source\en-US.json" -ErrorAction SilentlyContinue
+Remove-Item "json\source\en-US.json" -ErrorAction SilentlyContinue
+Remove-Item "screenshot\ingredient\*.png" -ErrorAction SilentlyContinue
+
+# 2. new/ 에서 자동 배치
+Copy-Item "new\iphone_1.png" "screenshot\ingredient\" -Force
+Copy-Item "new\iphone_2.png" "screenshot\ingredient\" -Force
+Copy-Item "new\iphone_3.png" "screenshot\ingredient\" -Force
+Copy-Item "new\ipad_1.png"   "screenshot\ingredient\" -Force
+Copy-Item "new\ipad_2.png"   "screenshot\ingredient\" -Force
+Copy-Item "new\ipad_3.png"   "screenshot\ingredient\" -Force
+Copy-Item "new\screenshot.json" "screenshot\source\en-US.json" -Force
+Copy-Item "new\json.json" "json\source\en-US.json" -Force
