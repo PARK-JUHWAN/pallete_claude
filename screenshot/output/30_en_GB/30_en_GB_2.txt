@@ -1,0 +1,2 @@
+Temperature counts,
+not 28 days
