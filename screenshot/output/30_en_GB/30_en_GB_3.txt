@@ -1,0 +1,2 @@
+RELEASE, CAUTION, HOLD
+Always with the reason
