@@ -1,0 +1,392 @@
+{
+  "en-US": {
+    "name": "Lens Fungus Guard: Camera Care",
+    "subtitle": "Humidity & Mold Risk for Gear",
+    "promotional_text": "Own camera gear? Lens Fungus Guard reads local humidity and tells you if your lenses risk mold today, plus when to recharge desiccant and air it out.",
+    "description": "Are your lenses quietly growing fungus right now? Lens Fungus Guard turns local humidity into one clear answer - SAFE, WATCH, or ACT - for each lens and camera body you own, so you know when to act before permanent damage sets in.\n\nLens fungus etches optical coatings, and once it starts the damage is often permanent. The catch: it is not about today's humidity. Spores wake up after several damp days in a row, so the real danger builds over time inside your bag, shelf, or dry box - exactly where you cannot see it.\n\nHOW IT WORKS\n\n1. Add your gear: pick your storage (sealed with desiccant, open shelf, camera bag, or dry cabinet) and gear type (modern sealed, standard, or vintage).\n2. Lens Fungus Guard pulls recent humidity and temperature for your location.\n3. You get a single verdict - SAFE, WATCH, or ACT - with the reason and the action to take, like when to recharge your silica gel or air your gear in indirect light.\n\nUnder a minute to set up. No account required.\n\nCORE FEATURES\n\nToday's Risk Verdict\nA single answer plus the why - effective storage humidity and recent exposure, read at a glance instead of guessing from a bare hygrometer.\n\nStorage-Aware Reasoning\nThe same weather means different risk for a vintage lens on an open shelf versus a sealed body with fresh desiccant. Your setup shapes the verdict.\n\nClear Actions\nPlain next steps - recharge desiccant, add ventilation, or bring gear into indirect light - instead of raw numbers to interpret.\n\nPRO FEATURES\nUpgrade to Pro for deeper insight:\n- Track a full kit of lenses and bodies, each with its own verdict\n- 7-day risk forecast so you see a damp spell coming\n- Desiccant recharge countdown per item\n- High-humidity spell push alerts\n- Rolling exposure history and trends\n- Per-item action log for sun and recharge dates\n\nPRIVACY FIRST\n- No account, no login\n- All data stored locally on your device\n- Location is used only to fetch humidity and temperature data, never stored on any server\n- No tracking, no ads, no third-party analytics\n\nLens Fungus Guard is an informational moisture-risk guide based on public weather data and general fungus-growth principles. It does not measure the inside of your equipment and does not guarantee any outcome. A hygrometer in your storage is the only true reading. It is not a substitute for hands-on inspection and camera servicing.\n\nTerms of Use (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "dry box,silica gel,storage,moisture,vintage,dslr,mirrorless,dehumidify,cabinet,desiccant,optics,damp",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Full Access",
+    "subscription_description": "Full gear kit, 7-day risk forecast, recharge alerts, exposure history"
+  },
+  "ko": {
+    "name": "렌즈 곰팡이 가드: 카메라 관리",
+    "subtitle": "습도와 렌즈 곰팡이 위험 알림",
+    "promotional_text": "카메라 장비 있으세요? 렌즈 곰팡이 가드가 현지 습도를 읽어 오늘 렌즈에 곰팡이 위험이 있는지 알려주고, 방습제(실리카겔) 교체와 환기 시점을 안내합니다.",
+    "description": "카메라와 렌즈를 아끼신다면, 습도 관리가 절반입니다.\n\n렌즈 곰팡이 가드는 현지 습도와 온도를 읽어, 오늘 렌즈와 바디에 곰팡이 위험이 있는지 하나의 판정으로 알려드립니다. 곰팡이는 렌즈 코팅을 영구적으로 부식시키며, 위험은 가방·선반·방습함(드라이박스) 안에서 습한 날이 며칠 이어지며 서서히 쌓입니다.\n\n사용 방법\n- 장비와 보관 방식(가방, 방습함, 밀폐 보관 등)을 등록하세요.\n- 앱이 현지 습도와 기온을 불러옵니다.\n- 안전·주의·조치 판정과 함께 실리카겔 교체, 간접광에서 환기 같은 행동을 안내합니다.\n\n주요 기능\n- 오늘의 곰팡이 위험 판정\n- 보관 방식을 고려한 근거 설명\n- 명확하고 실천 가능한 조치\n\nPro 기능\n- 전체 장비 관리\n- 7일 위험 예보\n- 방습제 교체 카운트다운\n- 고습도 알림\n- 노출 기록과 조치 로그\n\n개인정보 우선\n- 계정 없이 사용, 데이터는 기기에 저장\n- 위치는 날씨 확인에만 사용, 추적·광고 없음\n\n안내: 본 앱은 습기 위험을 참고용으로 알려주는 도구이며, 습도계 측정이나 실제 점검을 대신하지 않습니다.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "방습함,실리카겔,제습,습도,방습제,미러리스,렌즈곰팡이,드라이박스,카메라관리,방습,습기,dslr",
+    "subscription_name": "렌즈 곰팡이 가드 Pro",
+    "subscription_display_name": "Pro — 전체 이용",
+    "subscription_description": "Pro로 전체 장비를 함께 관리하세요. 모든 렌즈와 바디를 등록해 각각의 곰팡이 위험을 한눈에 확인하고, 7일 위험 예보로 습한 날을 미리 대비할 수 있습니다. 방습제 교체 카운트다운이 실리카겔을 언제 갈아야 하는지 알려주고, 고습도 알림이 위험이 올라갈 때 미리 안내합니다. 노출 기록과 조치 로그로 그동안의 환기와 교체 이력을 남겨 장비 관리를 꾸준히 이어가세요. 모든 데이터는 기기에 저장되며 계정이 필요 없습니다."
+  },
+  "ja": {
+    "name": "レンズカビ ガード：カメラ管理",
+    "subtitle": "湿度とレンズのカビリスク",
+    "promotional_text": "カメラ機材をお持ちですか？レンズカビ ガードが現地の湿度を読み取り、今日レンズにカビのリスクがあるかをお知らせ。乾燥剤（シリカゲル）の交換や換気のタイミングも案内します。",
+    "description": "カメラとレンズを大切にするなら、湿度管理が半分です。\n\nレンズカビ ガードは現地の湿度と気温を読み取り、今日レンズとボディにカビのリスクがあるかを一つの判定でお知らせします。カビはレンズのコーティングを永久に侵食し、リスクはバッグや棚、防湿庫（ドライボックス）の中で湿った日が数日続くうちに少しずつ高まります。\n\n使い方\n- 機材と保管方法（バッグ、防湿庫、密閉保管など）を登録します。\n- アプリが現地の湿度と気温を取得します。\n- 安全・注意・対処の判定と一緒に、シリカゲルの交換や間接光での換気といった行動を案内します。\n\n主な機能\n- 今日のカビリスク判定\n- 保管方法をふまえた根拠の説明\n- わかりやすく実行できる対処\n\nPro機能\n- 全機材の管理\n- 7日間のリスク予報\n- 乾燥剤の交換カウントダウン\n- 高湿度アラート\n- 露出履歴と対処ログ\n\nプライバシー優先\n- アカウント不要、データは端末に保存\n- 位置情報は天気の取得のみに使用、追跡や広告なし\n\nご案内：本アプリは湿気リスクを参考として伝えるツールであり、湿度計での測定や実際の点検に代わるものではありません。\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "防湿庫,シリカゲル,乾燥剤,湿度,除湿,カメラレンズカビ,ミラーレス,オールドレンズ,カメラ保管,防カビ,dslr,湿気",
+    "subscription_name": "レンズカビ ガード Pro",
+    "subscription_display_name": "Pro — フルアクセス",
+    "subscription_description": "Proで機材一式をまとめて管理できます。すべてのレンズとボディを登録して、それぞれのカビリスクを一目で確認。7日間のリスク予報で湿った日にあらかじめ備えられます。乾燥剤の交換カウントダウンがシリカゲルの替え時を知らせ、高湿度アラートがリスクの上がるタイミングを事前に案内します。露出履歴と対処ログで、これまでの換気や交換の記録を残し、機材の手入れを続けやすくします。データはすべて端末に保存され、アカウントは不要です。"
+  },
+  "zh-Hans": {
+    "name": "镜头防霉卫士：相机养护",
+    "subtitle": "湿度与镜头发霉风险提醒",
+    "promotional_text": "有相机器材吗？镜头防霉卫士读取本地湿度，告诉你今天镜头是否有发霉风险，以及何时更换干燥剂（硅胶）和通风透气。",
+    "description": "如果你爱惜相机和镜头，湿度管理就是养护的一半。\n\n镜头防霉卫士读取本地湿度和温度，用一个清晰的判定告诉你今天镜头和机身是否有发霉风险。霉菌会永久侵蚀镜头镀膜，而风险往往在相机包、层架或防潮箱里连着几天潮湿时慢慢累积。\n\n使用方法\n- 登记你的器材和存放方式（相机包、防潮箱、密封收纳等）。\n- App 读取本地湿度和气温。\n- 给出安全、注意、处理的判定，并建议更换硅胶、在散射光下通风等具体做法。\n\n核心功能\n- 今日发霉风险判定\n- 结合存放方式说明依据\n- 清晰、可执行的处理建议\n\nPro 功能\n- 管理全部器材\n- 7 天风险预报\n- 干燥剂更换倒计时\n- 高湿度提醒\n- 曝光记录与处理日志\n\n隐私优先\n- 无需账号，数据保存在本机\n- 位置仅用于获取天气，无追踪、无广告\n\n说明：本 App 是提供潮湿风险参考的工具，不能替代湿度计测量或实际检查。\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "防潮箱,硅胶,干燥剂,湿度,除湿,镜头发霉,微单,单反,相机保养,防霉,潮湿,老镜头",
+    "subscription_name": "镜头防霉卫士 Pro",
+    "subscription_display_name": "Pro — 完整功能",
+    "subscription_description": "开通 Pro，把整套器材一起管理。登记所有镜头和机身，一眼看清各自的发霉风险；7 天风险预报让你提前应对潮湿天气。干燥剂更换倒计时提醒你何时更换硅胶，高湿度提醒会在风险上升前告知你。曝光记录与处理日志帮你留下通风和更换的历史，让器材养护更容易坚持。所有数据都保存在本机，无需账号。"
+  },
+  "zh-Hant": {
+    "name": "鏡頭防黴衛士：相機保養",
+    "subtitle": "濕度與鏡頭發黴風險提醒",
+    "promotional_text": "有相機器材嗎？鏡頭防黴衛士讀取當地濕度，告訴你今天鏡頭是否有發黴風險，以及何時更換乾燥劑（矽膠）與通風透氣。",
+    "description": "如果你愛惜相機和鏡頭，濕度管理就是保養的一半。\n\n鏡頭防黴衛士讀取當地濕度和溫度，用一個清楚的判定告訴你今天鏡頭和機身是否有發黴風險。黴菌會永久侵蝕鏡頭鍍膜，而風險往往在相機包、層架或防潮箱裡連著幾天潮濕時慢慢累積。\n\n使用方法\n- 登記你的器材和存放方式（相機包、防潮箱、密封收納等）。\n- App 讀取當地濕度和氣溫。\n- 給出安全、注意、處理的判定，並建議更換矽膠、在散射光下通風等具體做法。\n\n核心功能\n- 今日發黴風險判定\n- 結合存放方式說明依據\n- 清楚、可執行的處理建議\n\nPro 功能\n- 管理全部器材\n- 7 天風險預報\n- 乾燥劑更換倒數\n- 高濕度提醒\n- 曝光紀錄與處理日誌\n\n隱私優先\n- 免帳號，資料儲存在本機\n- 位置僅用於取得天氣，無追蹤、無廣告\n\n說明：本 App 是提供潮濕風險參考的工具，不能取代濕度計量測或實際檢查。\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "防潮箱,矽膠,乾燥劑,濕度,除濕,鏡頭發黴,微單,單眼,相機保養,防黴,潮濕,老鏡頭",
+    "subscription_name": "鏡頭防黴衛士 Pro",
+    "subscription_display_name": "Pro — 完整功能",
+    "subscription_description": "開通 Pro，把整套器材一起管理。登記所有鏡頭和機身，一眼看清各自的發黴風險；7 天風險預報讓你提前因應潮濕天氣。乾燥劑更換倒數提醒你何時更換矽膠，高濕度提醒會在風險上升前告知你。曝光紀錄與處理日誌幫你留下通風和更換的歷史，讓器材保養更容易持續。所有資料都儲存在本機，免帳號。"
+  },
+  "es": {
+    "name": "Guardián Hongos Objetivo",
+    "subtitle": "Humedad y riesgo de moho",
+    "promotional_text": "¿Tienes cámara y objetivos? Guardián lee la humedad local y te dice si tus lentes corren riesgo de moho hoy, y cuándo recargar el gel de sílice y airearlos.",
+    "description": "¿Guardas cámara y objetivos en casa? La humedad es su peor enemigo. Cuando el aire está cargado varios días, dentro de la bolsa, la estantería o la caja seca, pueden aparecer hongos que graban las lentes y dañan los tratamientos ópticos de forma permanente.\n\nGuardián Hongos Objetivo convierte la humedad local en un veredicto claro por cada objetivo y cuerpo: SEGURO, VIGILA o ACTÚA. Sabrás qué hacer y cuándo, sin adivinar.\n\nCÓMO FUNCIONA\n- Añade tu equipo e indica cómo lo guardas (bolsa, estante, caja seca o armario seco).\n- La app consulta la humedad y la temperatura de tu zona.\n- Recibes un veredicto y una acción sugerida: recargar el gel de sílice, deshumidificar o airear la óptica con luz indirecta.\n\nFUNCIONES\n- Veredicto de riesgo de moho para hoy.\n- Razonamiento según tu tipo de almacenaje.\n- Acciones claras y fáciles de seguir.\n\nPRO\n- Registra todo tu kit: objetivos vintage, sin espejo (mirrorless) y réflex (DSLR).\n- Pronóstico de riesgo a 7 días.\n- Cuenta atrás para recargar el desecante.\n- Avisos de humedad alta.\n- Historial de exposición y registro de acciones.\n\nPRIVACIDAD PRIMERO\n- Sin cuenta y sin registro.\n- Tus datos se guardan en el dispositivo.\n- La ubicación solo se usa para el clima.\n- Sin seguimiento y sin anuncios.\n\nAviso: es una guía informativa sobre el riesgo por humedad, basada en datos meteorológicos. No sustituye a un higrómetro ni a la inspección de tu equipo.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "caja,seca,gel,sílice,humedad,moho,deshumidificar,mirrorless,réflex,desecante,óptica,objetivo",
+    "subscription_name": "Guardián Hongos Pro",
+    "subscription_display_name": "Pro — Acceso completo",
+    "subscription_description": "Pro te da control total sobre tu equipo. Registra todo el kit: objetivos vintage, cámaras sin espejo (mirrorless) y réflex (DSLR). Consulta el pronóstico de riesgo de moho a 7 días, recibe avisos de humedad alta y sigue la cuenta atrás para recargar el gel de sílice. Incluye historial de exposición y registro de acciones para cuidar tu óptica en la caja seca o el armario seco."
+  },
+  "es-MX": {
+    "name": "Guardián Hongos en Lente",
+    "subtitle": "Humedad y riesgo de moho",
+    "promotional_text": "¿Tienes cámara y lentes? Guardián lee la humedad de tu zona y te dice si tus lentes corren riesgo de moho hoy, y cuándo recargar el gel de sílice y airearlas.",
+    "description": "¿Guardas tu cámara y tus lentes en casa? La humedad es su peor enemigo. Cuando el aire se mantiene cargado varios días, dentro de la mochila, el estante o la caja seca, pueden aparecer hongos que graban los lentes y dañan los recubrimientos ópticos de forma permanente.\n\nGuardián Hongos en Lente convierte la humedad local en un veredicto claro para cada lente y cuerpo: SEGURO, VIGILA o ACTÚA. Sabrás qué hacer y cuándo, sin adivinar.\n\nCÓMO FUNCIONA\n- Agrega tu equipo e indica cómo lo guardas (mochila, estante, caja seca o gabinete seco).\n- La app consulta la humedad y la temperatura de tu zona.\n- Recibes un veredicto y una acción sugerida: recargar el gel de sílice, deshumidificar o airear el lente con luz indirecta.\n\nFUNCIONES\n- Veredicto de riesgo de moho para hoy.\n- Análisis según tu tipo de almacenamiento.\n- Acciones claras y fáciles de seguir.\n\nPRO\n- Registra todo tu kit: lentes vintage, sin espejo (mirrorless) y réflex (DSLR).\n- Pronóstico de riesgo a 7 días.\n- Cuenta regresiva para recargar el desecante.\n- Avisos de humedad alta.\n- Historial de exposición y bitácora de acciones.\n\nPRIVACIDAD PRIMERO\n- Sin cuenta y sin registro.\n- Tus datos se guardan en el dispositivo.\n- La ubicación solo se usa para el clima.\n- Sin rastreo y sin anuncios.\n\nAviso: es una guía informativa sobre el riesgo por humedad, basada en datos del clima. No sustituye a un higrómetro ni a la inspección de tu equipo.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "caja,seca,gel,sílice,humedad,moho,deshumidificar,mirrorless,réflex,desecante,óptica,lente",
+    "subscription_name": "Guardián Hongos Pro",
+    "subscription_display_name": "Pro — Acceso completo",
+    "subscription_description": "Pro te da control total sobre tu equipo. Registra todo el kit: lentes vintage, cámaras sin espejo (mirrorless) y réflex (DSLR). Consulta el pronóstico de riesgo de moho a 7 días, recibe avisos de humedad alta y sigue la cuenta regresiva para recargar el gel de sílice. Incluye historial de exposición y bitácora de acciones para cuidar tus lentes en la caja seca o el gabinete seco."
+  },
+  "fr": {
+    "name": "Anti-Champignon Objectif",
+    "subtitle": "Humidité et risque de moisi",
+    "promotional_text": "Vous avez un appareil photo? L'app lit l'humidité locale et indique si vos objectifs risquent la moisissure aujourd'hui, et quand recharger le gel de silice et aérer.",
+    "description": "Vous rangez appareil photo et objectifs chez vous? L'humidité est leur pire ennemie. Quand l'air reste chargé plusieurs jours, dans le sac, sur l'étagère ou dans le caisson sec, des champignons peuvent apparaître, graver les lentilles et abîmer les traitements optiques de façon permanente.\n\nAnti-Champignon Objectif transforme l'humidité locale en un verdict clair pour chaque objectif et boîtier : SÛR, SURVEILLE ou AGIS. Vous savez quoi faire et quand, sans deviner.\n\nCOMMENT ÇA MARCHE\n- Ajoutez votre matériel et indiquez son rangement (sac, étagère, caisson sec ou armoire sèche).\n- L'app récupère l'humidité et la température de votre zone.\n- Vous recevez un verdict et une action suggérée : recharger le gel de silice, déshumidifier ou aérer l'optique à la lumière indirecte.\n\nFONCTIONS\n- Verdict du risque de moisissure du jour.\n- Analyse selon votre type de rangement.\n- Actions claires et faciles à suivre.\n\nPRO\n- Suivez tout votre kit : objectifs vintage, hybrides (mirrorless) et reflex (DSLR).\n- Prévision du risque sur 7 jours.\n- Compte à rebours pour recharger le déshydratant.\n- Alertes d'humidité élevée.\n- Historique d'exposition et journal d'actions.\n\nCONFIDENTIALITÉ D'ABORD\n- Sans compte, sans inscription.\n- Vos données restent sur l'appareil.\n- La localisation sert uniquement à la météo.\n- Aucun suivi, aucune publicité.\n\nRemarque : guide informatif sur le risque lié à l'humidité, basé sur des données météo. Ne remplace pas un hygromètre ni l'inspection de votre matériel.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "champignon,objectif,moisissure,humidité,silice,déshumidifier,mirrorless,reflex,boîte,sèche,optique",
+    "subscription_name": "Anti-Champignon Pro",
+    "subscription_display_name": "Pro — Accès complet",
+    "subscription_description": "Pro vous donne le contrôle total sur votre matériel. Suivez tout le kit : objectifs vintage, appareils hybrides (mirrorless) et reflex (DSLR). Consultez la prévision du risque de moisissure sur 7 jours, recevez des alertes d'humidité élevée et suivez le compte à rebours pour recharger le gel de silice. Inclut l'historique d'exposition et le journal d'actions pour protéger votre optique dans le caisson sec ou l'armoire sèche."
+  },
+  "fr-CA": {
+    "name": "Champignon Objectif Photo",
+    "subtitle": "Humidité et risque de moisi",
+    "promotional_text": "Vous avez un appareil photo? L'app lit l'humidité locale et indique si vos objectifs risquent la moisissure aujourd'hui, et quand recharger le gel de silice et aérer.",
+    "description": "Vous rangez votre appareil photo et vos objectifs à la maison? L'humidité est leur pire ennemie. Quand l'air reste chargé plusieurs jours, dans le sac, sur la tablette ou dans la boîte sèche, des champignons peuvent apparaître, graver les lentilles et abîmer les traitements optiques de façon permanente.\n\nL'app transforme l'humidité locale en un verdict clair pour chaque objectif et boîtier : SÛR, SURVEILLE ou AGIS. Vous savez quoi faire et quand, sans deviner.\n\nCOMMENT ÇA MARCHE\n- Ajoutez votre matériel et indiquez son rangement (sac, tablette, boîte sèche ou armoire sèche).\n- L'app récupère l'humidité et la température de votre région.\n- Vous recevez un verdict et une action suggérée : recharger le gel de silice, déshumidifier ou aérer l'optique à la lumière indirecte.\n\nFONCTIONS\n- Verdict du risque de moisissure du jour.\n- Analyse selon votre type de rangement.\n- Actions claires et faciles à suivre.\n\nPRO\n- Suivez tout votre kit : objectifs vintage, hybrides (mirrorless) et reflex (DSLR).\n- Prévision du risque sur 7 jours.\n- Compte à rebours pour recharger le déshydratant.\n- Alertes d'humidité élevée.\n- Historique d'exposition et journal d'actions.\n\nCONFIDENTIALITÉ D'ABORD\n- Sans compte, sans inscription.\n- Vos données restent sur l'appareil.\n- La localisation sert uniquement à la météo.\n- Aucun suivi, aucune publicité.\n\nRemarque : guide informatif sur le risque lié à l'humidité, basé sur des données météo. Ne remplace pas un hygromètre ni l'inspection de votre matériel.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "champignon,objectif,moisissure,humidité,silice,déshumidifier,mirrorless,reflex,boîte,sèche,optique",
+    "subscription_name": "Anti-Champignon Pro",
+    "subscription_display_name": "Pro — Accès complet",
+    "subscription_description": "Pro vous donne le contrôle total sur votre matériel. Suivez tout le kit : objectifs vintage, appareils hybrides (mirrorless) et reflex (DSLR). Consultez la prévision du risque de moisissure sur 7 jours, recevez des alertes d'humidité élevée et suivez le compte à rebours pour recharger le gel de silice. Inclut l'historique d'exposition et le journal d'actions pour protéger votre optique dans la boîte sèche ou l'armoire sèche."
+  },
+  "de-DE": {
+    "name": "Objektivpilz-Schutz: Pflege",
+    "subtitle": "Feuchte & Schimmelrisiko",
+    "promotional_text": "Kamera-Ausrüstung? Objektivpilz-Schutz liest die Luftfeuchtigkeit und zeigt, ob Objektive heute Schimmelrisiko haben – plus wann Trockenmittel wechseln und lüften.",
+    "description": "Wenn dir Kamera und Objektive wichtig sind, ist die Feuchtigkeit die halbe Pflege.\n\nObjektivpilz-Schutz liest die lokale Luftfeuchtigkeit und Temperatur und zeigt dir mit einer klaren Einstufung, ob deine Objektive und Bodies heute Schimmelrisiko haben. Pilz greift die Vergütung der Optik dauerhaft an, und das Risiko baut sich über mehrere feuchte Tage in Tasche, Regal oder Trockenbox auf.\n\nSo funktioniert es\n- Trage deine Ausrüstung und die Lagerung ein (Tasche, Trockenbox, luftdichte Aufbewahrung).\n- Die App holt die lokale Luftfeuchtigkeit und Temperatur.\n- Du bekommst die Einstufung Sicher, Achtung oder Handeln – dazu Aktionen wie Silikagel wechseln oder im Streulicht lüften.\n\nKernfunktionen\n- Heutige Schimmelrisiko-Einstufung\n- Begründung mit Blick auf die Lagerung\n- Klare, umsetzbare Aktionen\n\nPro-Funktionen\n- Ganze Ausrüstung verwalten\n- 7-Tage-Risikoprognose\n- Countdown zum Trockenmittel-Wechsel\n- Warnung bei hoher Luftfeuchtigkeit\n- Belichtungsverlauf und Aktionsprotokoll\n\nPrivatsphäre zuerst\n- Kein Konto, Daten bleiben auf dem Gerät\n- Standort nur fürs Wetter, kein Tracking, keine Werbung\n\nHinweis: Diese App ist ein informativer Leitfaden zum Feuchtigkeitsrisiko und ersetzt weder ein Hygrometer noch eine Sichtprüfung.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "Trockenbox,Silikagel,Objektivpilz,Schimmel,spiegellos,DSLR,Kamerapflege,entfeuchten,Feuchtigkeit",
+    "subscription_name": "Objektivpilz-Schutz Pro",
+    "subscription_display_name": "Pro — Vollzugriff",
+    "subscription_description": "Mit Pro verwaltest du die ganze Ausrüstung gemeinsam. Trage alle Objektive und Bodies ein und sieh das Schimmelrisiko für jedes Teil auf einen Blick. Die 7-Tage-Risikoprognose lässt dich feuchte Tage früh einplanen. Der Countdown zum Trockenmittel-Wechsel sagt dir, wann das Silikagel dran ist, und die Warnung bei hoher Luftfeuchtigkeit meldet sich, bevor das Risiko steigt. Mit Belichtungsverlauf und Aktionsprotokoll behältst du Lüften und Wechseln im Blick und bleibst bei der Pflege dran. Alle Daten bleiben auf dem Gerät, ganz ohne Konto."
+  },
+  "it": {
+    "name": "Guardia Funghi Obiettivo",
+    "subtitle": "Umidità e rischio di muffa",
+    "promotional_text": "Hai fotocamera e obiettivi? L'app legge l'umidità locale e ti dice se i tuoi obiettivi rischiano la muffa oggi, e quando ricaricare il gel di silice e arieggiarli.",
+    "description": "Conservi fotocamera e obiettivi in casa? L'umidità è il loro peggior nemico. Quando l'aria resta carica per più giorni, dentro la borsa, sullo scaffale o nella scatola secca, possono comparire funghi che incidono le lenti e danneggiano in modo permanente i trattamenti ottici.\n\nGuardia Funghi Obiettivo trasforma l'umidità locale in un verdetto chiaro per ogni obiettivo e corpo macchina: SICURO, OSSERVA o AGISCI. Sai cosa fare e quando, senza tirare a indovinare.\n\nCOME FUNZIONA\n- Aggiungi la tua attrezzatura e indica come la conservi (borsa, scaffale, scatola secca o armadio secco).\n- L'app rileva l'umidità e la temperatura della tua zona.\n- Ricevi un verdetto e un'azione suggerita: ricaricare il gel di silice, deumidificare o arieggiare l'ottica con luce indiretta.\n\nFUNZIONI\n- Verdetto del rischio di muffa di oggi.\n- Analisi in base al tipo di conservazione.\n- Azioni chiare e facili da seguire.\n\nPRO\n- Segui tutto il kit: obiettivi vintage, mirrorless e reflex (DSLR).\n- Previsione del rischio a 7 giorni.\n- Conto alla rovescia per ricaricare l'essiccante.\n- Avvisi di umidità elevata.\n- Cronologia di esposizione e registro azioni.\n\nPRIMA LA PRIVACY\n- Nessun account, nessuna registrazione.\n- I dati restano sul dispositivo.\n- La posizione serve solo per il meteo.\n- Nessun tracciamento, nessuna pubblicità.\n\nNota: guida informativa sul rischio da umidità, basata su dati meteo. Non sostituisce un igrometro né l'ispezione della tua attrezzatura.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "funghi,muffa,obiettivo,umidità,silice,deumidificare,mirrorless,reflex,scatola,essiccante,ottica",
+    "subscription_name": "Guardia Funghi Pro",
+    "subscription_display_name": "Pro — Accesso completo",
+    "subscription_description": "Pro ti dà il pieno controllo sulla tua attrezzatura. Segui tutto il kit: obiettivi vintage, mirrorless e reflex (DSLR). Consulta la previsione del rischio di muffa a 7 giorni, ricevi avvisi di umidità elevata e segui il conto alla rovescia per ricaricare il gel di silice. Include la cronologia di esposizione e il registro delle azioni per proteggere la tua ottica nella scatola secca o nell'armadio secco."
+  },
+  "pt-BR": {
+    "name": "Fungo na Lente: Cuidado",
+    "subtitle": "Umidade e mofo no equipamento",
+    "promotional_text": "Tem equipamento fotográfico? O app lê a umidade local e diz se suas lentes correm risco de fungo hoje, além de quando recarregar a sílica gel e arejar.",
+    "description": "Você tem equipamento fotográfico? O Fungo na Lente lê a umidade local e transforma tudo em um veredito simples para cada lente e corpo de câmera: SAFE, WATCH ou ACT.\n\nO fungo ataca as coberturas ópticas e deixa marcas permanentes nas lentes. O perigo se acumula ao longo de vários dias úmidos dentro da bolsa, da prateleira ou da caixa seca.\n\nCOMO FUNCIONA\nAdicione seu equipamento e o tipo de armazenamento. O app busca a umidade e a temperatura locais e mostra um veredito com a ação sugerida, como recarregar a sílica gel ou arejar as lentes sob luz indireta.\n\nRECURSOS\n- Veredito de risco do dia para cada item\n- Análise que considera o tipo de armazenamento\n- Ações claras e fáceis de seguir\n\nRECURSOS PRO\n- Acompanhe todo o kit\n- Previsão de risco de 7 dias\n- Contagem regressiva para recarregar o dessecante\n- Alertas de umidade alta\n- Histórico de exposição e registro de ações\n\nPRIVACIDADE\nSem conta e sem cadastro. Seus dados ficam no aparelho. A localização é usada apenas para o clima. Sem rastreamento e sem anúncios.\n\nEste é um guia informativo de risco por umidade e não substitui um higrômetro nem a inspeção do equipamento.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "fungo,lente,sílica,gel,caixa,seca,umidade,mofo,dslr,mirrorless,dessecante,câmera,desumidificar",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Acesso Completo",
+    "subscription_description": "Kit completo do equipamento, previsão de risco de 7 dias, alertas de recarga da sílica gel, histórico de exposição e registro de ações."
+  },
+  "pt-PT": {
+    "name": "Fungo na Lente: Câmara",
+    "subtitle": "Humidade e risco de bolor",
+    "promotional_text": "Tem equipamento fotográfico? A app lê a humidade local e diz se as suas lentes correm risco de fungo hoje, além de quando recarregar a sílica gel e arejar.",
+    "description": "Tem equipamento fotográfico? O Fungo na Lente lê a humidade local e transforma tudo num veredito simples para cada objetiva e corpo de câmara: SAFE, WATCH ou ACT.\n\nO fungo ataca as coberturas ópticas e deixa marcas permanentes nas lentes. O perigo acumula-se ao longo de vários dias húmidos dentro do saco, da prateleira ou da caixa seca.\n\nCOMO FUNCIONA\nAdicione o seu equipamento e o tipo de armazenamento. A app obtém a humidade e a temperatura locais e mostra um veredito com a ação sugerida, como recarregar a sílica gel ou arejar as lentes sob luz indireta.\n\nRECURSOS\n- Veredito de risco do dia para cada item\n- Análise que considera o tipo de armazenamento\n- Ações claras e fáceis de seguir\n\nRECURSOS PRO\n- Acompanhe todo o kit\n- Previsão de risco de 7 dias\n- Contagem decrescente para recarregar o dessecante\n- Alertas de humidade alta\n- Histórico de exposição e registo de ações\n\nPRIVACIDADE\nSem conta e sem registo. Os seus dados ficam no aparelho. A localização é usada apenas para o clima. Sem rastreio e sem anúncios.\n\nEste é um guia informativo de risco por humidade e não substitui um higrómetro nem a inspeção do equipamento.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "fungo,lente,sílica,gel,caixa,humidade,bolor,dslr,mirrorless,dessecante,câmara,desumidificar",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Acesso Completo",
+    "subscription_description": "Kit completo do equipamento, previsão de risco de 7 dias, alertas de recarga da sílica gel, histórico de exposição e registo de ações."
+  },
+  "nl": {
+    "name": "Schimmel in Lens: Camerazorg",
+    "subtitle": "Vochtigheid en schimmelrisico",
+    "promotional_text": "Heb je camera-apparatuur? De app leest de lokale luchtvochtigheid en zegt of je lenzen vandaag schimmel riskeren, plus wanneer je silicagel oplaadt en lucht geeft.",
+    "description": "Heb je camera-apparatuur? Schimmel in Lens leest de lokale luchtvochtigheid en zet alles om in één duidelijk oordeel per lens en camerabody: SAFE, WATCH of ACT.\n\nSchimmel tast de optische coatings aan en laat blijvende sporen op je lenzen achter. Het gevaar bouwt zich op na meerdere vochtige dagen in je tas, op de plank of in de droogdoos.\n\nHOE HET WERKT\nVoeg je gear en het type opslag toe. De app haalt de lokale luchtvochtigheid en temperatuur op en toont een oordeel met een aanbevolen actie, zoals silicagel opladen of luchten in indirect licht.\n\nFUNCTIES\n- Risico-oordeel van vandaag per item\n- Analyse die rekening houdt met je opslag\n- Duidelijke, eenvoudige acties\n\nPRO-FUNCTIES\n- Volg je volledige kit\n- 7-daagse risicoprognose\n- Aftelling voor het opladen van droogmiddel\n- Meldingen bij hoge luchtvochtigheid\n- Blootstellingsgeschiedenis en actielog\n\nPRIVACY\nGeen account en geen registratie. Je gegevens blijven op je toestel. Locatie wordt alleen voor het weer gebruikt. Geen tracking en geen advertenties.\n\nDit is een informatieve gids voor vochtrisico en vervangt geen hygrometer of inspectie van je uitrusting.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "schimmel,lens,objectief,silicagel,droogdoos,vocht,camera,dslr,ontvochtigen,droogkast,spiegelloos",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Volledige toegang",
+    "subscription_description": "Volledige gear-kit, 7-daagse risicoprognose, oplaadmeldingen voor silicagel, blootstellingsgeschiedenis en actielog."
+  },
+  "pl": {
+    "name": "Grzyb w Obiektywie: Aparat",
+    "subtitle": "Wilgotność i ryzyko pleśni",
+    "promotional_text": "Masz sprzęt fotograficzny? Aplikacja odczytuje lokalną wilgotność i mówi, czy obiektywom grozi dziś grzyb, oraz kiedy naładować żel krzemionkowy i przewietrzyć sprzęt.",
+    "description": "Masz sprzęt fotograficzny? Grzyb w Obiektywie odczytuje lokalną wilgotność i zamienia ją w jeden prosty werdykt dla każdego obiektywu i korpusu: SAFE, WATCH lub ACT.\n\nGrzyb atakuje powłoki optyczne i zostawia trwałe ślady na obiektywach. Zagrożenie narasta przez kilka wilgotnych dni w torbie, na półce lub w suchej komorze.\n\nJAK TO DZIAŁA\nDodaj swój sprzęt i rodzaj przechowywania. Aplikacja pobiera lokalną wilgotność i temperaturę, a następnie pokazuje werdykt z sugerowanym działaniem, jak naładowanie żelu krzemionkowego lub wietrzenie w rozproszonym świetle.\n\nFUNKCJE\n- Werdykt ryzyka na dziś dla każdego elementu\n- Analiza uwzględniająca rodzaj przechowywania\n- Jasne i proste działania\n\nFUNKCJE PRO\n- Śledź cały zestaw\n- 7-dniowa prognoza ryzyka\n- Odliczanie do naładowania pochłaniacza wilgoci\n- Powiadomienia o wysokiej wilgotności\n- Historia narażenia i dziennik działań\n\nPRYWATNOŚĆ\nBez konta i bez rejestracji. Dane pozostają na urządzeniu. Lokalizacja służy tylko do pogody. Bez śledzenia i bez reklam.\n\nTo informacyjny przewodnik po ryzyku wilgoci i nie zastępuje higrometru ani przeglądu sprzętu.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "grzyb,pleśń,obiektyw,silikażel,wilgotność,aparat,dslr,bezlusterkowiec,lustrzanka,osuszanie,komora",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Pełny dostęp",
+    "subscription_description": "Pełny zestaw sprzętu, 7-dniowa prognoza ryzyka, powiadomienia o naładowaniu żelu krzemionkowego, historia narażenia i dziennik działań."
+  },
+  "sv": {
+    "name": "Mögel på Objektiv: Kameravård",
+    "subtitle": "Luftfuktighet & mögelrisk",
+    "promotional_text": "Har du kamerautrustning? Appen läser lokal luftfuktighet och säger om dina objektiv riskerar mögel idag, plus när du laddar silikagel och vädrar utrustningen.",
+    "description": "Har du kamerautrustning? Mögel på Objektiv läser lokal luftfuktighet och omvandlar allt till ett tydligt utlåtande för varje objektiv och kamerahus: SAFE, WATCH eller ACT.\n\nMögel angriper de optiska beläggningarna och lämnar bestående spår på dina objektiv. Faran byggs upp under flera fuktiga dagar i väskan, på hyllan eller i torrboxen.\n\nSÅ FUNGERAR DET\nLägg till din utrustning och typ av förvaring. Appen hämtar lokal luftfuktighet och temperatur och visar ett utlåtande med en rekommenderad åtgärd, som att ladda silikagel eller vädra i indirekt ljus.\n\nFUNKTIONER\n- Dagens riskutlåtande för varje del\n- Analys som tar hänsyn till din förvaring\n- Tydliga och enkla åtgärder\n\nPRO-FUNKTIONER\n- Följ hela din utrustning\n- 7-dagars riskprognos\n- Nedräkning för att ladda torkmedel\n- Aviseringar vid hög luftfuktighet\n- Exponeringshistorik och åtgärdslogg\n\nINTEGRITET\nInget konto och ingen registrering. Dina data stannar på enheten. Platsen används endast för vädret. Ingen spårning och inga annonser.\n\nDet här är en informativ guide för fuktrisk och ersätter inte en hygrometer eller inspektion av utrustningen.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "mögel,objektiv,lins,silikagel,torrbox,luftfuktighet,kamera,dslr,spegellös,avfukta,torkmedel",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Full åtkomst",
+    "subscription_description": "Komplett utrustningskit, 7-dagars riskprognos, laddningspåminnelser för silikagel, exponeringshistorik och åtgärdslogg."
+  },
+  "da": {
+    "name": "Svampevagt: Kamerapleje",
+    "subtitle": "Fugt & svamperisiko for gear",
+    "promotional_text": "Har du kameraudstyr? Svampevagt læser lokal luftfugtighed og fortæller, om dine objektiver risikerer svamp i dag – plus hvornår du skal genoplade silikagel og lufte ud.",
+    "description": "Ejer du kameraudstyr? Svampevagt hjælper dig med at holde objektiver og kamerahuse fri for svamp og mug.\n\nFugt bliver til én tydelig vurdering – SAFE, WATCH eller ACT – for hvert objektiv og hus. Svamp ætser optiske belægninger permanent, og faren opbygges over flere fugtige dage i tasken, på hylden eller i tørboksen.\n\nSÅDAN VIRKER DET\nTilføj dit gear og vælg opbevaringstype. Appen henter den lokale luftfugtighed og temperatur og giver dig en vurdering plus en handling – f.eks. genoplad silikagel eller luft ud i indirekte lys.\n\nKERNEFUNKTIONER\n- Dagens risikovurdering pr. objektiv og hus\n- Opbevaringsbevidst begrundelse (taske, hylde, tørboks, tørskab)\n- Klare handlinger uden gætterier\n\nPRO\n- Følg hele dit kit\n- 7-dages risikoprognose\n- Nedtælling til genopladning af tørremiddel\n- Varsler ved høj luftfugtighed\n- Eksponerings- og handlingslog\n\nPRIVATLIV FØRST\nIngen konto. Data gemmes lokalt. Placering bruges kun til vejr. Ingen sporing, ingen annoncer.\n\nSvampevagt er en informativ vejledning om fugtrisiko og erstatter ikke et hygrometer eller en fysisk inspektion.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "svamp,objektiv,tørboks,silikagel,tørremiddel,fugt,affugtning,spejlløs,dslr,kameraudstyr,tørskab,mug",
+    "subscription_name": "Svampevagt Pro",
+    "subscription_display_name": "Pro – fuld adgang",
+    "subscription_description": "Fuldt gear-kit, 7-dages risikoprognose, genoplademinder for tørremiddel, varsler ved høj luftfugtighed og eksponeringshistorik."
+  },
+  "nb": {
+    "name": "Soppvakt: Kamerapleie",
+    "subtitle": "Fukt og soppfare for utstyr",
+    "promotional_text": "Har du kamerautstyr? Soppvakt leser den lokale luftfuktigheten og forteller om objektivene dine risikerer sopp i dag – pluss når du bør lade silikagel og lufte utstyret.",
+    "description": "Har du kamerautstyr? Soppvakt hjelper deg med å holde objektiver og kamerahus fri for sopp og mugg.\n\nFukt blir til én tydelig vurdering – SAFE, WATCH eller ACT – for hvert objektiv og hus. Sopp etser optiske belegg permanent, og faren bygger seg opp over flere fuktige dager i veska, på hylla eller i tørrboksen.\n\nSLIK FUNGERER DET\nLegg til utstyret ditt og velg oppbevaringstype. Appen henter lokal luftfuktighet og temperatur og gir deg en vurdering pluss en handling – for eksempel lad silikagel eller luft ut i indirekte lys.\n\nHOVEDFUNKSJONER\n- Dagens risikovurdering per objektiv og hus\n- Oppbevaringsbevisst begrunnelse (veske, hylle, tørrboks, tørrskap)\n- Tydelige handlinger uten gjetting\n\nPRO\n- Følg hele settet ditt\n- 7-dagers risikovarsel\n- Nedtelling til lading av tørkemiddel\n- Varsler ved høy luftfuktighet\n- Eksponerings- og handlingslogg\n\nPERSONVERN FØRST\nIngen konto. Data lagres lokalt. Posisjon brukes bare til vær. Ingen sporing, ingen annonser.\n\nSoppvakt er en informativ veiledning om fuktrisiko og erstatter ikke et hygrometer eller fysisk inspeksjon.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "sopp,objektiv,tørrboks,silikagel,tørkemiddel,fukt,avfukting,speilløst,dslr,kamerautstyr,tørrskap",
+    "subscription_name": "Soppvakt Pro",
+    "subscription_display_name": "Pro – full tilgang",
+    "subscription_description": "Komplett utstyrssett, 7-dagers risikovarsel, ladepåminnelser for tørkemiddel, varsler ved høy luftfuktighet og eksponeringslogg."
+  },
+  "fi": {
+    "name": "Homevahti: Kamerahuolto",
+    "subtitle": "Kosteus & homeriski kalustoon",
+    "promotional_text": "Onko sinulla kamerakalustoa? Homevahti lukee ilmankosteuden ja kertoo, uhkaako objektiivejasi home tänään – ja milloin ladata silikageeli ja tuulettaa kalusto.",
+    "description": "Onko sinulla kamerakalustoa? Homevahti auttaa pitämään objektiivit ja kamerarungot poissa homeelta.\n\nKosteus muuttuu yhdeksi selkeäksi arvioksi – SAFE, WATCH tai ACT – jokaiselle objektiiville ja rungolle. Home syövyttää optiset pinnoitteet pysyvästi, ja vaara kasvaa usean kostean päivän aikana laukussa, hyllyllä tai kuivalaatikossa.\n\nNÄIN SE TOIMII\nLisää kalustosi ja valitse säilytystapa. Sovellus hakee paikallisen ilmankosteuden ja lämpötilan ja antaa arvion sekä toimenpiteen – esimerkiksi lataa silikageeli tai tuuleta epäsuorassa valossa.\n\nYDINOMINAISUUDET\n- Päivän riskiarvio objektiivi- ja runkokohtaisesti\n- Säilytyksen huomioiva perustelu (laukku, hylly, kuivalaatikko, kuivakaappi)\n- Selkeät toimet ilman arvailua\n\nPRO\n- Seuraa koko kalustoasi\n- 7 päivän riskiennuste\n- Ajastin kuivausaineen lataukseen\n- Hälytykset korkeasta ilmankosteudesta\n- Altistus- ja toimenpideloki\n\nYKSITYISYYS ENSIN\nEi tiliä. Tiedot tallennetaan laitteelle. Sijaintia käytetään vain säähän. Ei seurantaa, ei mainoksia.\n\nHomevahti on kosteusriskiä koskeva opastava apuväline, eikä se korvaa hygrometriä tai fyysistä tarkastusta.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "home,objektiivi,kuivalaatikko,silikageeli,kuivausaine,kosteus,ilmankosteus,kuivakaappi,peilitön,dslr",
+    "subscription_name": "Homevahti Pro",
+    "subscription_display_name": "Pro – täysi käyttö",
+    "subscription_description": "Koko kaluston seuranta, 7 päivän riskiennuste, kuivausaineen latausmuistutukset, hälytykset korkeasta ilmankosteudesta ja altistushistoria."
+  },
+  "cs": {
+    "name": "Hlídač plísně: Péče o foťák",
+    "subtitle": "Vlhkost a riziko plísně",
+    "promotional_text": "Máte fotovybavení? Hlídač plísně čte místní vlhkost a řekne vám, zda vašim objektivům dnes hrozí plíseň – a kdy vyměnit silikagel a vyvětrat techniku.",
+    "description": "Máte fotovybavení? Hlídač plísně vám pomůže udržet objektivy a těla fotoaparátů bez plísně.\n\nVlhkost se promění v jedno jasné hodnocení – SAFE, WATCH nebo ACT – pro každý objektiv i tělo. Plíseň trvale naleptává optické vrstvy a nebezpečí roste během několika vlhkých dní v brašně, na polici nebo v suchém boxu.\n\nJAK TO FUNGUJE\nPřidejte své vybavení a zvolte způsob uložení. Aplikace načte místní vlhkost a teplotu a nabídne hodnocení i doporučenou akci – například vyměnit silikagel nebo vyvětrat v nepřímém světle.\n\nHLAVNÍ FUNKCE\n- Denní hodnocení rizika pro každý objektiv i tělo\n- Zdůvodnění podle způsobu uložení (brašna, police, suchý box, odvlhčovací skříň)\n- Jasné kroky bez dohadů\n\nPRO\n- Sledujte celou výbavu\n- Předpověď rizika na 7 dní\n- Odpočet do výměny vysoušedla\n- Upozornění na vysokou vlhkost\n- Historie expozice a záznam akcí\n\nSOUKROMÍ NA PRVNÍM MÍSTĚ\nŽádný účet. Data se ukládají lokálně. Poloha slouží jen pro počasí. Žádné sledování, žádné reklamy.\n\nHlídač plísně je informativní průvodce rizikem vlhkosti a nenahrazuje vlhkoměr ani fyzickou kontrolu.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "plíseň,objektiv,silikagel,vysoušedlo,vlhkost,odvlhčování,bezzrcadlovka,zrcadlovka,fotovybavení,dslr",
+    "subscription_name": "Hlídač plísně Pro",
+    "subscription_display_name": "Pro – plný přístup",
+    "subscription_description": "Sledování celé výbavy, předpověď rizika na 7 dní, připomínky výměny vysoušedla, upozornění na vysokou vlhkost a historie expozice."
+  },
+  "hu": {
+    "name": "Penészőr: Kameraápolás",
+    "subtitle": "Nedvesség és penészkockázat",
+    "promotional_text": "Van fotófelszerelésed? A Penészőr beolvassa a helyi páratartalmat, és megmondja, fenyegeti-e ma penész az objektíveidet – és mikor cseréld a szilikagélt és szellőztess.",
+    "description": "Van fotófelszerelésed? A Penészőr segít penészmentesen tartani az objektíveket és a kameravázakat.\n\nA páratartalom egyetlen egyértelmű besorolássá válik – SAFE, WATCH vagy ACT – minden objektívre és vázra. A penész maradandóan marja az optikai bevonatokat, és a veszély több nyirkos nap alatt épül fel a táskában, a polcon vagy a szárítódobozban.\n\nHOGYAN MŰKÖDIK\nAdd hozzá a felszerelésed, és válaszd ki a tárolás módját. Az app lekéri a helyi páratartalmat és hőmérsékletet, majd besorolást és teendőt ad – például cseréld a szilikagélt, vagy szellőztess szórt fényben.\n\nFŐ FUNKCIÓK\n- Napi kockázati besorolás objektívenként és vázanként\n- Tárolást figyelembe vevő indoklás (táska, polc, szárítódoboz, szárítószekrény)\n- Világos lépések találgatás nélkül\n\nPRO\n- Kövesd a teljes felszerelést\n- 7 napos kockázati előrejelzés\n- Visszaszámláló a nedvszívó cseréjéhez\n- Riasztás magas páratartalomnál\n- Kitettségi és teendőnapló\n\nADATVÉDELEM ELŐSZÖR\nNincs fiók. Az adatok helyben tárolódnak. A helyadat csak az időjáráshoz kell. Nincs követés, nincs hirdetés.\n\nA Penészőr a nedvességi kockázatról tájékoztató útmutató, és nem helyettesíti a páratartalom-mérőt vagy a fizikai ellenőrzést.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "penész,objektív,szárítódoboz,szilikagél,nedvszívó,páratartalom,tükörnélküli,dslr,fotófelszerelés",
+    "subscription_name": "Penészőr Pro",
+    "subscription_display_name": "Pro – teljes hozzáférés",
+    "subscription_description": "Teljes felszerelés követése, 7 napos kockázati előrejelzés, nedvszívó-csere emlékeztetők, riasztás magas páratartalomnál és kitettségi előzmények."
+  },
+  "ru": {
+    "name": "Защита объектива от грибка",
+    "subtitle": "Влажность и риск плесени",
+    "promotional_text": "Есть фототехника? Приложение считывает местную влажность и подсказывает, грозит ли объективам плесень сегодня, и когда заменить силикагель и проветрить.",
+    "description": "У вас есть фототехника? Приложение считывает местную влажность и превращает её в один вердикт — SAFE, WATCH или ACT — для каждого объектива и камеры.\n\nГрибок и плесень необратимо разъедают просветление оптики. Опасность нарастает за несколько влажных дней в сумке, на полке или в сухом боксе.\n\nКАК ЭТО РАБОТАЕТ\nДобавьте технику и тип хранения. Приложение берёт местную влажность и температуру и выдаёт вердикт и действие — заменить силикагель или проветрить в рассеянном свете.\n\nВОЗМОЖНОСТИ\n- Вердикт риска на сегодня\n- Оценка с учётом хранения\n- Понятные действия\n\nPRO\n- Весь комплект техники\n- Прогноз риска на 7 дней\n- Обратный отсчёт до замены осушителя\n- Оповещения о высокой влажности\n- История воздействия и журнал действий\n\nКОНФИДЕНЦИАЛЬНОСТЬ\nБез аккаунта. Данные хранятся локально. Геолокация только для погоды. Без трекинга и рекламы.\n\nЭто информационный ориентир по риску влажности, а не замена гигрометру или осмотру.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "силикагель,грибок,плесень,объектив,влажность,осушитель,беззеркалка,зеркалка,оптика,драйбокс",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Полный доступ",
+    "subscription_description": "Полный комплект техники, прогноз риска на 7 дней, напоминания о замене осушителя, история воздействия и журнал действий."
+  },
+  "ro": {
+    "name": "Gardă ciuperci obiectiv",
+    "subtitle": "Umiditate și risc de mucegai",
+    "promotional_text": "Ai aparate foto? Aplicația citește umiditatea locală și îți spune dacă obiectivele riscă mucegai azi, plus când să reîncarci silicagelul și să aerisești.",
+    "description": "Ai echipament foto? Aplicația citește umiditatea locală și o transformă într-un singur verdict — SAFE, WATCH sau ACT — pentru fiecare obiectiv și body.\n\nCiupercile și mucegaiul atacă permanent tratamentele optice. Pericolul crește după câteva zile umede în geantă, pe raft sau în cutia uscată.\n\nCUM FUNCȚIONEAZĂ\nAdaugă echipamentul și tipul de depozitare. Aplicația preia umiditatea și temperatura locală și oferă un verdict și o acțiune — reîncarcă silicagelul sau aerisește la lumină indirectă.\n\nFUNCȚII\n- Verdictul de risc pentru azi\n- Evaluare în funcție de depozitare\n- Acțiuni clare\n\nPRO\n- Tot kitul de echipament\n- Prognoză de risc pe 7 zile\n- Numărătoare inversă până la reîncărcarea desicantului\n- Alerte de umiditate ridicată\n- Istoric de expunere și jurnal de acțiuni\n\nCONFIDENȚIALITATE\nFără cont. Date stocate local. Locație doar pentru vreme. Fără urmărire sau reclame.\n\nAcesta este un ghid informativ privind riscul de umiditate, nu un înlocuitor pentru higrometru sau inspecție.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "silicagel,ciuperca,mucegai,obiectiv,umiditate,dezumidificare,mirrorless,dslr,optica,desicant",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Acces complet",
+    "subscription_description": "Tot kitul de echipament, prognoză de risc pe 7 zile, alerte de reîncărcare a desicantului, istoric de expunere și jurnal de acțiuni."
+  },
+  "sk": {
+    "name": "Ochrana objektívu pred plesňou",
+    "subtitle": "Vlhkosť a riziko plesne",
+    "promotional_text": "Máte fototechniku? Aplikácia číta miestnu vlhkosť a povie, či objektívom dnes hrozí pleseň, aj kedy vymeniť silikagél a vyvetrať výbavu.",
+    "description": "Máte fototechniku? Aplikácia číta miestnu vlhkosť a mení ju na jediný verdikt — SAFE, WATCH alebo ACT — pre každý objektív a telo.\n\nPleseň trvalo poškodzuje optické vrstvy. Nebezpečenstvo rastie počas niekoľkých vlhkých dní v taške, na poličke alebo v suchom boxe.\n\nAKO TO FUNGUJE\nPridajte výbavu a typ úložiska. Aplikácia načíta miestnu vlhkosť a teplotu a poskytne verdikt a akciu — vymeniť silikagél alebo vyvetrať v nepriamom svetle.\n\nFUNKCIE\n- Dnešný verdikt rizika\n- Hodnotenie podľa úložiska\n- Jasné akcie\n\nPRO\n- Sledovanie celej výbavy\n- Prognóza rizika na 7 dní\n- Odpočet do výmeny pohlcovača vlhkosti\n- Upozornenia na vysokú vlhkosť\n- História vystavenia a denník akcií\n\nSÚKROMIE\nBez účtu. Dáta uložené lokálne. Poloha len pre počasie. Žiadne sledovanie ani reklamy.\n\nToto je informačný sprievodca rizikom vlhkosti, nie náhrada vlhkomera ani obhliadky.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "silikagel,pleseň,objektív,vlhkosť,odvlhčovač,bezzrkadlovka,zrkadlovka,optika,fotoaparát",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Plný prístup",
+    "subscription_description": "Celá výbava, prognóza rizika na 7 dní, upozornenia na výmenu pohlcovača, história vystavenia a denník akcií."
+  },
+  "uk": {
+    "name": "Захист об'єктива від грибка",
+    "subtitle": "Вологість і ризик цвілі",
+    "promotional_text": "Маєте фототехніку? Застосунок зчитує місцеву вологість і повідомляє, чи об'єктивам загрожує цвіль, і коли замінити силікагель та провітрити.",
+    "description": "Маєте фототехніку? Застосунок зчитує місцеву вологість і перетворює її на один вердикт — SAFE, WATCH або ACT — для кожного об'єктива й камери.\n\nГрибок і цвіль безповоротно роз'їдають просвітлення оптики. Небезпека зростає за кілька вологих днів у сумці, на полиці чи в сухому боксі.\n\nЯК ЦЕ ПРАЦЮЄ\nДодайте техніку й тип зберігання. Застосунок бере місцеву вологість і температуру та видає вердикт і дію — замінити силікагель або провітрити в розсіяному світлі.\n\nМОЖЛИВОСТІ\n- Вердикт ризику на сьогодні\n- Оцінка з урахуванням зберігання\n- Зрозумілі дії\n\nPRO\n- Уся техніка в комплекті\n- Прогноз ризику на 7 днів\n- Зворотний відлік до заміни осушувача\n- Сповіщення про високу вологість\n- Історія впливу та журнал дій\n\nКОНФІДЕНЦІЙНІСТЬ\nБез облікового запису. Дані зберігаються локально. Геолокація лише для погоди. Без стеження та реклами.\n\nЦе інформаційний орієнтир щодо ризику вологості, а не заміна гігрометра чи огляду.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "силікагель,грибок,цвіль,об'єктив,вологість,осушувач,бездзеркалка,дзеркалка,оптика,драйбокс",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Повний доступ",
+    "subscription_description": "Уся техніка в комплекті, прогноз ризику на 7 днів, нагадування про заміну осушувача, історія впливу та журнал дій."
+  },
+  "hr": {
+    "name": "Zaštita objektiva od gljivica",
+    "subtitle": "Vlažnost i rizik od plijesni",
+    "promotional_text": "Imate foto opremu? Aplikacija čita lokalnu vlažnost i govori prijeti li objektivima plijesan danas te kada zamijeniti silikagel i prozračiti opremu.",
+    "description": "Imate foto opremu? Aplikacija čita lokalnu vlažnost i pretvara je u jednu presudu — SAFE, WATCH ili ACT — za svaki objektiv i tijelo.\n\nGljivice i plijesan trajno nagrizaju optičke slojeve. Opasnost raste tijekom nekoliko vlažnih dana u torbi, na polici ili u suhom ormaru.\n\nKAKO RADI\nDodajte opremu i vrstu pohrane. Aplikacija dohvaća lokalnu vlažnost i temperaturu te daje presudu i radnju — zamijeniti silikagel ili prozračiti na neizravnom svjetlu.\n\nGLAVNE ZNAČAJKE\n- Današnja presuda rizika\n- Procjena prema pohrani\n- Jasne radnje\n\nPRO\n- Praćenje cijele opreme\n- Prognoza rizika za 7 dana\n- Odbrojavanje do zamjene sredstva za sušenje\n- Upozorenja na visoku vlažnost\n- Povijest izloženosti i dnevnik radnji\n\nPRIVATNOST\nBez računa. Podaci pohranjeni lokalno. Lokacija samo za vrijeme. Bez praćenja i oglasa.\n\nOvo je informativni vodič o riziku vlage, a ne zamjena za higrometar ili pregled.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "silikagel,gljivice,plijesan,objektiv,vlažnost,odvlaživač,bezzrcalni,dslr,optika,pohrana,drybox,foto",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Puni pristup",
+    "subscription_description": "Cijela oprema, prognoza rizika za 7 dana, upozorenja o zamjeni sredstva za sušenje, povijest izloženosti i dnevnik radnji."
+  },
+  "bg": {
+    "name": "Гъбички обектив: грижа",
+    "subtitle": "Влажност и риск от плесен",
+    "promotional_text": "Имате фото техника? Приложението отчита местната влажност и показва дали обективите ви са застрашени от гъбички днес, кога да смените силикагела и да проветрите.",
+    "description": "Притежавате скъпа фото техника? Гъбичките и плесента по обективите могат да разядат оптичните покрития завинаги, а опасността се натрупва след няколко влажни дни в чантата, на рафта или в сухата кутия.\n\nПриложението отчита местната влажност и температура и ги превръща в една ясна присъда за всеки обектив и корпус: SAFE, WATCH или ACT.\n\nКАК РАБОТИ\n- Добавете техниката си и типа съхранение (чанта, рафт, суха кутия, сух шкаф).\n- Приложението изтегля местната влажност и температура.\n- Получавате присъда и действие: сменете силикагела или проветрете на разсеяна светлина.\n\nОСНОВНИ ФУНКЦИИ\n- Днешна оценка на риска от гъбички за всеки обектив\n- Разсъждение според начина на съхранение\n- Ясни стъпки за действие\n\nPRO ФУНКЦИИ\n- Проследяване на цялата техника\n- 7-дневна прогноза за риска\n- Отброяване до презареждане на влагоуловителя\n- Известия при висока влажност\n- История на излагането и дневник на действията\n\nПОВЕРИТЕЛНОСТ\n- Без акаунт, без реклами, без проследяване\n- Данните се съхраняват локално\n- Местоположението се използва само за метео данни\n\nЗабележка: това е информационен помощник за оценка на риска от влага, а не заместител на хигрометър или оглед.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "гъбички,плесен,влажност,силикагел,обектив,изсушител,обезвлажняване,фотоапарат,DSLR,техника,кутия",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Пълен достъп",
+    "subscription_description": "Пълен достъп до целия комплект: следете всичките си обективи и корпуси, 7-дневна прогноза за риска от гъбички, отброяване до презареждане на силикагела, известия при висока влажност, история на излагането и дневник на действията."
+  },
+  "el": {
+    "name": "Μύκητας φακού: Φροντίδα",
+    "subtitle": "Υγρασία & κίνδυνος μούχλας",
+    "promotional_text": "Έχετε εξοπλισμό; Η εφαρμογή διαβάζει την υγρασία και σας λέει αν οι φακοί κινδυνεύουν από μούχλα σήμερα, πότε να αλλάξετε το silica gel και να αερίσετε.",
+    "description": "Έχετε ακριβό φωτογραφικό εξοπλισμό; Ο μύκητας και η μούχλα στους φακούς μπορούν να χαράξουν μόνιμα τις οπτικές επικαλύψεις, ενώ ο κίνδυνος αυξάνεται μετά από αρκετές υγρές ημέρες μέσα στην τσάντα, στο ράφι ή στη θήκη.\n\nΗ εφαρμογή διαβάζει την τοπική υγρασία και θερμοκρασία και τις μετατρέπει σε μία καθαρή ετυμηγορία για κάθε φακό και σώμα: SAFE, WATCH ή ACT.\n\nΠΩΣ ΛΕΙΤΟΥΡΓΕΙ\n- Προσθέστε τον εξοπλισμό σας και τον τρόπο αποθήκευσης (τσάντα, ράφι, στεγνή θήκη, ξηραντικό κουτί).\n- Η εφαρμογή αντλεί την τοπική υγρασία και θερμοκρασία.\n- Λαμβάνετε ετυμηγορία και ενέργεια: αλλάξτε το silica gel ή αερίστε σε έμμεσο φως.\n\nΒΑΣΙΚΕΣ ΛΕΙΤΟΥΡΓΙΕΣ\n- Σημερινή αξιολόγηση κινδύνου μύκητα ανά φακό\n- Σκεπτικό με βάση τον τρόπο αποθήκευσης\n- Καθαρά βήματα δράσης\n\nPRO\n- Παρακολούθηση όλου του εξοπλισμού\n- Πρόγνωση κινδύνου 7 ημερών\n- Αντίστροφη μέτρηση για επαναφόρτιση αφυγραντικού\n- Ειδοποιήσεις υψηλής υγρασίας\n- Ιστορικό έκθεσης και ημερολόγιο ενεργειών\n\nΑΠΟΡΡΗΤΟ\n- Χωρίς λογαριασμό, χωρίς διαφημίσεις, χωρίς παρακολούθηση\n- Τα δεδομένα αποθηκεύονται τοπικά\n- Η τοποθεσία χρησιμοποιείται μόνο για τα δεδομένα καιρού\n\nΣημείωση: πρόκειται για ενημερωτικό οδηγό εκτίμησης κινδύνου υγρασίας, όχι υποκατάστατο υγρόμετρου ή επιθεώρησης.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "μύκητας,μούχλα,υγρασία,silica,φακός,αφυγραντικό,αφύγρανση,φωτογραφική,DSLR,mirrorless,ξηραντικό,θήκη",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Πλήρης πρόσβαση",
+    "subscription_description": "Πλήρης πρόσβαση σε όλο τον εξοπλισμό: παρακολούθηση όλων των φακών και σωμάτων, πρόγνωση κινδύνου μύκητα 7 ημερών, αντίστροφη μέτρηση επαναφόρτισης silica gel, ειδοποιήσεις υψηλής υγρασίας, ιστορικό έκθεσης και ημερολόγιο ενεργειών."
+  },
+  "ca": {
+    "name": "Fongs a l'objectiu: Cura",
+    "subtitle": "Humitat i risc de floridura",
+    "promotional_text": "Tens equip fotogràfic? L'app llegeix la humitat local i et diu si els objectius corren risc de fongs avui, i quan recarregar el gel de sílice i ventilar.",
+    "description": "Tens equip fotogràfic de valor? Els fongs i la floridura als objectius poden ratllar per sempre els revestiments òptics, i el perill s'acumula després de diversos dies humits dins la bossa, al prestatge o a la caixa seca.\n\nL'aplicació llegeix la humitat i la temperatura locals i les converteix en un veredicte clar per a cada objectiu i cos: SAFE, WATCH o ACT.\n\nCOM FUNCIONA\n- Afegeix el teu equip i el tipus d'emmagatzematge (bossa, prestatge, caixa seca, armari sec).\n- L'app obté la humitat i la temperatura locals.\n- Reps un veredicte i una acció: recarrega el gel de sílice o ventila amb llum indirecta.\n\nFUNCIONS PRINCIPALS\n- Avaluació del risc de fongs d'avui per a cada objectiu\n- Raonament segons la forma d'emmagatzematge\n- Passos d'acció clars\n\nPRO\n- Segueix tot el teu equip\n- Previsió de risc de 7 dies\n- Compte enrere per recarregar el dessecant\n- Avisos d'humitat alta\n- Historial d'exposició i registre d'accions\n\nPRIVADESA\n- Sense compte, sense anuncis, sense seguiment\n- Les dades es guarden localment\n- La ubicació només s'usa per a les dades del temps\n\nNota: és una guia informativa d'avaluació del risc d'humitat, no un substitut d'un higròmetre o d'una inspecció.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "fongs,floridura,humitat,gel de sílice,objectiu,dessecant,deshumidificar,càmera,DSLR,mirrorless",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Accés complet",
+    "subscription_description": "Accés complet a tot l'equip: segueix tots els objectius i cossos, previsió de risc de fongs de 7 dies, compte enrere per recarregar el gel de sílice, avisos d'humitat alta, historial d'exposició i registre d'accions."
+  },
+  "en-GB": {
+    "name": "Lens Mould Guard: Kit Care",
+    "subtitle": "Humidity & Mould Risk for Kit",
+    "promotional_text": "Own camera kit? Lens Mould Guard reads local humidity and tells you if your lenses risk mould today, plus when to recharge silica gel and air them out.",
+    "description": "Own valuable camera kit? Fungus and mould on your lenses can etch the optical coatings permanently, and the danger builds up over several damp days inside your bag, on a shelf or in a dry box.\n\nLens Mould Guard reads your local humidity and temperature and turns them into one clear verdict for every lens and body: SAFE, WATCH or ACT.\n\nHOW IT WORKS\n- Add your kit and how you store it (bag, shelf, dry box, dry cabinet).\n- The app pulls your local humidity and temperature.\n- You get a verdict and an action: recharge the silica gel or air it out in indirect light.\n\nCORE FEATURES\n- Today's fungus risk verdict for every lens\n- Storage-aware reasoning\n- Clear, simple actions\n\nPRO FEATURES\n- Track your whole kit\n- 7-day risk forecast\n- Desiccant recharge countdown\n- High-humidity alerts\n- Exposure history and action log\n\nPRIVACY FIRST\n- No account, no ads, no tracking\n- Data stored locally on your device\n- Location used only for weather data\n\nNote: this is an informational moisture-risk guide, not a substitute for a hygrometer or a physical inspection.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "dry box,silica gel,mould,fungus,humidity,dehumidify,mirrorless,dslr,desiccant,lens,damp,storage",
+    "subscription_name": "Lens Mould Guard Pro",
+    "subscription_display_name": "Pro — Full Access",
+    "subscription_description": "Full access to your whole kit: track every lens and body, a 7-day fungus risk forecast, silica gel recharge countdown, high-humidity alerts, exposure history and an action log."
+  },
+  "ar": {
+    "name": "حارس فطريات عدسة الكاميرا",
+    "subtitle": "رطوبة وخطر العفن على معداتك",
+    "promotional_text": "هل تملك معدات تصوير؟ يقرأ التطبيق الرطوبة المحلية ويخبرك إن كانت عدساتك معرّضة للعفن اليوم، ومتى تعيد شحن السيليكا جل وتهوّي معداتك.",
+    "description": "هل تملك عدسات وكاميرات ثمينة؟ الرطوبة العالية قد تؤدي إلى نمو الفطريات والعفن على العدسات وأجسام الكاميرا، وقد يترك ذلك أثرًا دائمًا على الطلاءات البصرية. يتراكم الخطر عبر عدة أيام رطبة داخل الحقيبة أو الرف أو صندوق التجفيف.\n\nيقرأ التطبيق الرطوبة والحرارة المحلية ويحوّلها إلى حكم واضح لكل عدسة وجسم: آمن / راقب / تحرّك.\n\nكيف يعمل:\n- أضف معداتك ونوع التخزين (حقيبة، رف، صندوق تجفيف).\n- يجلب التطبيق الرطوبة والحرارة لموقعك.\n- تحصل على الحكم وإجراء مقترح مثل إعادة شحن السيليكا جل أو التهوية في ضوء غير مباشر.\n\nالميزات الأساسية:\n- حكم خطر العفن لهذا اليوم.\n- تحليل يراعي طريقة التخزين.\n- إجراءات واضحة وبسيطة.\n\nميزات Pro:\n- تتبّع طقم المعدات كاملًا.\n- توقّع الخطر لسبعة أيام.\n- عدّاد إعادة شحن السيليكا جل.\n- تنبيهات الرطوبة المرتفعة.\n- سجل التعرّض وسجل الإجراءات.\n\nالخصوصية أولًا: لا حساب، تخزين محلي على الجهاز، الموقع للطقس فقط، بلا تتبّع أو إعلانات.\n\nتنبيه: هذا دليل معلوماتي لخطر الرطوبة وليس بديلًا عن مقياس رطوبة أو فحص مباشر للمعدات.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "فطريات العدسة,عفن الكاميرا,سيليكا جل,رطوبة,صندوق تجفيف,تجفيف,ميرورليس,دي اس ال ار,عدسة قديمة",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — وصول كامل",
+    "subscription_description": "طقم المعدات الكامل، توقّع الخطر لسبعة أيام، تنبيهات إعادة شحن السيليكا جل، وسجل التعرّض للرطوبة."
+  },
+  "he": {
+    "name": "שומר עובש לעדשות מצלמה",
+    "subtitle": "לחות וסיכון עובש לציוד",
+    "promotional_text": "יש לך ציוד צילום? האפליקציה קוראת את הלחות המקומית ואומרת אם העדשות בסיכון לעובש היום, ומתי לטעון מחדש סיליקה ג'ל ולאוורר את הציוד.",
+    "description": "יש לך עדשות ומצלמות יקרות? לחות גבוהה עלולה לגרום לפטריות ולעובש על העדשות וגופי המצלמה, ולהשאיר סימן קבוע על הציפויים האופטיים. הסיכון מצטבר לאורך כמה ימים לחים בתוך התיק, המדף או קופסת הייבוש.\n\nהאפליקציה קוראת את הלחות והטמפרטורה המקומיות והופכת אותן להחלטה ברורה לכל עדשה וגוף: בטוח / עקוב / פעל.\n\nאיך זה עובד:\n- הוסף את הציוד ואת סוג האחסון (תיק, מדף, קופסת ייבוש).\n- האפליקציה מושכת לחות וטמפרטורה למיקום שלך.\n- מקבלים החלטה ופעולה מומלצת כמו טעינת סיליקה ג'ל או אוורור באור עקיף.\n\nתכונות עיקריות:\n- החלטת סיכון עובש להיום.\n- ניתוח שמתחשב בסוג האחסון.\n- פעולות ברורות ופשוטות.\n\nתכונות Pro:\n- מעקב אחר כל ערכת הציוד.\n- תחזית סיכון ל-7 ימים.\n- ספירה לאחור לטעינת סיליקה ג'ל.\n- התראות לחות גבוהה.\n- היסטוריית חשיפה ויומן פעולות.\n\nפרטיות תחילה: בלי חשבון, אחסון מקומי במכשיר, מיקום למזג אוויר בלבד, בלי מעקב ופרסומות.\n\nהערה: זהו מדריך מידע לסיכון לחות ואינו תחליף למד לחות או לבדיקה ישירה של הציוד.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "עובש,פטרייה,עדשה,לחות,סיליקה ג'ל,קופסת ייבוש,ייבוש,מירורלס,DSLR,עדשה ישנה,מצלמה",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — גישה מלאה",
+    "subscription_description": "כל ערכת הציוד, תחזית סיכון ל-7 ימים, התראות טעינת סיליקה ג'ל, והיסטוריית חשיפה ללחות."
+  },
+  "hi": {
+    "name": "लेंस फंगस गार्ड: कैमरा केयर",
+    "subtitle": "कैमरा गियर के लिए नमी अलर्ट",
+    "promotional_text": "कैमरा गियर है? यह ऐप स्थानीय नमी पढ़ता है और बताता है कि आपके लेंस पर आज मोल्ड का जोखिम है या नहीं, और सिलिका जेल कब रिचार्ज करें व गियर हवादार करें।",
+    "description": "कीमती लेंस और कैमरा हैं? ज्यादा नमी से लेंस और कैमरा बॉडी पर फंगस और मोल्ड पनप सकता है, जो ऑप्टिकल कोटिंग पर स्थायी निशान छोड़ सकता है। बैग, शेल्फ या ड्राई बॉक्स में कई नम दिनों तक जोखिम बढ़ता रहता है।\n\nयह ऐप स्थानीय नमी और तापमान पढ़कर हर लेंस और बॉडी के लिए एक साफ फैसला देता है: सेफ / वॉच / एक्ट।\n\nकैसे काम करता है:\n- अपना गियर और स्टोरेज टाइप जोड़ें (बैग, शेल्फ, ड्राई बॉक्स)।\n- ऐप आपके स्थान की नमी और तापमान लेता है।\n- फैसला और सुझाया गया कदम मिलता है, जैसे सिलिका जेल रिचार्ज करना या अप्रत्यक्ष रोशनी में हवा देना।\n\nमुख्य फीचर:\n- आज का मोल्ड जोखिम फैसला।\n- स्टोरेज के हिसाब से विश्लेषण।\n- साफ और आसान कदम।\n\nPro फीचर:\n- पूरी गियर किट ट्रैक करें।\n- 7-दिन का जोखिम पूर्वानुमान।\n- सिलिका जेल रिचार्ज काउंटडाउन।\n- ज्यादा नमी के अलर्ट।\n- एक्सपोज़र हिस्ट्री और एक्शन लॉग।\n\nप्राइवेसी फर्स्ट: कोई अकाउंट नहीं, डेटा डिवाइस पर लोकल, स्थान सिर्फ मौसम के लिए, कोई ट्रैकिंग या विज्ञापन नहीं।\n\nनोट: यह नमी जोखिम की जानकारी देने वाला गाइड है, हाइग्रोमीटर या गियर की सीधी जांच का विकल्प नहीं।\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "फंगस,मोल्ड,लेंस,नमी,सिलिका जेल,ड्राई बॉक्स,डीह्यूमिडिफाई,मिररलेस,डीएसएलआर,कैमरा,पुराना लेंस",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — पूरा एक्सेस",
+    "subscription_description": "पूरी गियर किट, 7-दिन का जोखिम पूर्वानुमान, सिलिका जेल रिचार्ज अलर्ट, और नमी एक्सपोज़र हिस्ट्री।"
+  },
+  "th": {
+    "name": "เชื้อราเลนส์ ดูแลกล้อง",
+    "subtitle": "ความชื้นและความเสี่ยงรา",
+    "promotional_text": "มีอุปกรณ์กล้อง? แอปอ่านความชื้นในพื้นที่ของคุณ และบอกว่าเลนส์เสี่ยงเชื้อราวันนี้หรือไม่ พร้อมบอกเวลาชาร์จซิลิกาเจลใหม่และผึ่งอุปกรณ์",
+    "description": "มีเลนส์และกล้องราคาแพงไหม? ความชื้นสูงอาจทำให้เกิดเชื้อราบนเลนส์และบอดี้กล้อง และทิ้งรอยถาวรบนสารเคลือบผิวเลนส์ ความเสี่ยงจะสะสมตลอดหลายวันที่อากาศชื้นภายในกระเป๋า ชั้นวาง หรือกล่องกันชื้น\n\nแอปอ่านความชื้นและอุณหภูมิในพื้นที่ แล้วแปลงเป็นคำตัดสินชัดเจนสำหรับเลนส์และบอดี้แต่ละตัว: ปลอดภัย / เฝ้าดู / ลงมือ\n\nวิธีใช้งาน:\n- เพิ่มอุปกรณ์และประเภทการเก็บ (กระเป๋า ชั้นวาง กล่องกันชื้น)\n- แอปดึงความชื้นและอุณหภูมิของตำแหน่งคุณ\n- รับคำตัดสินและการกระทำที่แนะนำ เช่น ชาร์จซิลิกาเจลใหม่ หรือผึ่งในแสงทางอ้อม\n\nฟีเจอร์หลัก:\n- คำตัดสินความเสี่ยงเชื้อราของวันนี้\n- การวิเคราะห์ตามวิธีจัดเก็บ\n- ขั้นตอนชัดเจนและง่าย\n\nฟีเจอร์ Pro:\n- ติดตามชุดอุปกรณ์ทั้งหมด\n- พยากรณ์ความเสี่ยง 7 วัน\n- นับถอยหลังชาร์จซิลิกาเจล\n- แจ้งเตือนความชื้นสูง\n- ประวัติการสัมผัสและบันทึกการกระทำ\n\nความเป็นส่วนตัวมาก่อน: ไม่มีบัญชี เก็บข้อมูลในเครื่อง ใช้ตำแหน่งเพื่อสภาพอากาศเท่านั้น ไม่มีการติดตามหรือโฆษณา\n\nหมายเหตุ: นี่คือคู่มือให้ข้อมูลความเสี่ยงจากความชื้น ไม่ใช่สิ่งทดแทนไฮโกรมิเตอร์หรือการตรวจอุปกรณ์โดยตรง\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "เชื้อรา,รา,เลนส์,ความชื้น,ซิลิกาเจล,กล่องกันชื้น,ดูดความชื้น,มิเรอร์เลส,DSLR,กล้อง,เลนส์เก่า",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — เข้าถึงเต็มรูปแบบ",
+    "subscription_description": "ชุดอุปกรณ์เต็มรูปแบบ พยากรณ์ความเสี่ยง 7 วัน แจ้งเตือนชาร์จซิลิกาเจล และประวัติการสัมผัสความชื้น"
+  },
+  "vi": {
+    "name": "Chống Nấm Mốc Ống Kính",
+    "subtitle": "Độ ẩm & nguy cơ nấm cho gear",
+    "promotional_text": "Có máy ảnh? Ứng dụng đọc độ ẩm khu vực của bạn và cho biết ống kính có nguy cơ nấm mốc hôm nay không, cùng lúc sạc lại hạt hút ẩm và thông gió cho thiết bị.",
+    "description": "Bạn có ống kính và máy ảnh đắt tiền? Độ ẩm cao có thể khiến nấm mốc phát triển trên ống kính và thân máy, để lại vết hằn vĩnh viễn trên lớp phủ quang học. Nguy cơ tích tụ qua nhiều ngày ẩm bên trong túi, kệ hoặc tủ chống ẩm.\n\nỨng dụng đọc độ ẩm và nhiệt độ khu vực, rồi chuyển thành một kết luận rõ ràng cho từng ống kính và thân máy: An toàn / Theo dõi / Hành động.\n\nCách hoạt động:\n- Thêm thiết bị và kiểu lưu trữ (túi, kệ, tủ chống ẩm).\n- Ứng dụng lấy độ ẩm và nhiệt độ cho vị trí của bạn.\n- Nhận kết luận và hành động gợi ý như sạc lại hạt hút ẩm hoặc thông gió dưới ánh sáng gián tiếp.\n\nTính năng chính:\n- Kết luận nguy cơ nấm mốc hôm nay.\n- Phân tích theo kiểu lưu trữ.\n- Các bước rõ ràng, đơn giản.\n\nTính năng Pro:\n- Theo dõi toàn bộ bộ thiết bị.\n- Dự báo nguy cơ 7 ngày.\n- Đếm ngược sạc lại hạt hút ẩm.\n- Cảnh báo độ ẩm cao.\n- Lịch sử phơi ẩm và nhật ký hành động.\n\nRiêng tư trước tiên: không tài khoản, lưu cục bộ trên máy, vị trí chỉ dùng cho thời tiết, không theo dõi hay quảng cáo.\n\nLưu ý: đây là hướng dẫn thông tin về nguy cơ độ ẩm, không thay thế cho ẩm kế hay việc kiểm tra thiết bị trực tiếp.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "nấm mốc,ống kính,độ ẩm,hạt hút ẩm,silica gel,tủ chống ẩm,hút ẩm,mirrorless,DSLR,máy ảnh,lens cũ",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Toàn quyền truy cập",
+    "subscription_description": "Toàn bộ bộ thiết bị, dự báo nguy cơ 7 ngày, cảnh báo sạc lại hạt hút ẩm, và lịch sử phơi ẩm."
+  },
+  "id": {
+    "name": "Penjaga Jamur Lensa Kamera",
+    "subtitle": "Kelembapan & Risiko Jamur",
+    "promotional_text": "Punya kamera? Aplikasi ini membaca kelembapan lokal dan memberi tahu apakah lensa berisiko jamur hari ini, plus kapan mengisi ulang silica gel dan diangin-anginkan.",
+    "description": "Punya lensa dan kamera kesayangan? Kelembapan tinggi diam-diam bisa menumbuhkan jamur pada lensa dan bodi kamera. Jamur mengetsa lapisan optik secara permanen dan sulit dihilangkan. Lens Fungus Guard membantu Anda memantau risiko itu setiap hari.\n\nAplikasi membaca kelembapan dan suhu lokal, lalu mengubahnya menjadi satu putusan yang jelas untuk tiap lensa dan bodi: SAFE, WATCH, atau ACT. Bahaya menumpuk selama beberapa hari lembap di dalam tas, rak, atau dry box, jadi Anda tahu kapan harus bertindak.\n\nCARA KERJA\n- Tambahkan gear Anda dan pilih jenis penyimpanan (tas, rak terbuka, dry box, atau dry cabinet).\n- Aplikasi menarik kelembapan dan suhu lokal.\n- Dapatkan putusan plus tindakan yang disarankan, seperti mengisi ulang silica gel atau mengangin-anginkan di cahaya tidak langsung.\n\nFITUR UTAMA\n- Putusan risiko jamur hari ini untuk setiap gear.\n- Penalaran yang sadar jenis penyimpanan.\n- Tindakan yang jelas dan mudah diikuti.\n\nFITUR PRO\n- Lacak seluruh kit kamera Anda.\n- Prakiraan risiko 7 hari.\n- Hitung mundur pengisian ulang desikan.\n- Peringatan kelembapan tinggi.\n- Riwayat paparan dan catatan tindakan.\n\nPRIVASI DULU\n- Tanpa akun.\n- Data disimpan lokal di perangkat.\n- Lokasi hanya untuk data cuaca.\n- Tanpa pelacakan, tanpa iklan.\n\nCatatan: ini panduan informatif risiko kelembapan, bukan pengganti higrometer atau pemeriksaan langsung gear Anda.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "jamur lensa,dry box,silica gel,dry cabinet,mirrorless,dslr,lensa vintage,dehumidify,kamera,lembap",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Akses Penuh",
+    "subscription_description": "Kit lengkap semua gear, prakiraan risiko jamur 7 hari, pengingat isi ulang silica gel, peringatan kelembapan tinggi, dan riwayat paparan gear Anda."
+  },
+  "ms": {
+    "name": "Pengawal Kulat Lensa Kamera",
+    "subtitle": "Kelembapan & Risiko Kulat",
+    "promotional_text": "Ada kamera? Apl ini membaca kelembapan setempat dan memberitahu jika lensa berisiko kulat hari ini, serta bila perlu mengecas semula silica gel dan mengeringkannya.",
+    "description": "Ada lensa dan kamera kesayangan? Kelembapan tinggi boleh menumbuhkan kulat pada lensa dan badan kamera secara senyap. Kulat mengakis salutan optik secara kekal dan sukar dibuang. Pengawal Kulat Lensa membantu anda memantau risiko itu setiap hari.\n\nApl membaca kelembapan dan suhu setempat, lalu menukarnya menjadi satu keputusan jelas untuk setiap lensa dan badan: SAFE, WATCH, atau ACT. Bahaya terkumpul selama beberapa hari lembap di dalam beg, rak, atau dry box, jadi anda tahu bila perlu bertindak.\n\nCARA IANYA BERFUNGSI\n- Tambah peralatan anda dan pilih jenis penyimpanan (beg, rak terbuka, dry box, atau dry cabinet).\n- Apl menarik kelembapan dan suhu setempat.\n- Dapatkan keputusan serta tindakan yang disarankan, seperti mengecas semula silica gel atau mengeringkan gear dalam cahaya tidak langsung.\n\nCIRI UTAMA\n- Keputusan risiko kulat hari ini untuk setiap peralatan.\n- Penaakulan yang mengambil kira penyimpanan.\n- Tindakan yang jelas dan mudah diikuti.\n\nCIRI PRO\n- Jejak seluruh kit kamera anda.\n- Ramalan risiko 7 hari.\n- Kira detik cas semula silica gel.\n- Amaran kelembapan tinggi.\n- Sejarah pendedahan dan log tindakan.\n\nPRIVASI DIUTAMAKAN\n- Tanpa akaun.\n- Data disimpan setempat pada peranti.\n- Lokasi hanya untuk data cuaca.\n- Tanpa penjejakan, tanpa iklan.\n\nNota: ini panduan maklumat risiko kelembapan, bukan pengganti higrometer atau pemeriksaan langsung gear anda.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "kulat lensa,dry box,silica gel,kelembapan,dry cabinet,mirrorless,dslr,lensa vintaj,dehumidify,kamera",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Akses Penuh",
+    "subscription_description": "Kit lengkap semua peralatan, ramalan risiko kulat 7 hari, peringatan cas semula silica gel, amaran kelembapan tinggi, dan sejarah pendedahan gear anda."
+  },
+  "tr": {
+    "name": "Lens Küf Riski: Bakım",
+    "subtitle": "Ekipman için nem ve küf riski",
+    "promotional_text": "Fotoğraf ekipmanınız mı var? Uygulama yerel nemi okur, lenslerinizin bugün küf riskini ve silika jeli ne zaman değiştirip havalandıracağınızı söyler.",
+    "description": "Değerli fotoğraf ekipmanınız mı var? Lenslerdeki mantar ve küf, optik kaplamaları kalıcı olarak aşındırabilir; tehlike ise çantada, rafta ya da kuru kutuda geçen birkaç nemli günün ardından birikir.\n\nUygulama yerel nemi ve sıcaklığı okur ve bunları her lens ve gövde için tek bir net sonuca dönüştürür: SAFE, WATCH ya da ACT.\n\nNASIL ÇALIŞIR\n- Ekipmanınızı ve saklama türünü ekleyin (çanta, raf, kuru kutu, kuru dolap).\n- Uygulama yerel nem ve sıcaklık verisini çeker.\n- Bir sonuç ve eylem alırsınız: silika jeli yenileyin ya da dolaylı ışıkta havalandırın.\n\nTEMEL ÖZELLİKLER\n- Her lens için bugünkü küf riski sonucu\n- Saklama türüne göre değerlendirme\n- Net ve basit adımlar\n\nPRO ÖZELLİKLER\n- Tüm ekipmanınızı takip edin\n- 7 günlük risk tahmini\n- Nem alıcı yenileme geri sayımı\n- Yüksek nem uyarıları\n- Maruz kalma geçmişi ve eylem günlüğü\n\nGİZLİLİK\n- Hesap yok, reklam yok, takip yok\n- Veriler cihazınızda yerel olarak saklanır\n- Konum yalnızca hava durumu verisi için kullanılır\n\nNot: bu, nem riskini değerlendiren bilgilendirici bir rehberdir; higrometre ya da fiziksel incelemenin yerini tutmaz.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "küf,mantar,nem,silika jel,lens,objektif,nem alıcı,nem alma,fotoğraf,DSLR,aynasız,kuru kutu",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — Tam Erişim",
+    "subscription_description": "Tüm ekipmanınıza tam erişim: her lens ve gövdeyi takip edin, 7 günlük küf riski tahmini, silika jel yenileme geri sayımı, yüksek nem uyarıları, maruz kalma geçmişi ve eylem günlüğü."
+  },
+  "ka": {
+    "name": "ობიექტივის სოკო & კამერა",
+    "subtitle": "ტენიანობა და ობის რისკი",
+    "promotional_text": "გაქვთ ფოტოტექნიკა? აპი კითხულობს ადგილობრივ ტენიანობას და გეუბნებათ, ემუქრება თუ არა ლინზას სოკო დღეს, და როდის დატენოთ სილიკაგელი და გაანიავოთ.",
+    "description": "გიყვართ თქვენი ლინზები და კამერა? მაღალი ტენიანობა შეუმჩნევლად ავითარებს სოკოს ლინზებსა და კამერის კორპუსზე. სოკო სამუდამოდ აზიანებს ოპტიკურ საფარს და ძნელი მოსაშორებელია. ეს აპი გეხმარებათ ამ რისკის ყოველდღიურ თვალყურის დევნებაში.\n\nაპი კითხულობს ადგილობრივ ტენიანობასა და ტემპერატურას და გარდაქმნის მას ერთ მკაფიო შეფასებად თითოეული ლინზისა და კორპუსისთვის: SAFE, WATCH ან ACT. საფრთხე გროვდება რამდენიმე ნესტიანი დღის განმავლობაში ჩანთაში, თაროზე ან დრაი ბოქსში, ასე რომ იცით, როდის უნდა იმოქმედოთ.\n\nროგორ მუშაობს\n- დაამატეთ თქვენი ტექნიკა და აირჩიეთ შენახვის ტიპი (ჩანთა, ღია თარო, დრაი ბოქსი ან დრაი ქაბინეტი).\n- აპი იღებს ადგილობრივ ტენიანობასა და ტემპერატურას.\n- მიიღეთ შეფასება და რეკომენდებული ქმედება, მაგალითად სილიკაგელის დატენვა ან ტექნიკის გაანიავება არაპირდაპირ სინათლეზე.\n\nძირითადი ფუნქციები\n- დღევანდელი სოკოს რისკის შეფასება თითოეული ტექნიკისთვის.\n- შენახვის პირობების გათვალისწინება.\n- მკაფიო და მარტივი ქმედებები.\n\nPRO ფუნქციები\n- აკონტროლეთ თქვენი მთელი ნაკრები.\n- 7-დღიანი რისკის პროგნოზი.\n- სილიკაგელის დატენვის ათვლა.\n- მაღალი ტენიანობის გაფრთხილებები.\n- ექსპოზიციის ისტორია და ქმედებების ჟურნალი.\n\nკონფიდენციალურობა უპირველესად\n- ანგარიშის გარეშე.\n- მონაცემები ინახება ლოკალურად მოწყობილობაზე.\n- მდებარეობა მხოლოდ ამინდისთვის.\n- თვალთვალისა და რეკლამის გარეშე.\n\nშენიშვნა: ეს არის ტენიანობის რისკის საინფორმაციო გზამკვლევი, არა ჰიგრომეტრის ან ტექნიკის უშუალო შემოწმების ჩამნაცვლებელი.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "ლინზის სოკო,დრაი ბოქსი,სილიკაგელი,ტენიანობა,ობი,მიროლესი,dslr,ვინტაჟური ობიექტივი,კამერა,ფოტოაპარატი",
+    "subscription_name": "Lens Fungus Guard Pro",
+    "subscription_display_name": "Pro — სრული წვდომა",
+    "subscription_description": "სრული ტექნიკის ნაკრები, სოკოს რისკის 7-დღიანი პროგნოზი, სილიკაგელის დატენვის შეხსენებები, მაღალი ტენიანობის გაფრთხილებები და ექსპოზიციის ისტორია."
+  }
+}
