@@ -1,0 +1,2 @@
+Hindari lapisan gagal
+dan pengulangan mahal
