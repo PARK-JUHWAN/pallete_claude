@@ -1,2 +1,0 @@
-Controla cada piercing
-con su propio conteo
