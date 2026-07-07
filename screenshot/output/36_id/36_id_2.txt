@@ -1,2 +1,0 @@
-Formik, oksalat, Apivar
-dicek dengan prakiraan

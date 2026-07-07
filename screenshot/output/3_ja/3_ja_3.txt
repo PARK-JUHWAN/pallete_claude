@@ -1,2 +1,0 @@
-巣箱ごとにTREAT・WAIT・DON'T
-理由まで表示
