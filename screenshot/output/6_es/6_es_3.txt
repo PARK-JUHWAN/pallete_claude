@@ -1,0 +1,2 @@
+Sabe cuándo estás listo
+GO, WAIT o HOLD
