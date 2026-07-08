@@ -88,10 +88,12 @@ RTL_LANGS = {"ar", "ur", "he"}
 LANG_TO_FONT = {
     # Latin / European / Cyrillic / Greek (covered by NotoSans)
     "en": "NotoSans-Black.ttf",
+    "en_US": "NotoSans-Black.ttf",
     "en_GB": "NotoSans-Black.ttf",
     "en_AU": "NotoSans-Black.ttf",
     "en_CA": "NotoSans-Black.ttf",
     "de": "NotoSans-Black.ttf",
+    "de_DE": "NotoSans-Black.ttf",
     "fr": "NotoSans-Black.ttf",
     "fr_FR": "NotoSans-Black.ttf",
     "fr_CA": "NotoSans-Black.ttf",
