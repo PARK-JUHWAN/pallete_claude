@@ -1,16 +1,16 @@
 {
   "en-US": {
     "slogan_1": [
-      "Stop guessing incubator humidity",
-      "See if each egg is on track"
+      "Stop losing queens to bad timing",
+      "Read today's mating window"
     ],
     "slogan_2": [
-      "Every species, every egg",
-      "Fresh weight to internal pip"
+      "Every graft batch, every nuc",
+      "One rolling schedule"
     ],
     "slogan_3": [
-      "Catch a drying egg early",
-      "Before it's dead in shell"
+      "Catch out-of-timing nucs early",
+      "Re-cell before the round fails"
     ]
   }
 }
