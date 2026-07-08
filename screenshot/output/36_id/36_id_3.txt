@@ -1,0 +1,2 @@
+Deteksi nuc di luar waktu lebih awal
+Buat sel ratu baru sebelum siklus gagal

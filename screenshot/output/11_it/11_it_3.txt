@@ -1,0 +1,2 @@
+Trova i nuclei fuori tempo
+Ricella prima che il ciclo fallisca

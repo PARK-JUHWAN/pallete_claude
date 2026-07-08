@@ -1,0 +1,2 @@
+Stop losing queens to bad timing
+Read today's mating window

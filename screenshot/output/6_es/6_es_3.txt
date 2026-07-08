@@ -1,0 +1,2 @@
+Detecta núcleos fuera de tiempo
+Recelda antes de perder el ciclo

@@ -1,0 +1,2 @@
+Detecta núcleos desfasados a tiempo
+Recelda antes de que falle el ciclo
