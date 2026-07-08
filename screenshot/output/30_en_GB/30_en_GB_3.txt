@@ -1,2 +1,0 @@
-Spot out-of-timing nucs early
-Re-cell before the round fails

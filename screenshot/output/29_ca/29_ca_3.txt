@@ -1,2 +1,0 @@
-Detecta nuclis fora de temps aviat
-Refes la cel·la abans que falli
