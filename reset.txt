@@ -32,3 +32,4 @@ Copy-Item "new\ipad_3.png"   "screenshot\ingredient\" -Force
 Copy-Item "new\screenshot.json" "screenshot\source\en-US.json" -Force
 Copy-Item "new\json.json" "json\source\en-US.json" -Force
 Remove-Item "new\*" -Recurse -Force
+
