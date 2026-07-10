@@ -1,0 +1,392 @@
+{
+  "en-US": {
+    "name": "Shiitake Log: Soak & Fruiting",
+    "subtitle": "Oyster & Lion's Mane Flush",
+    "promotional_text": "Growing mushrooms on logs? Shiitake Log tells you how long to soak each log, when it's rested enough to force, and when the weather brings a flush.",
+    "description": "Growing shiitake, oyster, or lion's mane on hardwood logs? Shiitake Log turns the weather and each log's own cycle into one clear answer - SOAK, FORCE, REST, or HARVEST - so you know what to do in the yard today.\n\nSoaking looks simple until it isn't. Soak too soon and a log won't recover; force too often and you burn through its life; miss a soaking rain and a natural flush slips by. The rules live in extension PDFs and hard-won experience, not on your phone.\n\nHOW IT WORKS\n\n1. Add each log: species and strain, wood type, diameter, bark, and inoculation date.\n2. Shiitake Log reads your local temperature, rainfall, and humidity.\n3. You get a per-log verdict - how many hours to soak, whether it is rested enough to force, the chance of a natural flush, and when to protect pins and harvest.\n\nUnder a minute to add a log. No account required.\n\nCORE FEATURES\n\nSoak Calculator\nSoak time is not fixed. Enter air and water temperature, bark, and log age and see how many hours to soak - the closer the water is to the air, the longer it takes.\n\nToday's Verdict\nOne state per log - SOAK, FORCE, REST, PINNING, or HARVEST - with the reason, so a beginner knows exactly what the yard needs.\n\nFruiting Chance\nA plain Low, Rising, or High outlook from the strain's temperature window, recent rain, and rest, so you can tell when a natural flush is coming.\n\nPRO FEATURES\nUpgrade to Pro for deeper insights:\n- Track your whole yard with unlimited logs\n- Yard dashboard showing every log by state on one screen\n- Staggered-soak planner so harvests do not all land at once\n- Soak, pinning, harvest, and rest reminders\n- Per-log lifespan budget and flush-interval history\n- Full flush log with notes\n\nPRIVACY FIRST\n- No account, no login\n- All data stored locally on your device\n- Location is used only to fetch local weather, never stored on any server\n- No tracking, no ads, no third-party analytics\n\nShiitake Log provides cultivation timing guidance based on public weather data and general growing references. Timings are estimates that vary by wood, strain, log condition, and climate - always verify by inspecting your logs and mushrooms. Only eat mushrooms grown from known, labeled spawn that you can positively identify. This app is not a foraging or identification tool and makes no health claims.\n\nTerms of Use (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "mushroom,grow,spawn,plug,forcing,harvest,oak,cultivation,fungi,moisture,homestead,pinning,shade,tarp",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Full Access",
+    "subscription_description": "Soak timing, flush outlook, yard tracker"
+  },
+  "ko": {
+    "name": "표고버섯 원목재배 침수관리",
+    "subtitle": "느타리·노루궁뎅이 발이시기",
+    "promotional_text": "원목 표고버섯 재배자를 위한 날씨 기반 앱. 오늘 침수 시간과 발이 적기를 알려주고, 느타리·노루궁뎅이버섯 원목까지 각각 관리하세요. 자연 발이 시기를 놓치지 마세요.",
+    "description": "Shiitake Log(표고 원목 다이어리)는 원목에서 표고버섯·느타리버섯·노루궁뎅이버섯을 기르는 분들을 위한 날씨 기반 도우미 앱입니다. 원목별로 침수, 발이, 수확 시기를 관리하고, 지역 기온·강수량·습도를 바탕으로 오늘의 상태를 확인하세요.\n\nHOW IT WORKS (사용 방법)\n1. 원목 종류와 접종 날짜를 등록하세요.\n2. 위치를 설정하면 현지 날씨 데이터를 불러옵니다.\n3. 매일 \"오늘의 판정\"으로 침수, 휴지기, 발이 여부를 확인하세요.\n\nCORE FEATURES (핵심 기능)\n- 침수 계산기: 원목 굵기와 최근 날씨를 반영해 권장 침수 시간을 알려드립니다.\n- 오늘의 판정: 침수/휴지/발이/수확 중 오늘 무엇을 해야 할지 한눈에.\n- 발이 가능성: 기온·습도·강수 패턴으로 자연 발이 가능성을 추정합니다(예상치이며 보장되지 않습니다).\n\nPRO FEATURES (Pro 기능)\n- 무제한 원목 등록 및 기록\n- 여러 지역/야적장 동시 관리\n- 상세 날씨 이력 그래프\n- 우선 알림(침수 완료, 발이 임박 등)\n\nPRIVACY FIRST (개인정보 보호)\n- 위치 정보는 날씨 조회에만 사용됩니다.\n- 계정 없이도 사용 가능합니다.\n- 개인 데이터를 제3자에게 판매하지 않습니다.\n\n본 앱의 정보는 참고용 추정치이며, 실제 재배 결과는 원목 상태, 지역 환경, 관리 방식에 따라 달라질 수 있습니다. 정확한 재배 지도가 필요하면 해당 지역 농업 기관에 문의하세요.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "표고버섯,원목재배,느타리버섯,노루궁뎅이버섯,종균,침수,발이,수확,버섯재배,차광,방수포,홈스테드",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — 전체 이용권",
+    "subscription_description": "침수 시간, 발이 예측, 원목 관리 기록을 한 곳에서 확인하세요."
+  },
+  "ja": {
+    "name": "しいたけ原木 浸水と発生管理",
+    "subtitle": "ひらたけ・やまぶしたけ発生時期",
+    "promotional_text": "原木しいたけ栽培者向け天気連動アプリ。今日の浸水時間、発生(フラッシュ)の適期、ひらたけ・やまぶしたけの原木も個別に管理できます。自然な発生のタイミングを逃さないで。",
+    "description": "Shiitake Log(しいたけ原木ノート)は、原木でしいたけ・ひらたけ・やまぶしたけを栽培する方のための天気連動アプリです。原木ごとに浸水・休養・発生・収穫の時期を管理し、地域の気温、降水量、湿度をもとに今日の状態を確認できます。\n\n使い方\n1. 原木の種類と接種日を登録します。\n2. 場所を設定すると、地域の天気データを取得します。\n3. 毎日「今日の判定」で浸水・休養・発生のタイミングを確認します。\n\n主な機能\n・浸水計算:原木の太さと最近の天気から、推奨浸水時間を算出します。\n・今日の判定:浸水/休養/発生/収穫のどれを行うべきか一目で分かります。\n・発生の可能性:気温・湿度・降水パターンから自然発生の可能性を見積もります(あくまで目安で、確約するものではありません)。\n\nPro機能\n・原木の登録数と記録が無制限\n・複数の栽培場所をまとめて管理\n・詳細な天気履歴グラフ\n・優先通知(浸水完了、発生が近いときなど)\n\nプライバシーについて\n・位置情報は天気取得のみに使用します。\n・アカウントなしでも利用できます。\n・個人データを第三者に販売しません。\n\n本アプリの情報はあくまで目安であり、実際の栽培結果は原木の状態、地域環境、管理方法により異なります。詳しい栽培指導が必要な場合は、お住まいの地域の農業関連機関にご相談ください。\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "しいたけ,原木栽培,ほだ木,浸水,発生,収穫,種菌,ひらたけ,やまぶしたけ,菌床,遮光,ブルーシート,家庭菜園",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — 全機能",
+    "subscription_description": "浸水時間、発生予測、原木の管理記録をまとめて確認。"
+  },
+  "zh-Hans": {
+    "name": "香菇段木 浸水出菇管理",
+    "subtitle": "平菇·猴头菇 出菇时机",
+    "promotional_text": "专为段木香菇种植者设计的天气应用。今天该浸水多久、何时可以催菇一目了然,平菇、猴头菇段木也能分别管理,抓住自然出菇的最佳窗口。",
+    "description": "Shiitake Log(段木香菇日志)是为在段木上种植香菇、平菇、猴头菇的爱好者打造的天气应用。按段木分别管理浸水、休养、出菇和采收时机,根据当地气温、降水量和湿度了解今天的状态。\n\n使用方法\n1. 登记段木种类和接种日期。\n2. 设置所在地区,获取当地天气数据。\n3. 每天查看\"今日建议\",了解该浸水、休养还是出菇。\n\n核心功能\n- 浸水计算器:根据段木粗细和近期天气,给出建议浸水时长。\n- 今日建议:一目了然该浸水、休养、出菇还是采收。\n- 出菇几率:根据气温、湿度、降水趋势估算自然出菇的几率(仅供参考,不作保证)。\n\nPro功能\n- 段木数量与记录无限制\n- 同时管理多个种植场地\n- 详细天气历史图表\n- 优先提醒(浸水完成、出菇临近等)\n\n隐私优先\n- 位置信息仅用于获取天气数据。\n- 无需账号即可使用。\n- 不会向第三方出售个人数据。\n\n本应用提供的信息仅供参考,实际种植效果会因段木状态、当地环境和管理方式而异。如需详细种植指导,请咨询当地农业相关机构。\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "香菇,段木栽培,平菇,猴头菇,菌种,浸水,出菇,采菇,家庭种植,遮阴,防水布,菌棒",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — 全部功能",
+    "subscription_description": "浸水时长、出菇预测、段木记录一站管理。"
+  },
+  "zh-Hant": {
+    "name": "香菇段木 浸水出菇管理",
+    "subtitle": "秀珍菇·猴頭菇 出菇時機",
+    "promotional_text": "專為段木香菇種植者打造的天氣應用程式。今天該浸水多久、何時可以催菇一目了然,秀珍菇、猴頭菇段木也能個別管理,把握天然出菇的最佳時機。",
+    "description": "Shiitake Log(段木香菇日誌)是為在段木上種植香菇、秀珍菇、猴頭菇的愛好者打造的天氣應用程式。依段木分別管理浸水、休養、出菇與採收時機,根據當地氣溫、降雨量與濕度掌握今天的狀態。\n\n使用方法\n1. 登記段木種類與接種日期。\n2. 設定所在地區,取得當地天氣資料。\n3. 每天查看「今日建議」,了解該浸水、休養還是出菇。\n\n核心功能\n- 浸水計算器:依段木粗細與近期天氣,給出建議浸水時長。\n- 今日建議:一目了然該浸水、休養、出菇還是採收。\n- 出菇機率:依氣溫、濕度、降雨趨勢估算自然出菇的機率(僅供參考,不作保證)。\n\nPro功能\n- 段木數量與記錄無上限\n- 同時管理多個種植場地\n- 詳細天氣歷史圖表\n- 優先提醒(浸水完成、出菇將至等)\n\n隱私優先\n- 位置資訊僅用於取得天氣資料。\n- 無需帳號即可使用。\n- 不會將個人資料出售給第三方。\n\n本應用程式提供的資訊僅供參考,實際種植成果會因段木狀態、當地環境與管理方式而異。如需詳細種植指導,請諮詢當地農業相關機構。\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "香菇,段木栽培,秀珍菇,猴頭菇,菌種,浸水,出菇,採菇,家庭種植,遮陰,防水布,太空包",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — 完整功能",
+    "subscription_description": "浸水時長、出菇預測、段木記錄一站管理。"
+  },
+  "es": {
+    "name": "Shiitake en Troncos: Remojo",
+    "subtitle": "Setas Ostra y Melena de León",
+    "promotional_text": "¿Cultivas shiitake, orellanas o melena de león en troncos? Descubre cuánto remojar, cuándo forzar y cuándo llega la fructificación natural, tronco por tronco.",
+    "description": "Shiitake Log es una app basada en el clima para quienes cultivan shiitake, orellanas y melena de león en troncos. Gestiona el remojo, el descanso, la fructificación y la cosecha de cada tronco según la temperatura, la lluvia y la humedad de tu zona.\n\nCÓMO FUNCIONA\n1. Registra el tipo de tronco y la fecha de inoculación.\n2. Configura tu ubicación para obtener el clima local.\n3. Revisa cada día el \"Veredicto de hoy\" para saber si toca remojar, descansar o forzar.\n\nFUNCIONES PRINCIPALES\n- Calculadora de remojo: sugiere cuántas horas remojar según el grosor del tronco y el clima reciente.\n- Veredicto de hoy: te dice de un vistazo si toca remojar, descansar, forzar o cosechar.\n- Probabilidad de fructificación: estima, según temperatura, humedad y lluvia, la probabilidad de una fructificación natural (es una estimación orientativa, no una promesa).\n\nFUNCIONES PRO\n- Troncos y registros ilimitados\n- Gestiona varios patios o ubicaciones a la vez\n- Gráficos detallados del historial del clima\n- Notificaciones prioritarias (remojo completo, fructificación cercana)\n\nPRIVACIDAD ANTE TODO\n- La ubicación solo se usa para consultar el clima.\n- Puedes usar la app sin crear una cuenta.\n- Nunca vendemos tus datos personales a terceros.\n\nLa información de esta app es orientativa; los resultados reales dependen del estado del tronco, el entorno local y el manejo. Para asesoría agrícola detallada, consulta a una entidad agrícola de tu zona.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "shiitake,seta,hongo,troncos,inoculación,micelio,remojo,fructificación,cosecha,orellana,lona",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Acceso Total",
+    "subscription_description": "Tiempo de remojo, pronóstico de fructificación y registro de tu patio de troncos."
+  },
+  "es-MX": {
+    "name": "Hongos en Troncos: Shiitake",
+    "subtitle": "Ostra y Melena de León",
+    "promotional_text": "¿Cultivas hongos en troncos? Shiitake Log te dice cuántas horas remojar cada tronco, cuándo forzar y cuándo el clima trae una buena fructificación.",
+    "description": "¿Cultivas hongos shiitake, setas ostra o melena de león en troncos de encino? Shiitake Log te ayuda a decidir cuándo remojar, cuándo forzar y cuándo cosechar, usando el clima de tu zona.\n\nCÓMO FUNCIONA\n1. Agrega tus troncos y la fecha del último remojo o forzado.\n2. Shiitake Log revisa temperatura, lluvia y humedad de tu localidad.\n3. Recibe el veredicto del día: remojar, descansar, forzar o cosechar.\n\nFUNCIONES PRINCIPALES\n• Calculadora de Remojo: horas exactas según el diámetro y la especie del tronco.\n• Veredicto de Hoy: una recomendación clara para cada tronco de tu patio.\n• Probabilidad de Fructificación: estimación de flush según temperatura y humedad recientes.\n\nFUNCIONES PRO\n• Troncos y siembras ilimitados\n• Pronóstico de fructificación a varios días\n• Recordatorios de remojo y forzado\n• Bitácora de cosechas por tronco y por especie\n• Historial de humedad y temperatura\n\nPRIVACIDAD ANTE TODO\n• Tus datos de troncos se guardan en tu dispositivo\n• No se venden datos personales a terceros\n• El clima se consulta solo para tu ubicación aproximada\n• Puedes borrar tu información cuando quieras\n\nShiitake Log ofrece estimaciones y recomendaciones basadas en el clima para ayudarte a organizar tu cultivo de hongos en troncos. No sustituye tu propio criterio ni garantiza resultados de cosecha, ya que la fructificación depende de muchos factores del bosque y del manejo de tus troncos.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "hongos,shiitake,seta ostra,melena de leon,troncos,siembra,tapones,micelio,cosecha,remojo,humedad",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Acceso Completo",
+    "subscription_description": "Tiempos de remojo, pronóstico de fructificación y bitácora de tu patio de troncos."
+  },
+  "fr": {
+    "name": "Shiitake: Trempage & Poussée",
+    "subtitle": "Pleurote & Crinière de Lion",
+    "promotional_text": "Vous cultivez des champignons sur bûches ? Shiitake Log calcule le temps de trempage, le moment de forcer et les jours propices à une belle poussée.",
+    "description": "Vous cultivez du shiitake, des pleurotes ou de la crinière de lion sur des bûches ? Shiitake Log vous aide à savoir quand tremper, quand forcer et quand récolter, selon la météo locale.\n\nCOMMENT ÇA MARCHE\n1. Ajoutez vos bûches et la date du dernier trempage ou forçage.\n2. Shiitake Log analyse la température, la pluie et l'humidité de votre secteur.\n3. Recevez le verdict du jour : tremper, laisser reposer, forcer ou récolter.\n\nFONCTIONNALITÉS PRINCIPALES\n• Calculateur de Trempage : durée exacte selon le diamètre et l'essence de la bûche.\n• Verdict du Jour : une recommandation claire pour chaque bûche de votre cour.\n• Chance de Poussée : estimation du flush selon la température et l'humidité récentes.\n\nFONCTIONNALITÉS PRO\n• Bûches et lots illimités\n• Prévision de poussée sur plusieurs jours\n• Rappels de trempage et de forçage\n• Journal des récoltes par bûche et par espèce\n• Historique d'humidité et de température\n\nCONFIDENTIALITÉ D'ABORD\n• Vos données de bûches restent sur votre appareil\n• Aucune vente de données personnelles à des tiers\n• La météo est consultée uniquement pour votre position approximative\n• Vous pouvez supprimer vos données à tout moment\n\nShiitake Log propose des estimations et recommandations basées sur la météo pour organiser votre culture de champignons sur bûches. L'application ne remplace pas votre propre jugement et ne garantit pas de résultat de récolte, la fructification dépendant de nombreux facteurs liés au bois et à l'entretien des bûches.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "champignons,shiitake,pleurote,crinière de lion,buches,inoculation,mycelium,recolte,trempage,humidite",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Accès Complet",
+    "subscription_description": "Temps de trempage, prévision de poussée et journal de vos bûches."
+  },
+  "fr-CA": {
+    "name": "Shiitake: Bûches & Poussée",
+    "subtitle": "Pleurote, Crinière de Lion",
+    "promotional_text": "Tu cultives des champignons sur bûches ? Shiitake Log te dit combien d'heures tremper chaque bûche, quand forcer, et quand le temps amène une belle poussée.",
+    "description": "Tu cultives du shiitake, des pleurotes ou de la crinière de lion sur des bûches dans ta cour ? Shiitake Log t'aide à savoir quand tremper, quand forcer et quand récolter, selon la météo de ton secteur.\n\nCOMMENT ÇA FONCTIONNE\n1. Ajoute tes bûches et la date du dernier trempage ou forçage.\n2. Shiitake Log analyse la température, la pluie et l'humidité chez toi.\n3. Reçois le verdict du jour : tremper, laisser reposer, forcer ou récolter.\n\nFONCTIONS PRINCIPALES\n• Calculateur de Trempage : nombre d'heures exact selon le diamètre et l'essence de la bûche.\n• Verdict du Jour : une recommandation claire pour chaque bûche de ta cour.\n• Chance de Poussée : estimation du flush selon la température et l'humidité des derniers jours.\n\nFONCTIONS PRO\n• Bûches et lots illimités\n• Prévision de poussée sur plusieurs jours\n• Rappels de trempage et de forçage\n• Journal des récoltes par bûche et par espèce\n• Historique d'humidité et de température\n\nCONFIDENTIALITÉ AVANT TOUT\n• Tes données de bûches restent sur ton appareil\n• Aucune vente de données personnelles à des tiers\n• La météo est consultée seulement pour ta position approximative\n• Tu peux supprimer tes données en tout temps\n\nShiitake Log propose des estimations et des recommandations basées sur la météo pour t'aider à organiser ta culture de champignons sur bûches. L'appli ne remplace pas ton propre jugement et ne garantit pas de résultat de récolte, la fructification dépendant de plusieurs facteurs liés au bois et à l'entretien des bûches.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "champignons,shiitake,pleurote,crinière de lion,bûches,inoculation,mycélium,récolte,trempage,humidité",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Accès complet",
+    "subscription_description": "Temps de trempage, prévision de poussée et journal de tes bûches."
+  },
+  "de-DE": {
+    "name": "Shiitake Stämme: Wässern",
+    "subtitle": "Austernpilz & Löwenmähne",
+    "promotional_text": "Pilze auf Stämmen? Shiitake Log zeigt dir die Wässerzeit für jeden Stamm, wann er reif zum Fruchten ist und wann das Wetter einen Schub bringt.",
+    "description": "Züchtest du Shiitake, Austernpilze oder Löwenmähne auf Stämmen? Shiitake Log hilft dir zu entscheiden, wann du wässern, forcieren oder ernten solltest – anhand des Wetters an deinem Standort.\n\nSO FUNKTIONIERT ES\n1. Füge deine Stämme und das Datum der letzten Wässerung oder Fruchtung hinzu.\n2. Shiitake Log wertet Temperatur, Regen und Luftfeuchtigkeit für deinen Standort aus.\n3. Erhalte das Ergebnis des Tages: wässern, ruhen lassen, forcieren oder ernten.\n\nKERNFUNKTIONEN\n• Wässer-Rechner: genaue Stunden je nach Durchmesser und Holzart des Stammes.\n• Ergebnis heute: eine klare Empfehlung für jeden Stamm in deinem Garten.\n• Fruchtungschance: Einschätzung des Schubs anhand von Temperatur und Feuchtigkeit der letzten Tage.\n\nPRO-FUNKTIONEN\n• Unbegrenzte Stämme und Chargen\n• Mehrtägiger Fruchtungs-Ausblick\n• Erinnerungen für Wässern und Fruchtung\n• Erntetagebuch je Stamm und Pilzart\n• Verlauf von Feuchtigkeit und Temperatur\n\nDATENSCHUTZ ZUERST\n• Deine Stammdaten bleiben auf deinem Gerät\n• Keine Weitergabe persönlicher Daten an Dritte\n• Wetterdaten werden nur für deinen ungefähren Standort abgefragt\n• Du kannst deine Daten jederzeit löschen\n\nShiitake Log bietet Einschätzungen und Empfehlungen auf Basis des Wetters, um deine Pilzzucht auf Stämmen zu organisieren. Die App ersetzt nicht dein eigenes Urteilsvermögen und übernimmt keine Garantie für den Ernteerfolg, da die Fruchtung von vielen Faktoren rund um Holz und Pflege abhängt.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "pilzzucht,shiitake,austernpilz,löwenmähne,stämme,beimpfung,myzel,ernte,wässern,fruchtung",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Vollzugriff",
+    "subscription_description": "Wässerzeit, Fruchtungs-Ausblick und Stämme-Übersicht."
+  },
+  "it": {
+    "name": "Shiitake: Ammollo e Raccolto",
+    "subtitle": "Orecchioni e Criniera di Leone",
+    "promotional_text": "Coltivi funghi su tronchi? Shiitake Log calcola le ore di ammollo per ogni ceppo, quando forzare e quando il meteo porta una bella fruttificazione.",
+    "description": "Coltivi shiitake, orecchioni o criniera di leone su tronchi? Shiitake Log ti aiuta a capire quando fare l'ammollo, quando forzare e quando raccogliere, in base al meteo della tua zona.\n\nCOME FUNZIONA\n1. Aggiungi i tuoi tronchi e la data dell'ultimo ammollo o forzatura.\n2. Shiitake Log analizza temperatura, pioggia e umidità della tua zona.\n3. Ricevi il verdetto del giorno: ammollo, riposo, forzatura o raccolta.\n\nFUNZIONI PRINCIPALI\n• Calcolatore di Ammollo: ore esatte in base al diametro e all'essenza del tronco.\n• Verdetto di Oggi: una raccomandazione chiara per ogni tronco del tuo cortile.\n• Probabilità di Fruttificazione: stima del flush in base a temperatura e umidità recenti.\n\nFUNZIONI PRO\n• Tronchi e lotti illimitati\n• Previsione di fruttificazione su più giorni\n• Promemoria per ammollo e forzatura\n• Registro dei raccolti per tronco e specie\n• Storico di umidità e temperatura\n\nPRIVACY PRIMA DI TUTTO\n• I dati dei tuoi tronchi restano sul tuo dispositivo\n• Nessuna vendita di dati personali a terzi\n• Il meteo viene consultato solo per la tua posizione approssimativa\n• Puoi cancellare i tuoi dati quando vuoi\n\nShiitake Log offre stime e raccomandazioni basate sul meteo per organizzare la tua coltivazione di funghi su tronchi. L'app non sostituisce il tuo giudizio e non garantisce risultati di raccolta, poiché la fruttificazione dipende da molti fattori legati al legno e alla cura dei tronchi.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "funghi,shiitake,orecchioni,criniera di leone,tronchi,inoculazione,micelio,raccolta,ammollo,umidita",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Accesso Completo",
+    "subscription_description": "Tempi di ammollo, previsione di fruttificazione e registro dei ceppi."
+  },
+  "pt-BR": {
+    "name": "Shiitake em Tora: Molho",
+    "subtitle": "Ostra & Juba de Leão em Tora",
+    "promotional_text": "Cultiva shiitake, ostra ou juba de leão em toras? O Shiitake Log calcula o molho, avisa quando a tora já descansou e quando o clima traz frutificação.",
+    "description": "Cultiva shiitake, cogumelo ostra ou juba de leão em toras de carvalho? O Shiitake Log ajuda você a decidir quando molhar, forçar, descansar ou colher cada tora, com base no clima da sua região.\n\nCOMO FUNCIONA\n1. Cadastre suas toras de shiitake, ostra ou juba de leão.\n2. O app usa temperatura, chuva e umidade local para calcular o tempo de molho e o descanso necessário.\n3. Você recebe o veredito do dia: molhar, forçar, descansar ou colher.\n\nRECURSOS PRINCIPAIS\nCalculadora de Molho — calcula quantas horas cada tora precisa de molho, conforme espécie e clima.\nVeredito do Dia — diz o que fazer hoje com cada tora do seu quintal.\nChance de Frutificação — estimativa de frutificação com base em chuva, temperatura e umidade recentes.\n\nRECURSOS PRO\n- Toras e sítios ilimitados\n- Alertas de frutificação por clima\n- Histórico completo de molho e colheita\n- Registro fotográfico de cada tora\n- Widgets de tela inicial\n\nPRIVACIDADE EM PRIMEIRO LUGAR\n- Dados de cultivo armazenados apenas no seu dispositivo\n- Sem venda de dados a terceiros\n- Localização usada só para previsão do tempo local\n- Sem contas nem cadastro obrigatório\n\nO Shiitake Log oferece estimativas com base em dados meteorológicos e não substitui a sua observação direta da tora, do micélio e do ambiente de cultivo. Sempre confira as condições da tora antes de agir.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "shiitake,cogumelo,tora,inoculação,cultivo,ostra,juba-de-leão,umidade,sítio,sombra,lona,colheita",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Acesso Total",
+    "subscription_description": "Tempo de molho, previsão de frutificação e controle da tora"
+  },
+  "pt-PT": {
+    "name": "Shiitake: Tronco & Molho",
+    "subtitle": "Ostra & Juba-de-Leão em Tronco",
+    "promotional_text": "Cultivas shiitake, cogumelo-ostra ou juba-de-leão em troncos? O Shiitake Log calcula o tempo de molho, avisa quando o tronco descansou e quando o tempo traz frutificação.",
+    "description": "Cultivas shiitake, cogumelo-ostra ou juba-de-leão em troncos de carvalho? O Shiitake Log ajuda-te a decidir quando molhar, forçar, deixar repousar ou colher cada tronco, com base no clima da tua zona.\n\nCOMO FUNCIONA\n1. Regista os teus troncos de shiitake, ostra ou juba-de-leão.\n2. A app usa temperatura, chuva e humidade local para calcular o tempo de molho e o repouso necessário.\n3. Recebes o veredito do dia: molhar, forçar, repousar ou colher.\n\nFUNCIONALIDADES PRINCIPAIS\nCalculadora de Molho — calcula quantas horas cada tronco precisa de molho, conforme a espécie e o clima.\nVeredito do Dia — diz o que fazer hoje com cada tronco do teu quintal.\nProbabilidade de Frutificação — estimativa com base na chuva, temperatura e humidade recentes.\n\nFUNCIONALIDADES PRO\n- Troncos e locais ilimitados\n- Alertas de frutificação consoante o clima\n- Histórico completo de molho e colheita\n- Registo fotográfico de cada tronco\n- Widgets no ecrã principal\n\nPRIVACIDADE EM PRIMEIRO LUGAR\n- Dados de cultivo guardados apenas no teu aparelho\n- Sem venda de dados a terceiros\n- Localização usada só para a previsão meteorológica local\n- Sem contas nem registo obrigatório\n\nO Shiitake Log fornece estimativas com base em dados meteorológicos e não substitui a tua observação direta do tronco, do micélio e do ambiente de cultivo. Confirma sempre as condições do tronco antes de agir.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "shiitake,cogumelo,tronco,inoculação,cogumelo-ostra,juba-de-leão,humidade,quintal,sombra,lona",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Acesso Total",
+    "subscription_description": "Tempo de molho, previsão de frutificação e registo do quintal"
+  },
+  "nl": {
+    "name": "Shiitake: Weektijd & Oogst",
+    "subtitle": "Oesterzwam & Leeuwenmanen",
+    "promotional_text": "Kweek je shiitake, oesterzwam of leeuwenmanen op stammen? Shiitake Log berekent de weektijd en meldt wanneer het weer een vruchtgolf brengt.",
+    "description": "Kweek je shiitake, oesterzwammen of leeuwenmanen op eikenstammen? Shiitake Log helpt je te bepalen wanneer je moet weken, forceren, laten rusten of oogsten, op basis van het weer in jouw regio.\n\nHOE HET WERKT\n1. Voeg je stammen met shiitake, oesterzwam of leeuwenmanen toe.\n2. De app gebruikt temperatuur, regen en lokale vochtigheid om de weektijd en benodigde rust te berekenen.\n3. Je krijgt het oordeel van vandaag: weken, forceren, rusten of oogsten.\n\nKERNFUNCTIES\nWeekcalculator — berekent hoeveel uur elke stam moet weken, afhankelijk van soort en weer.\nOordeel van Vandaag — vertelt wat je vandaag met elke stam moet doen.\nVruchtkans — inschatting van vruchtvorming op basis van recente regen, temperatuur en vochtigheid.\n\nPRO-FUNCTIES\n- Onbeperkt aantal stammen en locaties\n- Meldingen bij vruchtvorming door weersverandering\n- Volledige geschiedenis van weken en oogsten\n- Foto's per stam bijhouden\n- Widgets op je beginscherm\n\nPRIVACY VOOROP\n- Kweekgegevens alleen opgeslagen op je toestel\n- Geen doorverkoop van gegevens aan derden\n- Locatie alleen gebruikt voor de lokale weersverwachting\n- Geen account of registratie verplicht\n\nShiitake Log geeft inschattingen op basis van weergegevens en vervangt niet je eigen controle van de stam, het mycelium en de kweekomgeving. Controleer altijd zelf de staat van de stam voordat je actie onderneemt.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "shiitake,paddenstoel,stam,oesterzwam,leeuwenmanen,kweken,broedsel,vochtigheid,oogst,schaduw,zeil",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Volledige Toegang",
+    "subscription_description": "Weektijd, vruchtgolfverwachting en stamregister"
+  },
+  "pl": {
+    "name": "Shiitake: Moczenie i Zbiór",
+    "subtitle": "Boczniak i Soplówka na Kłodzie",
+    "promotional_text": "Uprawiasz shiitake, boczniaki lub soplówkę na kłodach? Shiitake Log liczy czas moczenia, mówi kiedy kłoda odpoczęła i kiedy pogoda sprzyja owocnikowaniu.",
+    "description": "Uprawiasz shiitake, boczniaki lub soplówkę jeżowatą na kłodach dębowych? Shiitake Log pomaga zdecydować, kiedy moczyć, wymuszać owocnikowanie, dać odpocząć lub zbierać każdą kłodę, na podstawie pogody w Twojej okolicy.\n\nJAK TO DZIAŁA\n1. Dodaj swoje kłody z shiitake, boczniakiem lub soplówką.\n2. Aplikacja wykorzystuje temperaturę, opady i lokalną wilgotność, by obliczyć czas moczenia i potrzebny odpoczynek.\n3. Otrzymujesz werdykt dnia: moczyć, wymusić, odpocząć lub zebrać.\n\nGŁÓWNE FUNKCJE\nKalkulator Moczenia — liczy, ile godzin moczenia potrzebuje każda kłoda, zależnie od gatunku i pogody.\nWerdykt Dnia — mówi, co zrobić dziś z każdą kłodą na Twojej działce.\nSzansa na Owocnikowanie — szacunek na podstawie ostatnich opadów, temperatury i wilgotności.\n\nFUNKCJE PRO\n- Nieograniczona liczba kłód i lokalizacji\n- Powiadomienia o owocnikowaniu zależne od pogody\n- Pełna historia moczenia i zbiorów\n- Zdjęcia przypisane do każdej kłody\n- Widżety na ekranie głównym\n\nPRYWATNOŚĆ NA PIERWSZYM MIEJSCU\n- Dane uprawy przechowywane wyłącznie na Twoim urządzeniu\n- Brak sprzedaży danych stronom trzecim\n- Lokalizacja używana wyłącznie do lokalnej prognozy pogody\n- Brak wymaganego konta czy rejestracji\n\nShiitake Log dostarcza szacunki na podstawie danych pogodowych i nie zastępuje bezpośredniej obserwacji kłody, grzybni i warunków uprawy. Zawsze sprawdzaj stan kłody przed podjęciem działania.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "shiitake,grzyby,kłoda,boczniak,soplówka,uprawa,inokulacja,wilgotność,zbiór,cień,plandeka",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Pełny Dostęp",
+    "subscription_description": "Czas moczenia, prognoza owocnikowania i rejestr kłód"
+  },
+  "sv": {
+    "name": "Shiitake: Blötläggning & Skörd",
+    "subtitle": "Ostronskivling & Apskägg",
+    "promotional_text": "Odlar du shiitake, ostronskivling eller apskägg på stockar? Shiitake Log räknar ut blötläggningstiden och visar när vädret ger en svampskörd.",
+    "description": "Odlar du shiitake, ostronskivling eller apskägg på ekstockar? Shiitake Log hjälper dig avgöra när du ska blötlägga, tvinga fram, låta vila eller skörda varje stock, utifrån vädret där du bor.\n\nSÅ FUNGERAR DET\n1. Lägg till dina stockar med shiitake, ostronskivling eller apskägg.\n2. Appen använder temperatur, nederbörd och lokal fuktighet för att räkna ut blötläggningstid och nödvändig vila.\n3. Du får dagens utlåtande: blötlägg, tvinga fram, vila eller skörda.\n\nHUVUDFUNKTIONER\nBlötläggningskalkylator — räknar ut hur många timmar varje stock behöver blötläggas, utifrån art och väder.\nDagens Utlåtande — säger vad du ska göra idag med varje stock på din gård.\nSkördechans — en uppskattning av svampskörd baserad på senaste nederbörd, temperatur och fuktighet.\n\nPRO-FUNKTIONER\n- Obegränsat antal stockar och platser\n- Aviseringar om skörd baserat på väderändringar\n- Fullständig historik över blötläggning och skörd\n- Foton kopplade till varje stock\n- Widgetar på hemskärmen\n\nINTEGRITET FÖRST\n- Odlingsdata sparas enbart på din enhet\n- Ingen försäljning av data till tredje part\n- Plats används endast för lokal väderprognos\n- Inget konto eller registrering krävs\n\nShiitake Log ger uppskattningar baserade på väderdata och ersätter inte din egen kontroll av stocken, myceliet och odlingsmiljön. Kontrollera alltid stockens skick själv innan du agerar.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "shiitake,svamp,stock,ostronskivling,apskägg,odling,inokulering,fuktighet,skörd,skugga,presenning",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Full Åtkomst",
+    "subscription_description": "Blötläggningstid, skördutsikt och stockregister"
+  },
+  "da": {
+    "name": "Shiitakestok: Vanding & Høst",
+    "subtitle": "Østers & Løvemanke Svampe",
+    "promotional_text": "Dyrker du svampe på stokke? Shiitake Log viser hvor længe stokken skal ligge i vand, hvornår den er hvilet nok til at podes, og hvornår vejret giver en ny svampeflush.",
+    "description": "Dyrker du shiitake, østershat eller løvemanke svampe på stokke? Shiitake Log hjælper dig med at holde styr på vanding, hviletid og høsttidspunkt for hver enkelt stok, baseret på lokalt vejr - temperatur, nedbør og luftfugtighed.\n\nSÅDAN VIRKER DET\n1. Tilføj dine stokke og noter art og podningsdato\n2. Appen følger lokal temperatur, regn og fugtighed\n3. Få dagens anbefaling: vand, tving frem, hvil eller høst\n\nKERNEFUNKTIONER\nVandingsberegner - se hvor mange timer hver stok skal ligge i vand\nDagens Vurdering - klar besked om hvad du skal gøre i dag\nFlush-udsigt - se hvornår vejret sandsynligvis giver en svampeflush\n\nPRO-FUNKTIONER\n- Ubegrænset antal stokke og arter\n- Detaljeret flush-historik\n- Notifikationer ved anbefalet vandingstidspunkt\n- Eksport af logbog\n\nPRIVATLIV FØRST\n- Ingen konto påkrævet\n- Data gemmes lokalt på din enhed\n- Ingen deling med tredjepart\n- Vejrdata bruges kun til beregninger i appen\n\nShiitake Log giver vejrbaserede estimater og anbefalinger til svampedyrkning ud fra lokale vejrdata. Det erstatter ikke egen erfaring, og resultater kan variere afhængigt af lokale forhold.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "svampe,dyrkning,shiitake,østershat,løvemanke,spawn,poder,høst,egestok,fugtighed,skygge,presenning",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Fuld Adgang",
+    "subscription_description": "Vandingstid, høstudsigt og oversigt over alle dine stokke - se det hele på ét sted, med anbefalinger baseret på lokalt vejr."
+  },
+  "nb": {
+    "name": "Shiitakestokk: Vanning & Høst",
+    "subtitle": "Østerssopp & Løvemanke Sopp",
+    "promotional_text": "Dyrker du sopp på stokker? Shiitake Log viser hvor lenge stokken skal ligge i vann, når den er hvilt nok til å tvinges frem, og når været gir en ny soppflush.",
+    "description": "Dyrker du shiitake, østerssopp eller løvemanke sopp på stokker? Shiitake Log hjelper deg å holde styr på vanning, hviletid og innhøstingstidspunkt for hver stokk, basert på lokalt vær - temperatur, nedbør og luftfuktighet.\n\nSLIK FUNGERER DET\n1. Legg til stokkene dine og noter art og podedato\n2. Appen følger lokal temperatur, regn og fuktighet\n3. Få dagens anbefaling: vann, tving frem, hvil eller høst\n\nKJERNEFUNKSJONER\nVanningskalkulator - se hvor mange timer hver stokk skal ligge i vann\nDagens Vurdering - klar beskjed om hva du bør gjøre i dag\nFlush-utsikt - se når været trolig gir en soppflush\n\nPRO-FUNKSJONER\n- Ubegrenset antall stokker og arter\n- Detaljert flush-historikk\n- Varsler ved anbefalt vanningstidspunkt\n- Eksport av loggbok\n\nPERSONVERN FØRST\n- Ingen konto nødvendig\n- Data lagres lokalt på enheten din\n- Ingen deling med tredjepart\n- Værdata brukes kun til beregninger i appen\n\nShiitake Log gir værbaserte estimater og anbefalinger for soppdyrking ut fra lokale værdata. Det erstatter ikke egen erfaring, og resultater kan variere etter lokale forhold.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "sopp,dyrking,shiitake,østerssopp,løvemanke,spawn,plugger,høsting,eikestokk,fuktighet,presenning",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Full Tilgang",
+    "subscription_description": "Vanningstid, soppflush-utsikt og oversikt over alle stokkene dine - alt på ett sted, med anbefalinger basert på lokalt vær."
+  },
+  "fi": {
+    "name": "Shiitakepölkky: Kastelu&Sato",
+    "subtitle": "Osterivinokas & Siilikääpä",
+    "promotional_text": "Kasvatatko sieniä pölkyillä? Shiitake Log kertoo, kuinka kauan pölkkyä pitää kastella, milloin se on levännyt tarpeeksi ja milloin sää tuo sadon.",
+    "description": "Kasvatatko shiitakea, osterivinokasta tai siilikääpää pölkyillä? Shiitake Log auttaa sinua seuraamaan kastelua, lepoaikaa ja satoaikaa jokaiselle pölkylle paikallisen sään perusteella - lämpötila, sade ja kosteus.\n\nNÄIN SE TOIMII\n1. Lisää pölkkysi ja merkitse laji sekä tartutuspäivä\n2. Sovellus seuraa paikallista lämpötilaa, sadetta ja kosteutta\n3. Saat päivän suosituksen: kastele, pakota, lepuuta tai korjaa sato\n\nYDINTOIMINNOT\nKastelulaskuri - näet kuinka monta tuntia pölkkyä pitää kastella\nPäivän Arvio - selkeä ohje siitä, mitä tehdä tänään\nSatoennuste - näe milloin sää todennäköisesti tuo uuden sadon\n\nPRO-OMINAISUUDET\n- Rajoittamaton määrä pölkkyjä ja lajeja\n- Yksityiskohtainen satohistoria\n- Ilmoitukset suositellulla kasteluhetkellä\n- Lokikirjan vienti\n\nYKSITYISYYS ENSIN\n- Ei tiliä tarvita\n- Tiedot tallennetaan paikallisesti laitteellesi\n- Ei jakamista kolmansille osapuolille\n- Säätietoja käytetään vain sovelluksen laskelmiin\n\nShiitake Log tarjoaa säähän perustuvia arvioita ja suosituksia sienten kasvatukseen paikallisten säätietojen pohjalta. Se ei korvaa omaa kokemusta, ja tulokset voivat vaihdella paikallisten olosuhteiden mukaan.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "sieni,viljely,shiitake,osterivinokas,siilikääpä,siirros,tappi,sato,tammipölkky,kosteus,varjo,pressu",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro – Täysi käyttö",
+    "subscription_description": "Kasteluajat, satoennuste ja kaikkien pölkkyjesi seuranta - kaikki yhdessä paikassa, paikallisen sään mukaisilla suosituksilla."
+  },
+  "cs": {
+    "name": "Shiitake špalek: Máčení",
+    "subtitle": "Hlíva & Korálovec Ježatý",
+    "promotional_text": "Pěstujete houby na špalcích? Shiitake Log vám řekne, jak dlouho máčet špalek, kdy je odpočatý na nucení plodnic a kdy počasí přinese sklizeň.",
+    "description": "Pěstujete shiitake, hlívu ústřičnou nebo korálovec ježatý na špalcích? Shiitake Log vám pomůže sledovat máčení, dobu odpočinku a čas sklizně pro každý špalek podle místního počasí - teploty, srážek a vlhkosti.\n\nJAK TO FUNGUJE\n1. Přidejte své špalky a poznamenejte druh a datum naočkování\n2. Aplikace sleduje místní teplotu, déšť a vlhkost\n3. Dostanete doporučení na dnešek: namočit, nutit plodnice, nechat odpočívat nebo sklízet\n\nHLAVNÍ FUNKCE\nKalkulačka máčení - kolik hodin má který špalek strávit ve vodě\nDnešní doporučení - jasná zpráva, co dnes udělat\nVýhled sklizně - kdy počasí pravděpodobně přinese novou sklizeň\n\nPRO FUNKCE\n- Neomezený počet špalků a druhů\n- Podrobná historie sklizní\n- Upozornění v doporučeném čase máčení\n- Export deníku\n\nSOUKROMÍ NA PRVNÍM MÍSTĚ\n- Není potřeba účet\n- Data se ukládají lokálně na vašem zařízení\n- Žádné sdílení s třetími stranami\n- Data o počasí se používají jen pro výpočty v aplikaci\n\nShiitake Log poskytuje odhady a doporučení pro pěstování hub na základě místního počasí. Nenahrazuje vlastní zkušenost a výsledky se mohou lišit podle místních podmínek.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "houby,pěstování,shiitake,hlíva,korálovec,podnož,kolík,sklizeň,dub,vlhkost,stín,plachta",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro – Plný přístup",
+    "subscription_description": "Doba máčení, výhled sklizně a přehled všech vašich špalků na jednom místě, s doporučeními podle místního počasí."
+  },
+  "hu": {
+    "name": "Shiitake Rönk: Áztatás&Szüret",
+    "subtitle": "Laskagomba & Oroszlánsörény",
+    "promotional_text": "Rönkön termesztesz gombát? A Shiitake Log megmondja, meddig áztasd a rönköt, mikor pihent eleget a termőtest indításához, és mikor hoz az időjárás szüretet.",
+    "description": "Rönkön termesztesz shiitakét, laskagombát vagy oroszlánsörény gombát? A Shiitake Log segít nyomon követni az áztatást, a pihentetési időt és a szüret idejét minden egyes rönkhöz, a helyi időjárás alapján - hőmérséklet, csapadék és páratartalom.\n\nHOGYAN MŰKÖDIK\n1. Add hozzá rönkjeidet, jegyezd fel a fajtát és az oltás dátumát\n2. Az alkalmazás követi a helyi hőmérsékletet, esőt és páratartalmat\n3. Megkapod a napi javaslatot: áztass, indítsd a termőtestet, pihentesd vagy szüretelj\n\nFŐ FUNKCIÓK\nÁztatás-kalkulátor - hány órát töltsön vízben az adott rönk\nMai Javaslat - egyértelmű útmutatás, mit tegyél ma\nSzüretkilátás - mikor hozhat az időjárás új szüretet\n\nPRO FUNKCIÓK\n- Korlátlan számú rönk és fajta\n- Részletes szüret-előzmények\n- Értesítések a javasolt áztatási időpontban\n- Napló exportálása\n\nADATVÉDELEM ELŐSZÖR\n- Nincs szükség fiókra\n- Az adatok helyben, az eszközödön tárolódnak\n- Nincs megosztás harmadik féllel\n- Az időjárási adatokat csak az alkalmazáson belüli számításokhoz használjuk\n\nA Shiitake Log az időjárás alapján ad becsléseket és javaslatokat a gombatermesztéshez, helyi időjárási adatok alapján. Nem helyettesíti a saját tapasztalatot, és az eredmények a helyi körülményektől függően eltérhetnek.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "gomba,termesztés,shiitake,laskagomba,oroszlánsörény,micélium,dugó,szüret,tölgy,nedvesség,ponyva",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro – Teljes hozzáférés",
+    "subscription_description": "Áztatási idő, szüretkilátás és az összes rönköd nyilvántartása egy helyen, a helyi időjáráshoz igazított javaslatokkal."
+  },
+  "ru": {
+    "name": "Шиитаке: бревна, урожай",
+    "subtitle": "Вешенка, ежовик: волна",
+    "promotional_text": "Растите грибы на бревнах? Шиитаке Лог подскажет, сколько часов замачивать бревно, когда оно отдохнуло для форсинга и когда погода даст волну плодоношения.",
+    "keywords": "шиитаке,вешенка,мицелий,бревна,грибы,урожай,плодоношение,замачивание,инокуляция,ежовик,дача,навес",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Полный доступ",
+    "subscription_description": "Время замачивания, прогноз волны плодоношения, учёт бревен на участке.",
+    "description": "Выращиваете шиитаке, вешенку или ежовик гребенчатый на дубовых бревнах? Shiitake Log превращает местную погоду — температуру, осадки, влажность — в понятные подсказки: когда замачивать бревно, когда форсировать плодоношение и когда ждать волну урожая.\n\nКАК ЭТО РАБОТАЕТ\n1. Добавьте бревно с датой инокуляции и видом гриба (шиитаке, вешенка, ежовик гребенчатый).\n2. Приложение считает часы замачивания и дни отдыха по местной погоде.\n3. Получайте ежедневный вердикт: замачивать, форсировать, отдыхать или собирать урожай.\n\nОСНОВНЫЕ ФУНКЦИИ\nКалькулятор замачивания — точное число часов под водой для каждого бревна.\nВердикт на сегодня — простое решение на основе погоды и стадии бревна.\nШанс плодоношения — оценка вероятности волны в ближайшие дни по влажности и температуре.\n\nPRO ФУНКЦИИ\n- Неограниченное число бревен и партий мицелия\n- Прогноз волны плодоношения на 7 дней вперёд\n- Учёт урожая по каждому бревну и виду гриба\n- Напоминания о замачивании и форсинге\n- Экспорт журнала грибницы\n\nПРИВАТНОСТЬ ПРЕЖДЕ ВСЕГО\n- Данные о бревнах хранятся на устройстве\n- Погода запрашивается только для вашего региона\n- Нет рекламных трекеров и продажи данных\n- Учётная запись не обязательна\n\nShiitake Log даёт оценочные подсказки на основе погоды и общей практики грибоводства, а не гарантированный результат. Реальное плодоношение зависит от штамма, качества бревна и местных условий — используйте своё наблюдение и опыт.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+  },
+  "ro": {
+    "name": "Shiitake: bușteni, recoltă",
+    "subtitle": "Stridii, coama-leului: rod",
+    "promotional_text": "Cultivi ciuperci pe bușteni? Shiitake Log îți spune câte ore să înmoi fiecare buștean, când s-a odihnit destul pentru forțare și când vremea aduce o rodire.",
+    "keywords": "shiitake,ciuperci,bustean,miceliu,recolta,inoculare,fructificare,inmuiere,stridii,coama-leului",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Acces complet",
+    "subscription_description": "Timp de înmuiere, prognoză de rodire, jurnal bușteni.",
+    "description": "Cultivi shiitake, ciuperci-stridie sau coama-leului pe bușteni de esență tare? Shiitake Log transformă vremea locală — temperatură, precipitații, umiditate — în indicații clare: când să înmoi bușteanul, când să forțezi rodirea și când vine o rodire naturală.\n\nCUM FUNCȚIONEAZĂ\n1. Adaugi bușteanul cu data inoculării și specia (shiitake, stridie, coama-leului).\n2. Aplicația calculează orele de înmuiere și zilele de odihnă din vremea locală.\n3. Primești verdictul zilei: înmoaie, forțează, odihnește sau recoltează.\n\nFUNCȚII PRINCIPALE\nCalculator de înmuiere — numărul exact de ore în apă pentru fiecare buștean.\nVerdictul zilei — o recomandare simplă bazată pe vreme și stadiul bușteanului.\nȘansă de rodire — o estimare a probabilității unei rodiri în zilele următoare, după umiditate și temperatură.\n\nFUNCȚII PRO\n- Bușteni și loturi de miceliu nelimitate\n- Prognoza rodirii pe 7 zile înainte\n- Jurnal de recoltă pentru fiecare buștean și specie\n- Mementouri pentru înmuiere și forțare\n- Export jurnal de cultivare\n\nCONFIDENȚIALITATE ÎNAINTE DE TOATE\n- Datele despre bușteni rămân pe dispozitiv\n- Vremea este cerută doar pentru regiunea ta\n- Fără urmărire publicitară sau vânzare de date\n- Nu este necesar un cont\n\nShiitake Log oferă estimări bazate pe vreme și practici uzuale de cultivare, nu un rezultat garantat. Rodirea reală depinde de tulpină, calitatea bușteanului și condițiile locale — folosește-ți observația și experiența proprie.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+  },
+  "sk": {
+    "name": "Shiitake: klátiky, úroda",
+    "subtitle": "Hliva, korálovec: nálet",
+    "promotional_text": "Pestuješ huby na klátikoch? Shiitake Log ti povie, koľko hodín namáčať klátik, kedy oddýchnutý klátik nútiť a kedy počasie prinesie nálet plodníc.",
+    "keywords": "shiitake,huby,klatik,mycelium,urodu,inokulacia,namacanie,plodnice,hliva,koralovec,zahrada,vlhkost",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Plný prístup",
+    "subscription_description": "Čas namáčania, výhľad náletu plodníc, evidencia klátikov.",
+    "description": "Pestuješ shiitake, hlivu ustricovitú alebo korálovec ježatý na tvrdých klátikoch? Shiitake Log premieňa miestne počasie — teplotu, zrážky, vlhkosť — na jasné pokyny: kedy klátik namočiť, kedy vynútiť plodenie a kedy príde prirodzený nálet plodníc.\n\nAKO TO FUNGUJE\n1. Pridaj klátik s dátumom inokulácie a druhom huby (shiitake, hliva, korálovec).\n2. Aplikácia spočíta hodiny namáčania a dni odpočinku podľa miestneho počasia.\n3. Dostaneš dennú radu: namočiť, nútiť, odpočívať alebo zbierať úrodu.\n\nHLAVNÉ FUNKCIE\nKalkulačka namáčania — presný počet hodín vo vode pre každý klátik.\nRada na dnes — jednoduché odporúčanie podľa počasia a stavu klátika.\nŠanca na nálet — odhad pravdepodobnosti náletu plodníc v najbližších dňoch podľa vlhkosti a teploty.\n\nPRO FUNKCIE\n- Neobmedzený počet klátikov a dávok mycélia\n- Výhľad náletu plodníc na 7 dní dopredu\n- Evidencia úrody pre každý klátik a druh huby\n- Pripomienky na namáčanie a nútenie\n- Export denníka pestovania\n\nSÚKROMIE NA PRVOM MIESTE\n- Údaje o klátikoch zostávajú v zariadení\n- Počasie sa zisťuje len pre tvoj región\n- Žiadne reklamné sledovanie ani predaj údajov\n- Účet nie je potrebný\n\nShiitake Log ponúka odhady na základe počasia a bežnej praxe pestovania, nie zaručený výsledok. Skutočné plodenie závisí od kmeňa, kvality klátika a miestnych podmienok — spoľahni sa aj na vlastné pozorovanie a skúsenosť.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+  },
+  "uk": {
+    "name": "Шиітаке: колоди, врожай",
+    "subtitle": "Глива, гериціум: хвиля",
+    "promotional_text": "Вирощуєте гриби на колодах? Shiitake Log підкаже, скільки годин замочувати колоду, коли вона відпочила для форсування і коли погода дасть хвилю врожаю.",
+    "keywords": "шиітаке,глива,міцелій,колоди,гриби,врожай,плодоношення,замочування,інокуляція,гериціум,дача,вологи",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Повний доступ",
+    "subscription_description": "Час замочування, прогноз хвилі плодоношення, облік колод.",
+    "description": "Вирощуєте шиітаке, гливу або гериціум гребінчастий на дубових колодах? Shiitake Log перетворює місцеву погоду — температуру, опади, вологість — на прості підказки: коли замочувати колоду, коли форсувати плодоношення і коли чекати природну хвилю врожаю.\n\nЯК ЦЕ ПРАЦЮЄ\n1. Додайте колоду з датою інокуляції та видом гриба (шиітаке, глива, гериціум).\n2. Застосунок рахує години замочування та дні відпочинку за місцевою погодою.\n3. Отримуйте щоденний вердикт: замочувати, форсувати, відпочивати чи збирати врожай.\n\nОСНОВНІ ФУНКЦІЇ\nКалькулятор замочування — точна кількість годин у воді для кожної колоди.\nВердикт на сьогодні — просте рішення на основі погоди та стадії колоди.\nШанс плодоношення — оцінка ймовірності хвилі найближчими днями за вологістю й температурою.\n\nPRO ФУНКЦІЇ\n- Необмежена кількість колод і партій міцелію\n- Прогноз хвилі плодоношення на 7 днів наперед\n- Облік врожаю по кожній колоді та виду гриба\n- Нагадування про замочування й форсування\n- Експорт журналу грибниці\n\nПРИВАТНІСТЬ НАСАМПЕРЕД\n- Дані про колоди зберігаються на пристрої\n- Погода запитується лише для вашого регіону\n- Жодних рекламних трекерів чи продажу даних\n- Обліковий запис не обов'язковий\n\nShiitake Log дає орієнтовні підказки на основі погоди та загальної практики грибівництва, а не гарантований результат. Реальне плодоношення залежить від штаму, якості колоди та місцевих умов — покладайтесь і на власний досвід спостереження.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+  },
+  "hr": {
+    "name": "Shiitake: klade, urod",
+    "subtitle": "Bukovača, ježinac: val",
+    "promotional_text": "Uzgajaš gljive na kladama? Shiitake Log ti kaže koliko sati namakati kladu, kada je odmorna za forsiranje i kada vrijeme donosi prirodni val plodova.",
+    "keywords": "shiitake,gljive,klada,micelij,urod,inokulacija,namakanje,plodonošenje,bukovača,ježinac,vrt,vlažnost",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Puni pristup",
+    "subscription_description": "Vrijeme namakanja, izgledi vala plodova, evidencija klada.",
+    "description": "Uzgajaš shiitake, bukovaču ili koraljasti bodljikavac (ježinac) na tvrdim kladama? Shiitake Log pretvara lokalno vrijeme — temperaturu, oborine, vlažnost — u jasne upute: kada namočiti kladu, kada forsirati plodonošenje i kada stiže prirodni val uroda.\n\nKAKO FUNKCIONIRA\n1. Dodaj kladu s datumom inokulacije i vrstom gljive (shiitake, bukovača, ježinac).\n2. Aplikacija računa sate namakanja i dane odmora prema lokalnom vremenu.\n3. Dobivaš dnevnu preporuku: namoči, forsiraj, odmaraj ili beri urod.\n\nGLAVNE ZNAČAJKE\nKalkulator namakanja — točan broj sati u vodi za svaku kladu.\nPreporuka za danas — jednostavna odluka na temelju vremena i faze klade.\nŠansa za plodonošenje — procjena vjerojatnosti vala plodova u sljedećim danima prema vlažnosti i temperaturi.\n\nPRO ZNAČAJKE\n- Neograničen broj klada i serija micelija\n- Izgledi vala plodonošenja 7 dana unaprijed\n- Evidencija uroda po svakoj kladi i vrsti gljive\n- Podsjetnici za namakanje i forsiranje\n- Izvoz dnevnika uzgoja\n\nPRIVATNOST NA PRVOM MJESTU\n- Podaci o kladama ostaju na uređaju\n- Vrijeme se dohvaća samo za tvoju regiju\n- Bez oglasnog praćenja ili prodaje podataka\n- Račun nije obavezan\n\nShiitake Log daje procjene na temelju vremena i uobičajene prakse uzgoja, ne zajamčen rezultat. Stvarno plodonošenje ovisi o soju, kvaliteti klade i lokalnim uvjetima — oslanjaj se i na vlastito promatranje i iskustvo.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+  },
+  "bg": {
+    "name": "Шийтаке Лог: Накисване",
+    "subtitle": "Стриди, Лъвска грива, Плод",
+    "promotional_text": "Отглеждате шийтаке, стриди или лъвска грива на пънове? Шийтаке Лог показва часовете за накисване, кога да принудите и кога идва плодов прилив.",
+    "description": "Отглеждате шийтаке, стридени гъби или лъвска грива на дървени пънове? Шийтаке Лог превръща времето и цикъла на всеки пън в ясен отговор — НАКИСВАНЕ, ПРИНУЖДАВАНЕ, ПОЧИВКА или ПРИБИРАНЕ — за да знаете какво да правите в двора днес.\n\nНакисването изглежда лесно, докато не се обърка. Накиснете твърде рано и пънът не се възстановява; принуждавайте твърде често и изразходвате живота му; пропуснете дъжд за накисване и естественият плодов прилив отминава.\n\nКАК РАБОТИ:\n1. Добавете всеки пън: вид гъба и щам, дървесина, диаметър, кора и дата на инокулация.\n2. Шийтаке Лог чете местната температура, валежите и влажността.\n3. Получавате присъда за всеки пън поотделно.\n\nОСНОВНИ ФУНКЦИИ:\nКалкулатор за накисване, Присъда за деня, Шанс за плодов прилив.\n\nPRO ФУНКЦИИ:\n- неограничен брой пънове\n- табло за двора\n- планиране на разфазово накисване\n- напомняния\n- бюджет за живота на пъна\n- дневник на плодовите приливи\n\nПОВЕРИТЕЛНОСТ НА ПЪРВО МЯСТО:\n- без акаунт\n- локално съхранение\n- локация само за времето\n- без проследяване и реклами\n\nЗабележка: насоките се базират на публични метеорологични данни и общи препратки за отглеждане. Винаги проверявайте пъновете лично. Яжте само гъби от известен, етикетиран мицел. Това не е инструмент за търсене или идентификация на диви гъби. Няма медицински твърдения.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "гъби,шийтаке,стриди,лъвскагрива,пън,инокулация,накисване,плодуване,отглеждане,дъб,спори,гъбарство",
+    "subscription_name": "Шийтаке Лог Про",
+    "subscription_display_name": "Про — Пълен достъп",
+    "subscription_description": "Часове за накисване, прогноза за плодов прилив, проследяване на двора"
+  },
+  "el": {
+    "name": "Μανιτάρια Κούτσουρο: Καρπός",
+    "subtitle": "Στρείδι, Λιονταρίσια Χαίτη",
+    "promotional_text": "Καλλιεργείτε σιιτάκε, στρείδι ή λιονταρίσια χαίτη σε κούτσουρα; Το Shiitake Log δείχνει πόσες ώρες μούλιασμα χρειάζεται κάθε κούτσουρο και πότε έρχεται καρποφορία.",
+    "description": "Καλλιεργείτε σιιτάκε, στρείδι μανιτάρια ή λιονταρίσια χαίτη σε κούτσουρα σκληρού ξύλου; Το Shiitake Log μετατρέπει τον καιρό και τον κύκλο κάθε κούτσουρου σε μία σαφή απόφαση — ΜΟΥΛΙΑΣΜΑ, ΕΞΑΝΑΓΚΑΣΜΟΣ, ΑΝΑΠΑΥΣΗ ή ΣΥΓΚΟΜΙΔΗ — ώστε να ξέρετε τι να κάνετε στην αυλή σήμερα.\n\nΤο μούλιασμα φαίνεται απλό μέχρι να μην είναι. Μουλιάζετε πολύ νωρίς και το κούτσουρο δεν αναρρώνει· εξαναγκάζετε πολύ συχνά και εξαντλείτε τη ζωή του· χάνετε μια βροχή μουλιάσματος και μια φυσική καρποφορία περνάει απαρατήρητη.\n\nΠΩΣ ΛΕΙΤΟΥΡΓΕΙ:\n1. Προσθέστε κάθε κούτσουρο: είδος και στέλεχος, τύπος ξύλου, διάμετρος, φλοιός και ημερομηνία εμβολιασμού.\n2. Το Shiitake Log διαβάζει την τοπική θερμοκρασία, βροχόπτωση και υγρασία.\n3. Λαμβάνετε απόφαση για κάθε κούτσουρο ξεχωριστά.\n\nΒΑΣΙΚΑ ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ:\nΥπολογιστής Μουλιάσματος, Απόφαση Ημέρας, Πιθανότητα Καρποφορίας.\n\nPRO ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ:\n- απεριόριστα κούτσουρα\n- πίνακας αυλής\n- σχεδιασμός σταδιακού μουλιάσματος\n- υπενθυμίσεις\n- προϋπολογισμός διάρκειας ζωής\n- ημερολόγιο καρποφορίας\n\nΑΠΟΡΡΗΤΟ ΠΡΩΤΑ:\n- χωρίς λογαριασμό\n- τοπική αποθήκευση\n- τοποθεσία μόνο για τον καιρό\n- χωρίς παρακολούθηση ή διαφημίσεις\n\nΣημείωση: οι οδηγίες βασίζονται σε δημόσια μετεωρολογικά δεδομένα και γενικές αναφορές καλλιέργειας. Ελέγχετε πάντα τα κούτσουρα οπτικά. Τρώτε μόνο μανιτάρια από γνωστό, επισημασμένο μυκήλιο. Δεν είναι εργαλείο αναγνώρισης άγριων μανιταριών. Καμία ιατρική διαβεβαίωση.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "μανιτάρια,σιιτάκε,στρείδι,λιονταρίσιαχαίτη,κούτσουρο,εμβολιασμός,μούλιασμα,καρποφορία,καλλιέργεια",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Πλήρης Πρόσβαση",
+    "subscription_description": "Χρόνος μουλιάσματος, εκτίμηση καρποφορίας, παρακολούθηση αυλής"
+  },
+  "ca": {
+    "name": "Shiitake Log: Remull i Collita",
+    "subtitle": "Gírgola, Crinera de Lleó",
+    "promotional_text": "Cultives shiitake, gírgoles o crinera de lleó en troncs? Shiitake Log et diu quantes hores de remull calen, quan forçar i quan arriba la fructificació.",
+    "description": "Cultives shiitake, gírgoles o crinera de lleó en troncs de fusta dura? Shiitake Log converteix el temps i el cicle de cada tronc en una resposta clara — REMULL, FORÇAR, REPÒS o COLLITA — perquè sàpigues què fer al pati avui.\n\nEl remull sembla senzill fins que deixa de ser-ho. Remullar massa aviat i el tronc no es recupera; forçar massa sovint i n'esgotes la vida útil; perdre una pluja de remull i una fructificació natural se t'escapa.\n\nCOM FUNCIONA:\n1. Afegeix cada tronc: espècie i soca, tipus de fusta, diàmetre, escorça i data d'inoculació.\n2. Shiitake Log llegeix la temperatura, la pluja i la humitat locals.\n3. Obtens un veredicte per a cada tronc.\n\nFUNCIONS PRINCIPALS:\nCalculadora de Remull, Veredicte del Dia, Probabilitat de Fructificació.\n\nFUNCIONS PRO:\n- troncs il·limitats\n- tauler del pati\n- planificador de remull esglaonat\n- recordatoris\n- pressupost de vida útil\n- registre de fructificacions\n\nPRIVACITAT PRIMER:\n- sense compte\n- emmagatzematge local\n- ubicació només per al temps\n- sense seguiment ni anuncis\n\nAvís: les indicacions es basen en dades meteorològiques públiques i referències generals de cultiu. Comprova sempre els troncs visualment. Menja només bolets d'inòcul conegut i etiquetat. No és una eina d'identificació de bolets silvestres. Cap afirmació mèdica.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "bolets,shiitake,gírgola,crineradelleó,tronc,inoculació,remull,fructificació,cultiu,roure",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Accés Complet",
+    "subscription_description": "Temps de remull, previsió de fructificació, seguiment del pati"
+  },
+  "en-GB": {
+    "name": "Shiitake Log: Soak & Fruiting",
+    "subtitle": "Oyster & Lion's Mane Flush",
+    "promotional_text": "Growing mushrooms on logs? Shiitake Log tells you how long to soak each log, when it's rested enough to force, and when the weather brings a flush.",
+    "description": "Growing shiitake, oyster, or lion's mane mushrooms on hardwood logs? Shiitake Log turns the weather and each log's own cycle into one clear answer - SOAK, FORCE, REST, or HARVEST - so you know what to do in the garden today.\n\nSoaking looks simple until it isn't. Soak too soon and a log won't recover; force too often and you burn through its lifespan; miss a soaking rain and a natural flush slips by.\n\nHOW IT WORKS:\n1. Add each log: species and strain, wood type, diameter, bark, and inoculation date.\n2. Shiitake Log reads your local temperature, rainfall, and humidity.\n3. You get a per-log verdict.\n\nCORE FEATURES:\nSoak Calculator, Today's Verdict, Fruiting Chance.\n\nPRO FEATURES:\n- unlimited logs\n- garden dashboard\n- staggered-soak planner\n- reminders\n- lifespan budget\n- flush log\n\nPRIVACY FIRST:\n- no account\n- local storage\n- location only for weather\n- no tracking or adverts\n\nDisclaimer: guidance is based on public weather data and general growing references. Always verify by inspecting your logs. Only eat mushrooms from known, labelled spawn. This is not a foraging or identification tool. No health claims.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "mushroom,grow,spawn,plug,forcing,harvest,oak,cultivation,fungi,moisture,homestead,pinning,shade,tarp",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Full Access",
+    "subscription_description": "Soak timing, flush outlook, garden log tracker"
+  },
+  "ar": {
+    "name": "فطر شيتاكي: نقع وحصاد",
+    "subtitle": "فطر المحار، عرف الأسد",
+    "promotional_text": "تزرع شيتاكي أو فطر المحار أو عرف الأسد على الجذوع؟ يخبرك التطبيق بعدد ساعات النقع لكل جذع، ومتى ينضج للتحفيز، ومتى يأتي موسم الحصاد الطبيعي.",
+    "description": "هل تزرع شيتاكي أو فطر المحار أو عرف الأسد على جذوع الأخشاب الصلبة؟ يحوّل التطبيق حالة الطقس ودورة كل جذع إلى قرار واضح — نقع، تحفيز، راحة، أو حصاد — لتعرف ماذا تفعل في الفناء اليوم.\n\nيبدو النقع بسيطًا حتى تخطئ فيه. النقع المبكر يمنع الجذع من التعافي، والتحفيز المتكرر يستنزف عمر الجذع، وتفويت مطر النقع يعني تفويت موسم حصاد طبيعي.\n\nكيف يعمل التطبيق:\n1. أضف كل جذع: النوع والسلالة، نوع الخشب، القطر، اللحاء، وتاريخ التلقيح.\n2. يقرأ التطبيق درجة الحرارة المحلية وكمية الأمطار والرطوبة.\n3. تحصل على قرار خاص بكل جذع.\n\nالميزات الأساسية:\nحاسبة النقع، قرار اليوم، فرصة الحصاد.\n\nميزات النسخة المدفوعة:\n- عدد غير محدود من الجذوع\n- لوحة تحكم للفناء\n- مخطط نقع متدرج\n- تذكيرات\n- ميزانية عمر الجذع\n- سجل مواسم الحصاد\n\nالخصوصية أولاً:\n- بدون حساب\n- تخزين محلي\n- الموقع الجغرافي لأغراض الطقس فقط\n- بدون تتبع أو إعلانات\n\nتنويه: الإرشادات مبنية على بيانات طقس عامة ومراجع زراعة عامة. تحقق دائمًا بفحص الجذوع بنفسك. لا تأكل إلا الفطر من مصدر تلقيح معروف وموسوم. هذا التطبيق ليس أداة لتحديد أو جمع الفطر البري. لا توجد ادعاءات صحية.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "فطر,شيتاكي,فطرالمحار,عرفالأسد,جذوع,تلقيح,نقع,حصاد,زراعةالفطر,بلوط",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "برو — وصول كامل",
+    "subscription_description": "توقيت النقع، توقعات الحصاد، متابعة الفناء"
+  },
+  "he": {
+    "name": "שיטאקי: השריה וקציר",
+    "subtitle": "פטריית צדפה ורעמת האריה",
+    "promotional_text": "מגדלים פטריות על בולי עץ? האפליקציה אומרת כמה שעות להשרות כל בול, מתי הוא מוכן לכפיית פטרייה, ומתי מזג האוויר מביא גל קציר של שיטאקי, צדפה או רעמת האריה.",
+    "description": "מגדלים שיטאקי, צדפה או רעמת האריה על בולי עץ? שיטאקי לוג עוזר לכם לדעת מתי להשרות, מתי לכפות פריחה ומתי לקצור – לפי מזג האוויר המקומי שלכם.\n\nאיך זה עובד:\n1. הזינו את סוג הפטרייה ומיקום בול העץ.\n2. האפליקציה עוקבת אחר טמפרטורה, גשם ולחות באזור שלכם.\n3. קבלו המלצה יומית: להשרות, לנוח, לכפות פריחה או לקצור.\n\nתכונות ליבה:\nמחשבון השריה – כמה שעות להשרות כל בול, לפי סוג הפטרייה ומזג האוויר.\nפסק הדין היומי – המלצה ברורה לכל בול, כל יום.\nסיכוי לפריחה – הערכה של הסיכוי לגל קציר בימים הקרובים.\n\nתכונות פרו:\nמעקב אחר מספר בלתי מוגבל של בולים בחצר.\nתחזיות מורחבות לימים קדימה.\nהיסטוריית השריה וקציר לכל בול.\nתזכורות מותאמות אישית להשריה וכפייה.\n\nפרטיות תחילה:\nאין איסוף נתוני מיקום מדויקים ללא צורך.\nאין מכירת נתונים אישיים לצדדים שלישיים.\nכל נתוני הבולים נשמרים במכשיר שלכם.\n\nהאפליקציה מספקת הערכות מבוססות מזג אוויר בלבד ואינה מהווה תחליף לניסיון וידע אישי בגידול פטריות. תוצאות בפועל תלויות בעץ, בזן הפטרייה ובתנאים מקומיים.\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "שיטאקי,צדפה,רעמת האריה,בולי עץ,גידול פטריות,השריה,קציר,תרביות,הדבקה,לחות,צל,ברזנט",
+    "subscription_name": "שיטאקי לוג פרו",
+    "subscription_display_name": "פרו — גישה מלאה",
+    "subscription_description": "תזמון השריה, תחזית גל קציר, מעקב אחר בולי עץ בחצר"
+  },
+  "hi": {
+    "name": "शिटाके लॉग: भिगोना",
+    "subtitle": "ऑयस्टर व लायन्स मेन मशरूम",
+    "promotional_text": "लट्ठों पर मशरूम उगाते हैं? जानें कितने घंटे भिगोना है, कब फ्लश आएगा, और शिटाके, ऑयस्टर, लायन्स मेन की कटाई का समय।",
+    "description": "क्या आप लट्ठों पर शिटाके, ऑयस्टर या लायन्स मेन मशरूम उगाते हैं? शिटाके लॉग आपको बताता है कि कब भिगोना है, कब फ्लश के लिए दबाव डालना है और कब कटाई करनी है - आपके स्थानीय मौसम के अनुसार।\n\nयह कैसे काम करता है:\n1. मशरूम की किस्म और लट्ठे की जगह डालें।\n2. ऐप तापमान, बारिश और नमी को ट्रैक करता है।\n3. रोज़ की सलाह पाएं: भिगोना, आराम, फ्लश या कटाई।\n\nमुख्य सुविधाएं:\nभिगोने का कैलकुलेटर - मौसम के अनुसार हर लट्ठे को कितने घंटे भिगोना है।\nआज की सलाह - हर लट्ठे के लिए स्पष्ट दैनिक सलाह।\nफ्लश की संभावना - आने वाले दिनों में फ्लश की अनुमानित संभावना।\n\nप्रो सुविधाएं:\nअसीमित लट्ठों को ट्रैक करें।\nआगे के दिनों का विस्तृत पूर्वानुमान।\nहर लट्ठे का भिगोने और कटाई का इतिहास।\nभिगोने और फ्लश के लिए कस्टम रिमाइंडर।\n\nगोपनीयता पहले:\nसटीक लोकेशन डेटा बिना ज़रूरत के इकट्ठा नहीं किया जाता।\nव्यक्तिगत डेटा तीसरे पक्ष को नहीं बेचा जाता।\nसभी लट्ठों का डेटा आपके डिवाइस पर रहता है।\n\nयह ऐप केवल मौसम पर आधारित अनुमान देता है और मशरूम उगाने के व्यक्तिगत अनुभव व ज्ञान का विकल्प नहीं है। असल नतीजे लकड़ी, मशरूम की किस्म और स्थानीय परिस्थितियों पर निर्भर करते हैं।\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "शिटाके,ऑयस्टर मशरूम,लायन्स मेन,लट्ठा,भिगोना,कटाई,स्पॉन,खेती,नमी,फफूंद,छाया",
+    "subscription_name": "शिटाके लॉग प्रो",
+    "subscription_display_name": "प्रो — पूर्ण एक्सेस",
+    "subscription_description": "भिगोने का समय, फ्लश का पूर्वानुमान, लट्ठों का ट्रैकर"
+  },
+  "th": {
+    "name": "เห็ดหอม: แช่ท่อนไม้",
+    "subtitle": "เห็ดนางรม เห็ดไลออนเมน",
+    "promotional_text": "ปลูกเห็ดบนท่อนไม้อยู่ไหม? แอปนี้บอกว่าต้องแช่ท่อนไม้กี่ชั่วโมง เมื่อไรพร้อมกระตุ้นออกดอก และเมื่อไรอากาศจะทำให้เห็ดออกรุ่นใหญ่",
+    "description": "ปลูกเห็ดหอม เห็ดนางรม หรือเห็ดไลออนเมนบนท่อนไม้อยู่ใช่ไหม? แอปนี้บอกคุณว่าเมื่อไรควรแช่น้ำ เมื่อไรควรกระตุ้นให้ออกดอก และเมื่อไรควรเก็บเกี่ยว ตามสภาพอากาศในพื้นที่ของคุณ\n\nวิธีใช้งาน:\n1. เลือกชนิดเห็ดและตำแหน่งท่อนไม้\n2. แอปติดตามอุณหภูมิ ปริมาณฝน และความชื้น\n3. รับคำแนะนำประจำวัน แช่น้ำ พัก กระตุ้นออกดอก หรือเก็บเกี่ยว\n\nฟีเจอร์หลัก:\nเครื่องคำนวณการแช่น้ำ - กี่ชั่วโมงต่อท่อนไม้แต่ละท่อน ตามชนิดเห็ดและสภาพอากาศ\nคำแนะนำวันนี้ - คำแนะนำที่ชัดเจนสำหรับแต่ละท่อนไม้ในแต่ละวัน\nโอกาสออกดอก - การประมาณโอกาสที่เห็ดจะออกรุ่นใหญ่ในไม่กี่วันข้างหน้า\n\nฟีเจอร์โปร:\nติดตามท่อนไม้ได้ไม่จำกัดจำนวน\nพยากรณ์อากาศล่วงหน้าหลายวัน\nประวัติการแช่น้ำและเก็บเกี่ยวของแต่ละท่อน\nการแจ้งเตือนที่ปรับแต่งได้สำหรับการแช่น้ำและกระตุ้นออกดอก\n\nความเป็นส่วนตัวมาก่อน:\nไม่เก็บข้อมูลตำแหน่งที่แม่นยำโดยไม่จำเป็น\nไม่ขายข้อมูลส่วนบุคคลให้บุคคลที่สาม\nข้อมูลท่อนไม้ทั้งหมดเก็บไว้ในอุปกรณ์ของคุณ\n\nแอปนี้ให้การประมาณการตามสภาพอากาศเท่านั้น ไม่ใช่สิ่งทดแทนประสบการณ์และความรู้ส่วนตัวในการเพาะเห็ด ผลลัพธ์จริงขึ้นอยู่กับเนื้อไม้ ชนิดเห็ด และสภาพแวดล้อมในพื้นที่ของคุณ\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "เห็ดหอม,เห็ดนางรม,เห็ดไลออนเมน,ท่อนไม้,แช่น้ำ,เชื้อเห็ด,เพาะเห็ด,เก็บเกี่ยว,ความชื้น,ร่มเงา",
+    "subscription_name": "ชิตาเกะล็อก โปร",
+    "subscription_display_name": "โปร — เข้าถึงเต็มรูปแบบ",
+    "subscription_description": "เวลาแช่น้ำ แนวโน้มการออกดอก และตัวติดตามท่อนไม้ในสวน"
+  },
+  "vi": {
+    "name": "Nấm Hương: Ngâm Gỗ & Thu Hoạch",
+    "subtitle": "Nấm Sò & Hầu Thủ Ra Đợt",
+    "promotional_text": "Trồng nấm trên khúc gỗ? Ứng dụng báo giờ ngâm mỗi khúc, khi nào nghỉ đủ để ép ra nấm, và khi nào có đợt nấm hương, nấm sò, nấm hầu thủ.",
+    "description": "Bạn đang trồng nấm hương, nấm sò hay nấm hầu thủ trên khúc gỗ? Shiitake Log cho bạn biết khi nào nên ngâm gỗ, khi nào gỗ đã nghỉ đủ để ép ra đợt nấm, và khi nào thời tiết mang lại một đợt nấm mới.\n\nCách hoạt động:\n1. Nhập loại nấm và vị trí khúc gỗ của bạn.\n2. Ứng dụng theo dõi nhiệt độ, lượng mưa và độ ẩm tại khu vực của bạn.\n3. Nhận gợi ý mỗi ngày: ngâm nước, nghỉ, ép ra nấm hoặc thu hoạch.\n\nTính năng chính:\nMáy tính thời gian ngâm - số giờ ngâm cho mỗi khúc gỗ, dựa theo loại nấm và thời tiết.\nGợi ý hôm nay - lời khuyên rõ ràng cho từng khúc gỗ mỗi ngày.\nKhả năng ra đợt nấm - ước tính khả năng có đợt nấm mới trong những ngày tới.\n\nTính năng Pro:\nTheo dõi không giới hạn số khúc gỗ.\nDự báo mở rộng cho nhiều ngày tới.\nLịch sử ngâm và thu hoạch của từng khúc gỗ.\nNhắc nhở tùy chỉnh cho việc ngâm và ép ra nấm.\n\nQuyền riêng tư trên hết:\nKhông thu thập dữ liệu vị trí chính xác khi không cần thiết.\nKhông bán dữ liệu cá nhân cho bên thứ ba.\nToàn bộ dữ liệu khúc gỗ được lưu trên thiết bị của bạn.\n\nỨng dụng chỉ đưa ra ước tính dựa trên thời tiết và không thay thế kinh nghiệm, kiến thức cá nhân trong việc trồng nấm. Kết quả thực tế phụ thuộc vào loại gỗ, giống nấm và điều kiện tại chỗ.\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "nấm,trồng nấm,nấm hương,nấm sò,nấm hầu thủ,khúc gỗ,ngâm gỗ,cấy meo,thu hoạch,độ ẩm,che bóng,bạt",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Toàn Quyền Truy Cập",
+    "subscription_description": "Giờ ngâm gỗ, dự báo đợt nấm, theo dõi vườn nấm"
+  },
+  "id": {
+    "name": "Jamur Shiitake: Rendam & Panen",
+    "subtitle": "Tiram & Surai Singa Berbuah",
+    "promotional_text": "Budidaya jamur di kayu log? Aplikasi ini kasih tahu jam rendam tiap log, kapan siap dipacu, dan kapan cuaca bawa panen shiitake, tiram, atau surai singa.",
+    "description": "Sedang budidaya jamur shiitake, tiram, atau surai singa di gelondongan kayu? Shiitake Log memberi tahu kapan harus merendam log, kapan log sudah cukup istirahat untuk dipacu berbuah, dan kapan cuaca mendatangkan panen baru.\n\nCara kerja:\n1. Masukkan jenis jamur dan lokasi log kayu Anda.\n2. Aplikasi memantau suhu, curah hujan, dan kelembaban di area Anda.\n3. Dapatkan saran harian: rendam, istirahat, pacu berbuah, atau panen.\n\nFitur utama:\nKalkulator rendam - berapa jam merendam tiap log, sesuai jenis jamur dan cuaca.\nSaran hari ini - rekomendasi jelas untuk tiap log setiap hari.\nPeluang berbuah - perkiraan peluang panen baru dalam beberapa hari ke depan.\n\nFitur Pro:\nLacak log kayu tanpa batas jumlah.\nPerkiraan cuaca diperluas untuk beberapa hari ke depan.\nRiwayat rendam dan panen untuk tiap log.\nPengingat khusus untuk merendam dan memacu berbuah.\n\nPrivasi diutamakan:\nTidak mengumpulkan data lokasi presisi tanpa keperluan.\nTidak menjual data pribadi ke pihak ketiga.\nSemua data log kayu disimpan di perangkat Anda.\n\nAplikasi ini hanya memberikan perkiraan berdasarkan cuaca dan bukan pengganti pengalaman serta pengetahuan pribadi dalam budidaya jamur. Hasil sebenarnya tergantung pada jenis kayu, varietas jamur, dan kondisi setempat.\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "jamur,budidaya jamur,shiitake,tiram,surai singa,log kayu,rendam,bibit jamur,panen,kelembaban",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Akses Penuh",
+    "subscription_description": "Waktu rendam, prospek panen, pencatat kebun jamur"
+  },
+  "ms": {
+    "name": "Log Shiitake: Rendam & Tuai",
+    "subtitle": "Cendawan Tiram & Surai Singa",
+    "promotional_text": "Tanam cendawan di log kayu? Log Shiitake anggarkan jam rendam setiap log, bila log rehat cukup untuk dipaksa, dan bila cuaca bawa lambakan hasil.",
+    "description": "Menanam cendawan shiitake, tiram atau surai singa di log kayu? Log Shiitake bantu anda tentukan bila hendak rendam log, bila log cukup rehat untuk dipaksa buah, dan bila cuaca membawa lambakan hasil.\n\nCARA IA BERFUNGSI\n1. Tambah log kayu anda (shiitake, tiram, surai singa) dan tarikh inokulasi/rendam terakhir\n2. Log Shiitake semak cuaca tempatan — suhu, hujan, kelembapan\n3. Dapat anggaran harian: RENDAM, PAKSA, REHAT atau TUAI\n\nCIRI UTAMA\n- Kalkulator Rendam: anggaran jam rendam mengikut cuaca semasa\n- Anggaran Hari Ini: cadangan tindakan setiap log, setiap hari\n- Peluang Lambakan: anggaran kemungkinan lambakan buah dalam beberapa hari akan datang\n\nCIRI PRO\n- Jejak log tanpa had merentasi semua jenis cendawan\n- Anggaran lambakan lanjutan mengikut kawasan\n- Peringatan tersuai untuk rendam dan tuai\n- Sejarah cuaca dan trend kelembapan\n- Sokongan keutamaan\n\nPRIVASI DIUTAMAKAN\n- Data log kekal di peranti anda\n- Tiada perkongsian data peribadi dengan pengiklan\n- Data cuaca digunakan semata-mata untuk anggaran\n- Anda boleh padam data anda pada bila-bila masa\n\nLog Shiitake memberi anggaran berdasarkan cuaca tempatan sahaja dan bukan nasihat pertanian atau saintifik yang muktamad. Sentiasa gunakan pemerhatian dan pengalaman anda sendiri bersama aplikasi ini.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "cendawan,shiitake,tiram,surailsinga,logkayu,tuai,penanaman,spawn,inokulasi,kelembapan,rendam",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Akses Penuh",
+    "subscription_description": "Anggaran masa rendam, ramalan lambakan, penjejak log halaman"
+  },
+  "tr": {
+    "name": "Shiitake Log: Islatma ve Hasat",
+    "subtitle": "İstiridye & Aslan Yelesi",
+    "promotional_text": "Kütükte mantar mı yetiştiriyorsunuz? Shiitake Log her kütüğün ıslatma süresini, zorlama zamanını ve havanın getireceği verimi tahmin eder.",
+    "description": "Kütükte mantar mı yetiştiriyorsunuz? Shiitake, istiridye mantarı veya aslan yelesi için Shiitake Log her kütüğü ne zaman ıslatacağınızı, ne zaman zorlamaya hazır olduğunu ve havanın ne zaman bereketli bir hasat getireceğini söyler.\n\nNASIL ÇALIŞIR\n1. Kütüklerinizi ekleyin (shiitake, istiridye, aslan yelesi) ve son aşılama/ıslatma tarihini girin\n2. Shiitake Log yerel hava durumunu kontrol eder — sıcaklık, yağış, nem\n3. Her gün için tahmini karar alın: ISLAT, ZORLA, DİNLENDİR veya HASAT ET\n\nTEMEL ÖZELLİKLER\n- Islatma Hesaplayıcı: güncel havaya göre tahmini ıslatma süresi\n- Bugünün Tahmini: her kütük için günlük öneri\n- Verim Olasılığı: önümüzdeki günlerde mantar patlaması ihtimali tahmini\n\nPRO ÖZELLİKLER\n- Tüm mantar türlerinde sınırsız kütük takibi\n- Bölgeye özel gelişmiş verim tahmini\n- Islatma ve hasat için özel hatırlatıcılar\n- Hava geçmişi ve nem eğilimleri\n- Öncelikli destek\n\nÖNCE GİZLİLİK\n- Kütük verileriniz cihazınızda kalır\n- Kişisel veriler reklamcılarla paylaşılmaz\n- Hava verisi yalnızca tahmin için kullanılır\n- Verilerinizi istediğiniz zaman silebilirsiniz\n\nShiitake Log yalnızca yerel hava durumuna dayalı tahminler sunar; kesin tarımsal veya bilimsel bir tavsiye değildir. Uygulamayla birlikte her zaman kendi gözlemlerinizi ve tecrübenizi kullanın.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "mantar,shiitake,istiridyemantari,aslanyelesi,kütük,aşılama,spawn,hasat,yetiştiricilik,nem,ıslatma",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — Tam Erişim",
+    "subscription_description": "Islatma süresi, verim tahmini, kütük bahçesi takibi"
+  },
+  "ka": {
+    "name": "Shiitake Log: სოკოს მოშენება",
+    "subtitle": "ხის კურო და ლომის ფაფარა",
+    "promotional_text": "სოკოს რგოლებზე ზრდით? Shiitake Log გეუბნებათ რგოლის დასველების ხანგრძლივობას, გამოწვევის დროს და როდის მოაქვს ამინდს მდიდარი მოსავალი.",
+    "description": "რგოლებზე სოკოს — შიიტაკეს, ხის კუროს ან ლომის ფაფარას — მოყავართ? Shiitake Log გეუბნებათ, რამდენ ხანს დაასველოთ თითოეული რგოლი, როდის არის საკმარისად დასვენებული ნაყოფის გამოსაწვევად და როდის მოაქვს ამინდს მდიდარი მოსავალი.\n\nროგორ მუშაობს\n1. დაამატეთ თქვენი რგოლები (შიიტაკე, ხის კურო, ლომის ფაფარა) და უკანასკნელი დანესვის/დასველების თარიღი\n2. Shiitake Log ამოწმებს ადგილობრივ ამინდს — ტემპერატურას, ნალექს, ტენიანობას\n3. მიიღეთ ყოველდღიური შეფასება: დასველება, გამოწვევა, დასვენება ან მოსავლის აღება\n\nძირითადი ფუნქციები\n- დასველების კალკულატორი: სავარაუდო საათები მიმდინარე ამინდის მიხედვით\n- დღევანდელი შეფასება: ყოველდღიური რჩევა თითოეული რგოლისთვის\n- მოსავლის ალბათობა: მოახლოებული დღეების მოსავლიანობის შეფასება\n\nPRO ფუნქციები\n- ულიმიტო რგოლების აღრიცხვა ყველა სახეობისთვის\n- დეტალური მოსავლის პროგნოზი რეგიონის მიხედვით\n- პერსონალური შეხსენებები დასველებისა და მოსავლისთვის\n- ამინდის ისტორია და ტენიანობის ტენდენციები\n- პრიორიტეტული მხარდაჭერა\n\nპირველ რიგში კონფიდენციალურობა\n- თქვენი რგოლების მონაცემები რჩება მოწყობილობაზე\n- პირადი მონაცემები რეკლამის კომპანიებს არ ეზიარება\n- ამინდის მონაცემები გამოიყენება მხოლოდ შეფასებისთვის\n- მონაცემების წაშლა შეგიძლიათ ნებისმიერ დროს\n\nShiitake Log იძლევა მხოლოდ ადგილობრივ ამინდზე დაფუძნებულ შეფასებებს და არ წარმოადგენს საბოლოო აგრონომიულ ან სამეცნიერო რჩევას. ყოველთვის დაეყრდნეთ საკუთარ დაკვირვებას და გამოცდილებას აპლიკაციასთან ერთად.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "სოკო,შიიტაკე,ხისკურო,ლომისფაფარა,რგოლი,დანესვა,spawn,მოსავალი,მოშენება,ტენიანობა,დასველება,ბაღი",
+    "subscription_name": "Shiitake Log Pro",
+    "subscription_display_name": "Pro — სრული წვდომა",
+    "subscription_description": "დასველების დრო, მოსავლის პროგნოზი, რგოლების აღრიცხვა"
+  }
+}
